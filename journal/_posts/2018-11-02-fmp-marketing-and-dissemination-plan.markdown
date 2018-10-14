@@ -9,6 +9,7 @@ categories: FMP
 
 PlantIO
 
+Grow perfect food, automatically.
 * TOC
 {:toc}
 
@@ -17,7 +18,7 @@ PlantIO
 
 ### Value Proposition
 
-Grow perfect food, automatically.
+Plant**IO** allows you to grow perfect food for your family all year round at a low cost to you and the environment, completely automatically.
 
 ### Summary
 
@@ -46,7 +47,9 @@ Grow perfect food, automatically.
 ##### Funding
 [//]: # (Clearly no business can grow fast without the right funding, and so capital is another key growth driver. Finding the right form of financial backing, and at the right time, is critical. That’s not to say that high growth can only be achieved with large amounts of funding, or that high funding levels will automatically result in fast growth.)
 
-**Ruuts are looking for £250,000 of funding to take the product to market.** This will cover salary for all 3 founders over the course of 15 months of product development, starting in January 2019 after creation of the MVP. It will also cover investment in an initial stock of 100 Plant**IO** units.
+**Ruuts are looking for £250,000 of funding to take the product to market.**
+
+This will cover salary for all 3 founders over the course of 15 months of product development, starting in January 2019 after creation of the MVP. It will also cover investment in an initial stock of 100 Plant**IO** units.
 
 ##### Transactions
 [//]: # (Transactions are also important for driving growth. These could include alliances in the form of strong supplier relationships. In addition, as the business grows, mergers and acquisitions may offer the potential to achieve a step change in growth, or facilitate entry into a new geographical market or a complementary service area.)
@@ -88,7 +91,10 @@ Grow perfect food, automatically.
 </table>
 
 #### Differentiation compared to competitors
-Plant**IO** 
+Plant**IO** is differentiating from the competition in two main areas:
+ * Pricing model
+ * Product offering
+
 #### Market Behaviours
 
 ### Projections
@@ -164,7 +170,7 @@ Finally, your plan needs to identify the timeline for execution, including next 
 
 ### Continued User Engagement
 
-
+
 ## Appendix
 
 Competitor Case Studies
