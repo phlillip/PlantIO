@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Critical Reflective Journal</title>
+    <description>As part of my MA in Creative App Development, I will be keeping this weekly blog to increase self-awareness and understanding as I develop my skills.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 14 Oct 2018 14:30:59 +0100</pubDate>
+    <lastBuildDate>Sun, 14 Oct 2018 14:30:59 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Marketing &amp; Dissemination Plan</title>
+        <description>&lt;p&gt;PlantIO&lt;/p&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#product-overview&quot; id=&quot;markdown-toc-product-overview&quot;&gt;Product Overview&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#value-proposition&quot; id=&quot;markdown-toc-value-proposition&quot;&gt;Value Proposition&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#summary&quot; id=&quot;markdown-toc-summary&quot;&gt;Summary&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;Description&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#features&quot; id=&quot;markdown-toc-features&quot;&gt;Features&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#technical-information&quot; id=&quot;markdown-toc-technical-information&quot;&gt;Technical information&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#audience&quot; id=&quot;markdown-toc-audience&quot;&gt;Audience&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#go-to-market-gtm-strategy&quot; id=&quot;markdown-toc-go-to-market-gtm-strategy&quot;&gt;Go-To-Market (GTM) Strategy&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#business-plan&quot; id=&quot;markdown-toc-business-plan&quot;&gt;Business Plan&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#core-business-drivers&quot; id=&quot;markdown-toc-core-business-drivers&quot;&gt;Core business drivers&lt;/a&gt;            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;#strategy&quot; id=&quot;markdown-toc-strategy&quot;&gt;Strategy&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#the-ruuts-team--operations&quot; id=&quot;markdown-toc-the-ruuts-team--operations&quot;&gt;The Ruuts Team &amp;amp; Operations&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#funding&quot; id=&quot;markdown-toc-funding&quot;&gt;Funding&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#transactions&quot; id=&quot;markdown-toc-transactions&quot;&gt;Transactions&lt;/a&gt;&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;#risk--reporting&quot; id=&quot;markdown-toc-risk--reporting&quot;&gt;Risk &amp;amp; Reporting&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#key-performance-indicators&quot; id=&quot;markdown-toc-key-performance-indicators&quot;&gt;Key Performance Indicators&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#differentiation-compared-to-competitors&quot; id=&quot;markdown-toc-differentiation-compared-to-competitors&quot;&gt;Differentiation compared to competitors&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#market-behaviours&quot; id=&quot;markdown-toc-market-behaviours&quot;&gt;Market Behaviours&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#projections&quot; id=&quot;markdown-toc-projections&quot;&gt;Projections&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#product-strategy&quot; id=&quot;markdown-toc-product-strategy&quot;&gt;Product Strategy&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#channel-strategy&quot; id=&quot;markdown-toc-channel-strategy&quot;&gt;Channel Strategy&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#marketing-strategy&quot; id=&quot;markdown-toc-marketing-strategy&quot;&gt;Marketing Strategy&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#customer-experience&quot; id=&quot;markdown-toc-customer-experience&quot;&gt;Customer Experience&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#technical-requirements&quot; id=&quot;markdown-toc-technical-requirements&quot;&gt;Technical Requirements&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#evaluation&quot; id=&quot;markdown-toc-evaluation&quot;&gt;Evaluation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#timeline-and-execution&quot; id=&quot;markdown-toc-timeline-and-execution&quot;&gt;Timeline and Execution&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#launch&quot; id=&quot;markdown-toc-launch&quot;&gt;Launch&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#beta-launch&quot; id=&quot;markdown-toc-beta-launch&quot;&gt;Beta Launch&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#press-release&quot; id=&quot;markdown-toc-press-release&quot;&gt;Press release&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#social-media&quot; id=&quot;markdown-toc-social-media&quot;&gt;Social media&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#analytics&quot; id=&quot;markdown-toc-analytics&quot;&gt;Analytics&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#feedback-channels&quot; id=&quot;markdown-toc-feedback-channels&quot;&gt;Feedback Channels&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#bug-tracking&quot; id=&quot;markdown-toc-bug-tracking&quot;&gt;Bug Tracking&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#post-launch&quot; id=&quot;markdown-toc-post-launch&quot;&gt;Post Launch&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#maintenance&quot; id=&quot;markdown-toc-maintenance&quot;&gt;Maintenance&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#future-development&quot; id=&quot;markdown-toc-future-development&quot;&gt;Future Development&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#continued-user-engagement&quot; id=&quot;markdown-toc-continued-user-engagement&quot;&gt;Continued User Engagement&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#appendix&quot; id=&quot;markdown-toc-appendix&quot;&gt;Appendix&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;product-overview&quot;&gt;Product Overview&lt;/h2&gt;
+
+&lt;h3 id=&quot;value-proposition&quot;&gt;Value Proposition&lt;/h3&gt;
+
+&lt;p&gt;Grow perfect food, automatically.&lt;/p&gt;
+
+&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+
+&lt;h4 id=&quot;description&quot;&gt;Description&lt;/h4&gt;
+
+&lt;h4 id=&quot;features&quot;&gt;Features&lt;/h4&gt;
+
+&lt;h4 id=&quot;technical-information&quot;&gt;Technical information&lt;/h4&gt;
+
+&lt;h3 id=&quot;audience&quot;&gt;Audience&lt;/h3&gt;
+
+&lt;h2 id=&quot;go-to-market-gtm-strategy&quot;&gt;Go-To-Market (GTM) Strategy&lt;/h2&gt;
+
+&lt;h3 id=&quot;business-plan&quot;&gt;Business Plan&lt;/h3&gt;
+
+&lt;h4 id=&quot;core-business-drivers&quot;&gt;Core business drivers&lt;/h4&gt;
+&lt;h5 id=&quot;strategy&quot;&gt;Strategy&lt;/h5&gt;
+
+&lt;h5 id=&quot;the-ruuts-team--operations&quot;&gt;The Ruuts Team &amp;amp; Operations&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;Ruuts is powered by 3 founders all of whom are key individuals with unique skills.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;funding&quot;&gt;Funding&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;Ruuts are looking for £250,000 of funding to take the product to market.&lt;/strong&gt; This will cover salary for all 3 founders over the course of 15 months of product development, starting in January 2019 after creation of the MVP. It will also cover investment in an initial stock of 100 Plant&lt;strong&gt;IO&lt;/strong&gt; units.&lt;/p&gt;
+
+&lt;h5 id=&quot;transactions&quot;&gt;Transactions&lt;/h5&gt;
+
+&lt;h5 id=&quot;risk--reporting&quot;&gt;Risk &amp;amp; Reporting&lt;/h5&gt;
+
+&lt;h4 id=&quot;key-performance-indicators&quot;&gt;Key Performance Indicators&lt;/h4&gt;
+&lt;p&gt;Goal
+KPI
+Year 1 Target
+Year 2 Target
+Year 3 Target
+Mass adoption of consumer unit
+Number of sales of the PlantIO system
+100 units
+500 units
+5000 units
+Active, growing knowledge base &amp;amp; online community
+Number of monthly active users (MAU) on forum
+launch
+50 MAU
+500 MAU
+Integration into SMB market
+Number of custom installs
+1 install
+10 installs
+50 installs&lt;/p&gt;
+
+&lt;h4 id=&quot;differentiation-compared-to-competitors&quot;&gt;Differentiation compared to competitors&lt;/h4&gt;
+&lt;h4 id=&quot;market-behaviours&quot;&gt;Market Behaviours&lt;/h4&gt;
+
+&lt;h3 id=&quot;projections&quot;&gt;Projections&lt;/h3&gt;
+
+&lt;h3 id=&quot;product-strategy&quot;&gt;Product Strategy&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This section of the plan identifies the key products you will launch in your cloud portfolio, along with any bundling plans, special promotions, or other attachment strategies that will help you sell the products—including upselling and cross-selling to both new and existing customers. Any specifics you can include about differentiators between your offerings and those of your competitors will help you build your sales messaging as you progress further into the launch.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Key Products
+PlantIO base system
+Heirloom seedpacks
+PlantIO app
+Bundling plans
+Special Promotions / Attachment strategies
+Up-sells &amp;amp; Cross-sells
+Differentiation compared to competitors&lt;/p&gt;
+
+&lt;h3 id=&quot;channel-strategy&quot;&gt;Channel Strategy&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is where you identify the primary channels that you’ll use—both to sell your products and to educate and support your customers—along with the resources, training, and incentives that will drive channel performance. In complex channel organizations, products and offers may differ from one channel to the next, playing on the unique advantages of specific channels, such as direct sales teams or online portals.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Millennial Man Mark
+Frequency
+Engagement
+Usage
+Vertical Specific
+Channel
+Sales Funnel Position
+Financial Model
+Handling User Needs&lt;/p&gt;
+
+&lt;h3 id=&quot;marketing-strategy&quot;&gt;Marketing Strategy&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This section summarizes the activities you’ll use to drive awareness and generate leads, both in your identified markets and within your existing customer base. In large organizations, the marketing strategy may also include activities for generating internal awareness. Such internally oriented activities are particularly important in situations where many groups will “touch” customers as they progress from purchase to activation to support.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;customer-experience&quot;&gt;Customer Experience&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This section documents the anticipated customer journey—either at a high level or in detail. Starting with how customers first hear about a product, it progresses through their purchase, activation, renewal, and possible cancellation. Exploring this journey helps to identify any “fall-off” points that may reduce conversion rates, or drive churn, while also helping to ensure that you’ll have the right people and systems in place to support the new products.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;technical-requirements&quot;&gt;Technical Requirements&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This section documents the technical requirements needed to support the new products. These requirements, which may be affected by decisions made in the previous sections of the plan, may include branding your customer-facing portals, and integrating sales and provisioning systems with third-party resources you’ve employed. Parallels can help you identify the technical requirements needed to launch your products.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;evaluation&quot;&gt;Evaluation&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is where you spell out and prioritize the factors you’ll use to measure your success—for example, reaching a certain volume of sales in specific channels, or reducing churn of an existing product by attaching a cloud service. Try to be as specific and detailed as possible in outlining your goals and evaluation tactics—it will keep your team aligned and help to optimize activities through your launch.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;timeline-and-execution&quot;&gt;Timeline and Execution&lt;/h3&gt;
+
+&lt;p&gt;Finally, your plan needs to identify the timeline for execution, including next steps, the critical path for decisions, key milestones, and plans for reviewing and fine-tuning the GTM plan. This last point should not be overlooked, as good GTM plans are not static, but evolve with the project. As your plans progress, you can add details to increase the plan’s accuracy.&lt;/p&gt;
+
+&lt;h2 id=&quot;launch&quot;&gt;Launch&lt;/h2&gt;
+
+&lt;h3 id=&quot;beta-launch&quot;&gt;Beta Launch&lt;/h3&gt;
+
+&lt;h3 id=&quot;press-release&quot;&gt;Press release&lt;/h3&gt;
+
+&lt;h3 id=&quot;social-media&quot;&gt;Social media&lt;/h3&gt;
+
+&lt;h3 id=&quot;analytics&quot;&gt;Analytics&lt;/h3&gt;
+
+&lt;h3 id=&quot;feedback-channels&quot;&gt;Feedback Channels&lt;/h3&gt;
+
+&lt;h3 id=&quot;bug-tracking&quot;&gt;Bug Tracking&lt;/h3&gt;
+
+&lt;h2 id=&quot;post-launch&quot;&gt;Post Launch&lt;/h2&gt;
+
+&lt;h3 id=&quot;maintenance&quot;&gt;Maintenance&lt;/h3&gt;
+
+&lt;h3 id=&quot;future-development&quot;&gt;Future Development&lt;/h3&gt;
+
+&lt;h3 id=&quot;continued-user-engagement&quot;&gt;Continued User Engagement&lt;/h3&gt;
+
+&lt;h2 id=&quot;appendix&quot;&gt;Appendix&lt;/h2&gt;
+
+&lt;p&gt;Competitor Case Studies&lt;/p&gt;
+
+&lt;p&gt;[ 1 ]  Farmbot
+[ 2 ]  Click &amp;amp; Grow&lt;/p&gt;
+
+&lt;p&gt;FarmBot
+COMPETITOR CASE STUDY&lt;/p&gt;
+
+&lt;p&gt;Figure 1: The FarmBot homepage ( https://farm.bot/ )&lt;/p&gt;
+
+&lt;p&gt;Location
+USA
+Mission Statement
+Grow a community that produces free and open-source hardware plans, software, data, and documentation enabling everyone to build and operate a farming machine.
+Product Offering
+FarmBot Express (Not yet released)
+FarmBot Genesis ($2,595.00 USD)
+FarmBot Genesis XL ($3,795.00 USD)&lt;/p&gt;
+
+&lt;p&gt;Content
+Blog posts  |  Whitepapers  |  eBooks  |  Videos  |  Webinars  |  Podcasts  |  Slides/Powerpoints  |  Visual content  |  FAQs  |  Feature articles  |  Press releases  |  News  |  Case studies  |  Buyer guides&lt;/p&gt;
+
+&lt;p&gt;Strengths &amp;amp; Weaknesses
+Following the open-source route creates a strong community, and a very strong online presence provides documentation, forums, videos and reviews.
+The system requires a big upfront investment, technical skills to build and setup the machine, and a large area of space to run, all the while using traditional inefficient farming methods.
+Category of Competition
+Primary  |   Secondary   |  Tertiary&lt;/p&gt;
+
+&lt;p&gt;FarmBot offer a high-end version of our product at a much higher price to a slightly different audience, using lower-end hardware.
+Click &amp;amp; Grow
+COMPETITOR CASE STUDY&lt;/p&gt;
+
+&lt;p&gt;Figure 1: The Click &amp;amp; Grow homepage ( https://eu.clickandgrow.com/ )&lt;/p&gt;
+
+&lt;p&gt;Location
+USA &amp;amp; Estonia
+Mission Statement
+We create transformative technologies that allow growing fresh, vitamin-packed food locally and sustainably.
+Product Offering
+Smart Garden 3 / Smart Garden 9 (€99.95 / €199.95)
+Wall Farm Mini / Wall Farm (€899.00 / €1,299.00)
+Plant Pods (€9.95)&lt;/p&gt;
+
+&lt;p&gt;Content
+Blog posts  |  Videos  |  Visual content  |  FAQs  |  Forum&lt;/p&gt;
+
+&lt;p&gt;Strengths &amp;amp; Weaknesses&lt;/p&gt;
+
+&lt;p&gt;Category of Competition
+ Primary   |  Secondary  |  Tertiary&lt;/p&gt;
+
+&lt;p&gt;Click &amp;amp; Grow offer a low-end version of our product at a higher price to a very similar audience, using lower-end hardware and software.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Let him who would move the world first move himself. - Socrates&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 02 Oct 2018 13:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fmp/2018/10/02/fmp-marketing-and-dissemination-plan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fmp/2018/10/02/fmp-marketing-and-dissemination-plan.html</guid>
+        
+        
+        <category>FMP</category>
+        
+      </item>
+    
+      <item>
+        <title>The design of Hey Duggee</title>
+        <description>&lt;p&gt;&lt;strong&gt;Whilst spending a weekend in an Airbnb with four of my closest friends (two couples - each with a small child) I was searching for joy amongst the sleepless nights on a communal settee. Hey Duggee was that joy.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/media/hey-duggee.jpg&quot; alt=&quot;Hey Duggee&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I found myself captivated by the show—the simplistic style, the bite-sized episodes, &lt;em&gt;that&lt;/em&gt; theme tune and the exquisite animation, the humour of which was only topped by that of the ingenious scripts. Hey Duggee educates children &lt;em&gt;and&lt;/em&gt; entertains adults at the same time, a rarity in children’s TV.&lt;/p&gt;
+
+&lt;p&gt;Upon my return I began researching the show, confident my vector drawing skills could create a similar style to be used in my app. I found the entire show is created in Adobe Flash, and the creators actually used the limits of the program to define the style. &lt;a href=&quot;#ref&quot;&gt;[1]&lt;/a&gt; When asked about some of the things he learned, the creator commented:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;And yeah, just the practical things, really — the pipeline. Accessing files quickly, making sure everyone knows where things are, all of that. Suddenly I appreciate a good pipeline so much. Having a good pipeline is the best thing ever - Grant Orchard&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The show has an episode based around growing food &lt;a href=&quot;#ref&quot;&gt;[2]&lt;/a&gt;, and even has an app focused on the outdoors &lt;a href=&quot;#ref&quot;&gt;[3]&lt;/a&gt; so who knows - with enough success I could even attain a franchise to brand my product farther down the line.&lt;/p&gt;
+
+&lt;p&gt;Looking at my medium and restricting it to the technology available, I intend to examine Snap.svg &lt;a href=&quot;#ref&quot;&gt;[4]&lt;/a&gt; as a viable library for enhancing the UI in this area.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
+&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Vollenbroek, T, INTERVIEW: ‘Hey Duggee’ Creator Grant Orchard On Creating An Unconventional Preschool Show, &lt;em&gt;Cartoon Brew&lt;/em&gt;, Retrieved July 25, 2018: https://www.cartoonbrew.com/tv/interview-hey-duggee-creator-grant-orchard-creating-unconventional-preschool-show-149069.html&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Hey Duggee - Series 1 - The Food Growing Badge, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved July 25, 2018: https://youtu.be/7N7iIoZEaO8&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;BBC Worldwide, Hey Duggee The Big Outdoor App, Retrieved July 25, 2018: https://play.google.com/store/apps/details?id=com.bbc.heyduggeethebigoutdoorapp&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Baranovskiy, D, The Javascript library for the modern web, &lt;em&gt;Snap.svg&lt;/em&gt;, Retrieved July 25, 2018: http://snapsvg.io/&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Wed, 25 Jul 2018 12:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fmp/2018/07/25/fmp-the-design-of-hey-duggee.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fmp/2018/07/25/fmp-the-design-of-hey-duggee.html</guid>
+        
+        
+        <category>FMP</category>
+        
+      </item>
+    
+      <item>
+        <title>Modular Design</title>
+        <description>&lt;p&gt;&lt;strong&gt;Whilst spending a weekend in an Airbnb with four of my closest friends (two couples - each with a small child) I was searching for joy amongst the sleepless nights on a communal settee. Hey Duggee was that joy.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/media/hey-duggee.jpg&quot; alt=&quot;Hey Duggee&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I found myself captivated by the show—the simplistic style, the bite-sized episodes, &lt;em&gt;that&lt;/em&gt; theme tune and the exquisite animation, the humour of which was only topped by that of the ingenious scripts. Hey Duggee educates children &lt;em&gt;and&lt;/em&gt; entertains adults at the same time, a rarity in children’s TV.&lt;/p&gt;
+
+&lt;p&gt;Upon my return I began researching the show, confident my vector drawing skills could create a similar style to be used in my app. I found the entire show is created in Adobe Flash, and the creators actually used the limits of the program to define the style. &lt;a href=&quot;#ref&quot;&gt;[1]&lt;/a&gt; When asked about some of the things he learned, the creator commented:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;And yeah, just the practical things, really — the pipeline. Accessing files quickly, making sure everyone knows where things are, all of that. Suddenly I appreciate a good pipeline so much. Having a good pipeline is the best thing ever - Grant Orchard&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The show has an episode based around growing food &lt;a href=&quot;#ref&quot;&gt;[2]&lt;/a&gt;, and even has an app focused on the outdoors &lt;a href=&quot;#ref&quot;&gt;[3]&lt;/a&gt; so who knows - with enough success I could even attain a franchise to brand my product farther down the line.&lt;/p&gt;
+
+&lt;p&gt;Looking at my medium and restricting it to the technology available, I intend to examine Snap.svg &lt;a href=&quot;#ref&quot;&gt;[4]&lt;/a&gt; as a viable library for enhancing the UI in this area.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
+&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Vollenbroek, T, INTERVIEW: ‘Hey Duggee’ Creator Grant Orchard On Creating An Unconventional Preschool Show, &lt;em&gt;Cartoon Brew&lt;/em&gt;, Retrieved July 25, 2018: https://www.cartoonbrew.com/tv/interview-hey-duggee-creator-grant-orchard-creating-unconventional-preschool-show-149069.html&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Hey Duggee - Series 1 - The Food Growing Badge, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved July 25, 2018: https://youtu.be/7N7iIoZEaO8&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;BBC Worldwide, Hey Duggee The Big Outdoor App, Retrieved July 25, 2018: https://play.google.com/store/apps/details?id=com.bbc.heyduggeethebigoutdoorapp&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Baranovskiy, D, The Javascript library for the modern web, &lt;em&gt;Snap.svg&lt;/em&gt;, Retrieved July 25, 2018: http://snapsvg.io/&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 24 Jul 2018 12:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fmp/2018/07/24/fmp-modular-design-for-scale.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fmp/2018/07/24/fmp-modular-design-for-scale.html</guid>
+        
+        
+        <category>FMP</category>
+        
+      </item>
+    
+      <item>
+        <title>Project proposal</title>
+        <description>&lt;h2 id=&quot;securing-the-investment&quot;&gt;Securing the investment&lt;/h2&gt;
+
+&lt;p&gt;For a long time I have waited for the opportunity to begin my food project; I managed to investigate a small part of it during the co-creative module with the production of Fūdogotchi, alongside Carl Harrisson.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
+&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;McCormack, N, &amp;amp; Cotter, Managing” Burnout in the Workplace : A Guide for Information Professionals”, Elsevier Science &amp;amp; Technology, Witney, pp. 154-174, 2013.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Duckworth, E, “Piaget rediscovered by Eleanor Duckworth”, The Arithmetic Teacher, National Council of Teachers of Mathematics, vol. 11, no. 7, pp. 499, 1964.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;V. V. Edwards, “How to Resist Shiny-Object Syndrome,” Entrepreneur, pp. 16, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;S. Bradt, “Wandering mind not a happy mind”, Harvard Gazette, 2010. [Online]. Available: https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/. [Accessed: 10- May- 2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;J. Dixit, “The Art of Now: Six Steps to Living in the Moment”, Psychology Today, 2008. [Online]. Available: https://www.psychologytoday.com/us/articles/200811/the-art-now-six-steps-living-in-the-moment. [Accessed: 10- May- 2018].&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mesly, O, “Project Feasibility: Tools for Uncovering Points of Vulnerability”, CRC Press, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Arrington, M, ‘Odeo Releases Twttr’, Tech Crunch, 2006. [Online]. Available: https://techcrunch.com/2006/07/15/is-twttr-interesting, [Accessed: 06-May-2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;G. Chapman and J. Green, The 5 love languages. Chicago: Northfield Publishing, pp. 91-108, 1992.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, YouTube, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, GitHub, Retrieved March 08, 2018: https://github.com/curran/screencasts/tree/gh-pages/navigation&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Wed, 18 Jul 2018 12:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fmp/2018/07/18/fmp-proposal.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fmp/2018/07/18/fmp-proposal.html</guid>
+        
+        
+        <category>FMP</category>
+        
+      </item>
+    
+      <item>
+        <title>Peer Reviewed Papers</title>
+        <description>&lt;h2 id=&quot;what-do-the-experts-say&quot;&gt;What do the experts say?&lt;/h2&gt;
+
+&lt;h3 id=&quot;large&quot;&gt;Large&lt;/h3&gt;
+
+&lt;h4 id=&quot;aerofarms&quot;&gt;Aerofarms&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://aerofarms.com/&quot;&gt;https://aerofarms.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
+&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;McCormack, N, &amp;amp; Cotter, Managing” Burnout in the Workplace : A Guide for Information Professionals”, Elsevier Science &amp;amp; Technology, Witney, pp. 154-174, 2013.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Duckworth, E, “Piaget rediscovered by Eleanor Duckworth”, The Arithmetic Teacher, National Council of Teachers of Mathematics, vol. 11, no. 7, pp. 499, 1964.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;V. V. Edwards, “How to Resist Shiny-Object Syndrome,” Entrepreneur, pp. 16, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;S. Bradt, “Wandering mind not a happy mind”, Harvard Gazette, 2010. [Online]. Available: https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/. [Accessed: 10- May- 2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;J. Dixit, “The Art of Now: Six Steps to Living in the Moment”, Psychology Today, 2008. [Online]. Available: https://www.psychologytoday.com/us/articles/200811/the-art-now-six-steps-living-in-the-moment. [Accessed: 10- May- 2018].&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mesly, O, “Project Feasibility: Tools for Uncovering Points of Vulnerability”, CRC Press, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Arrington, M, ‘Odeo Releases Twttr’, Tech Crunch, 2006. [Online]. Available: https://techcrunch.com/2006/07/15/is-twttr-interesting, [Accessed: 06-May-2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;G. Chapman and J. Green, The 5 love languages. Chicago: Northfield Publishing, pp. 91-108, 1992.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, YouTube, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, GitHub, Retrieved March 08, 2018: https://github.com/curran/screencasts/tree/gh-pages/navigation&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 18 Jun 2018 12:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fmp/2018/06/18/fmp-peer-reviewed-papers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fmp/2018/06/18/fmp-peer-reviewed-papers.html</guid>
+        
+        
+        <category>FMP</category>
+        
+      </item>
+    
+      <item>
+        <title>Competitor Analysis</title>
+        <description>&lt;h2 id=&quot;who-is-doing-what-in-this-space&quot;&gt;Who is doing what in this space?&lt;/h2&gt;
+
+&lt;h3 id=&quot;large&quot;&gt;Large&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://aerofarms.com/&quot;&gt;Aerofarms&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.aponic.co.uk/&quot;&gt;Aponic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://farm.bot/&quot;&gt;FarmBot&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;medium&quot;&gt;Medium&lt;/h3&gt;
+
+&lt;h3 id=&quot;small--hobbyist&quot;&gt;Small / hobbyist&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://thepihut.com/products/ecoduino-an-auto-planting-kit&quot;&gt;EcoDuino&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.esologic.com/piplanter-2-lite-version-release/&quot;&gt;PiPlanter 2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://create.arduino.cc/projecthub/arduino/plant-communicator-7ea06f&quot;&gt;Plant Communicator&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.kickstarter.com/projects/sunair/smartplant-pi-smart-garden-with-your-raspberry-pi&quot;&gt;SmartPlantPi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://aeroponicsdiy.com/make-your-own-high-pressure-aeroponics-system/&quot;&gt;Aeroponics DIY&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://dicksonchow.com/plant-friends-mkii/&quot;&gt;Plant Friends Mk2&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;other-experiments&quot;&gt;Other experiments&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://dicksonchow.com/plant-human-interface/&quot;&gt;Plant Human Interface&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
+&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;McCormack, N, &amp;amp; Cotter, Managing” Burnout in the Workplace : A Guide for Information Professionals”, Elsevier Science &amp;amp; Technology, Witney, pp. 154-174, 2013.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Duckworth, E, “Piaget rediscovered by Eleanor Duckworth”, The Arithmetic Teacher, National Council of Teachers of Mathematics, vol. 11, no. 7, pp. 499, 1964.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;V. V. Edwards, “How to Resist Shiny-Object Syndrome,” Entrepreneur, pp. 16, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;S. Bradt, “Wandering mind not a happy mind”, Harvard Gazette, 2010. [Online]. Available: https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/. [Accessed: 10- May- 2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;J. Dixit, “The Art of Now: Six Steps to Living in the Moment”, Psychology Today, 2008. [Online]. Available: https://www.psychologytoday.com/us/articles/200811/the-art-now-six-steps-living-in-the-moment. [Accessed: 10- May- 2018].&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mesly, O, “Project Feasibility: Tools for Uncovering Points of Vulnerability”, CRC Press, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Arrington, M, ‘Odeo Releases Twttr’, Tech Crunch, 2006. [Online]. Available: https://techcrunch.com/2006/07/15/is-twttr-interesting, [Accessed: 06-May-2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;G. Chapman and J. Green, The 5 love languages. Chicago: Northfield Publishing, pp. 91-108, 1992.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, YouTube, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, GitHub, Retrieved March 08, 2018: https://github.com/curran/screencasts/tree/gh-pages/navigation&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Thu, 14 Jun 2018 12:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fmp/2018/06/14/fmp-competitor-analysis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fmp/2018/06/14/fmp-competitor-analysis.html</guid>
+        
+        
+        <category>FMP</category>
+        
+      </item>
+    
+      <item>
+        <title>Survey creation</title>
+        <description>&lt;h2 id=&quot;what-are-the-underlying-questions&quot;&gt;What are the underlying questions?&lt;/h2&gt;
+
+&lt;p&gt;For a long time I have waited for the opportunity to begin my food project; I managed to investigate a small part of it during the co-creative module with the production of Fūdogotchi, alongside Carl Harrisson.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
+&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;McCormack, N, &amp;amp; Cotter, Managing” Burnout in the Workplace : A Guide for Information Professionals”, Elsevier Science &amp;amp; Technology, Witney, pp. 154-174, 2013.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Duckworth, E, “Piaget rediscovered by Eleanor Duckworth”, The Arithmetic Teacher, National Council of Teachers of Mathematics, vol. 11, no. 7, pp. 499, 1964.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;V. V. Edwards, “How to Resist Shiny-Object Syndrome,” Entrepreneur, pp. 16, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;S. Bradt, “Wandering mind not a happy mind”, Harvard Gazette, 2010. [Online]. Available: https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/. [Accessed: 10- May- 2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;J. Dixit, “The Art of Now: Six Steps to Living in the Moment”, Psychology Today, 2008. [Online]. Available: https://www.psychologytoday.com/us/articles/200811/the-art-now-six-steps-living-in-the-moment. [Accessed: 10- May- 2018].&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mesly, O, “Project Feasibility: Tools for Uncovering Points of Vulnerability”, CRC Press, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Arrington, M, ‘Odeo Releases Twttr’, Tech Crunch, 2006. [Online]. Available: https://techcrunch.com/2006/07/15/is-twttr-interesting, [Accessed: 06-May-2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;G. Chapman and J. Green, The 5 love languages. Chicago: Northfield Publishing, pp. 91-108, 1992.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, YouTube, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, GitHub, Retrieved March 08, 2018: https://github.com/curran/screencasts/tree/gh-pages/navigation&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Wed, 13 Jun 2018 12:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fmp/2018/06/13/fmp-survey-creation.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fmp/2018/06/13/fmp-survey-creation.html</guid>
+        
+        
+        <category>FMP</category>
+        
+      </item>
+    
+      <item>
+        <title>User focused research</title>
+        <description>&lt;h2 id=&quot;putting-the-user-first&quot;&gt;Putting the user first&lt;/h2&gt;
+
+&lt;p&gt;For a long time I have waited for the opportunity to begin my food project; I managed to investigate a small part of it during the co-creative module with the production of Fūdogotchi, alongside Carl Harrisson.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
+&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;McCormack, N, &amp;amp; Cotter, Managing” Burnout in the Workplace : A Guide for Information Professionals”, Elsevier Science &amp;amp; Technology, Witney, pp. 154-174, 2013.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Duckworth, E, “Piaget rediscovered by Eleanor Duckworth”, The Arithmetic Teacher, National Council of Teachers of Mathematics, vol. 11, no. 7, pp. 499, 1964.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;V. V. Edwards, “How to Resist Shiny-Object Syndrome,” Entrepreneur, pp. 16, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;S. Bradt, “Wandering mind not a happy mind”, Harvard Gazette, 2010. [Online]. Available: https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/. [Accessed: 10- May- 2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;J. Dixit, “The Art of Now: Six Steps to Living in the Moment”, Psychology Today, 2008. [Online]. Available: https://www.psychologytoday.com/us/articles/200811/the-art-now-six-steps-living-in-the-moment. [Accessed: 10- May- 2018].&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mesly, O, “Project Feasibility: Tools for Uncovering Points of Vulnerability”, CRC Press, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Arrington, M, ‘Odeo Releases Twttr’, Tech Crunch, 2006. [Online]. Available: https://techcrunch.com/2006/07/15/is-twttr-interesting, [Accessed: 06-May-2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;G. Chapman and J. Green, The 5 love languages. Chicago: Northfield Publishing, pp. 91-108, 1992.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, YouTube, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, GitHub, Retrieved March 08, 2018: https://github.com/curran/screencasts/tree/gh-pages/navigation&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 12:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fmp/2018/06/12/fmp-user-focused-research.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fmp/2018/06/12/fmp-user-focused-research.html</guid>
+        
+        
+        <category>FMP</category>
+        
+      </item>
+    
+      <item>
+        <title>GUI thoughts</title>
+        <description>&lt;h2 id=&quot;picturing-the-interface&quot;&gt;Picturing the interface&lt;/h2&gt;
+
+&lt;p&gt;For a long time I have waited for the opportunity to begin my food project; I managed to investigate a small part of it during the co-creative module with the production of Fūdogotchi, alongside Carl Harrisson.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
+&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;McCormack, N, &amp;amp; Cotter, Managing” Burnout in the Workplace : A Guide for Information Professionals”, Elsevier Science &amp;amp; Technology, Witney, pp. 154-174, 2013.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Duckworth, E, “Piaget rediscovered by Eleanor Duckworth”, The Arithmetic Teacher, National Council of Teachers of Mathematics, vol. 11, no. 7, pp. 499, 1964.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;V. V. Edwards, “How to Resist Shiny-Object Syndrome,” Entrepreneur, pp. 16, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;S. Bradt, “Wandering mind not a happy mind”, Harvard Gazette, 2010. [Online]. Available: https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/. [Accessed: 10- May- 2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;J. Dixit, “The Art of Now: Six Steps to Living in the Moment”, Psychology Today, 2008. [Online]. Available: https://www.psychologytoday.com/us/articles/200811/the-art-now-six-steps-living-in-the-moment. [Accessed: 10- May- 2018].&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mesly, O, “Project Feasibility: Tools for Uncovering Points of Vulnerability”, CRC Press, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Arrington, M, ‘Odeo Releases Twttr’, Tech Crunch, 2006. [Online]. Available: https://techcrunch.com/2006/07/15/is-twttr-interesting, [Accessed: 06-May-2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;G. Chapman and J. Green, The 5 love languages. Chicago: Northfield Publishing, pp. 91-108, 1992.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, YouTube, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, GitHub, Retrieved March 08, 2018: https://github.com/curran/screencasts/tree/gh-pages/navigation&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 10 Jun 2018 12:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fmp/2018/06/10/fmp-gui-thoughts.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fmp/2018/06/10/fmp-gui-thoughts.html</guid>
+        
+        
+        <category>FMP</category>
+        
+      </item>
+    
+      <item>
+        <title>User engagement</title>
+        <description>&lt;h2 id=&quot;how-to-get-people-hooked&quot;&gt;How to get people hooked&lt;/h2&gt;
+
+&lt;p&gt;For a long time I have waited for the opportunity to begin my food project; I managed to investigate a small part of it during the co-creative module with the production of Fūdogotchi, alongside Carl Harrisson.&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
+&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;McCormack, N, &amp;amp; Cotter, Managing” Burnout in the Workplace : A Guide for Information Professionals”, Elsevier Science &amp;amp; Technology, Witney, pp. 154-174, 2013.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Duckworth, E, “Piaget rediscovered by Eleanor Duckworth”, The Arithmetic Teacher, National Council of Teachers of Mathematics, vol. 11, no. 7, pp. 499, 1964.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;V. V. Edwards, “How to Resist Shiny-Object Syndrome,” Entrepreneur, pp. 16, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;S. Bradt, “Wandering mind not a happy mind”, Harvard Gazette, 2010. [Online]. Available: https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/. [Accessed: 10- May- 2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;J. Dixit, “The Art of Now: Six Steps to Living in the Moment”, Psychology Today, 2008. [Online]. Available: https://www.psychologytoday.com/us/articles/200811/the-art-now-six-steps-living-in-the-moment. [Accessed: 10- May- 2018].&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mesly, O, “Project Feasibility: Tools for Uncovering Points of Vulnerability”, CRC Press, 2017.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Arrington, M, ‘Odeo Releases Twttr’, Tech Crunch, 2006. [Online]. Available: https://techcrunch.com/2006/07/15/is-twttr-interesting, [Accessed: 06-May-2018]&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;G. Chapman and J. Green, The 5 love languages. Chicago: Northfield Publishing, pp. 91-108, 1992.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, YouTube, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, GitHub, Retrieved March 08, 2018: https://github.com/curran/screencasts/tree/gh-pages/navigation&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sat, 09 Jun 2018 12:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fmp/2018/06/09/fmp-user-engagement.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fmp/2018/06/09/fmp-user-engagement.html</guid>
+        
+        
+        <category>FMP</category>
+        
+      </item>
+    
+  </channel>
+</rss>

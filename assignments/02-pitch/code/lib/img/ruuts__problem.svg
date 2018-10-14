@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="_x32_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1024px" height="1024px" viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
+<pattern  width="129" height="130" patternUnits="userSpaceOnUse" id="New_Pattern_Swatch_1" viewBox="0 -130 129 130" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 129,0 129,-130 0,-130 		"/>
+		<polygon fill="#CC138A" points="129,0 0,0 0,-130 129,-130 		"/>
+	</g>
+</pattern>
+<pattern  width="129" height="130" patternUnits="userSpaceOnUse" id="New_Pattern_Swatch_3" viewBox="0 -130 129 130" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 129,0 129,-130 0,-130 		"/>
+		<polygon fill="#A4CDC6" points="129,0 0,0 0,-130 129,-130 		"/>
+	</g>
+</pattern>
+<pattern  width="129" height="130" patternUnits="userSpaceOnUse" id="New_Pattern_Swatch_4" viewBox="0 -130 129 130" overflow="visible">
+	<g>
+		<polygon fill="none" points="0,0 129,0 129,-130 0,-130 		"/>
+		<polygon fill="#AAC446" points="129,0 0,0 0,-130 129,-130 		"/>
+	</g>
+</pattern>
+<path fill="url(#New_Pattern_Swatch_3)" d="M512.007,896C299.913,896.015,127.996,724.101,128,511.996
+	c0-212.07,171.913-384.02,384-383.996c212.072-0.024,384.01,171.926,384,383.996C896.01,724.101,724.077,896.01,512.007,896z"/>
+<path fill="url(#New_Pattern_Swatch_4)" d="M705.538,646.461c-87.009,0.006-157.541-70.523-157.538-157.54
+	c0-87.002,70.529-157.546,157.538-157.536c87.006-0.01,157.544,70.534,157.538,157.536
+	C863.082,575.938,792.544,646.467,705.538,646.461z"/>
+<path fill="url(#New_Pattern_Swatch_4)" d="M318.462,553.077c-65.257,0.005-118.156-52.894-118.154-118.156
+	c0-65.252,52.897-118.159,118.154-118.151c65.254-0.008,118.159,52.899,118.153,118.151
+	C436.621,500.183,383.716,553.082,318.462,553.077z"/>
+<path fill="url(#New_Pattern_Swatch_4)" d="M354.462,748.307c-43.505,0.006-78.772-35.263-78.77-78.769
+	c0-43.505,35.265-78.773,78.77-78.769c43.502-0.005,78.771,35.264,78.769,78.769C433.233,713.044,397.964,748.313,354.462,748.307z"
+	/>
+<path fill="url(#New_Pattern_Swatch_4)" d="M584,334.77c-32.629,0.005-59.077-26.447-59.077-59.077S551.371,216.61,584,216.616
+	c32.625-0.005,59.077,26.447,59.077,59.077S616.625,334.774,584,334.77z"/>
+<path fill="url(#New_Pattern_Swatch_4)" d="M685.846,725.231c-43.504,0.005-78.769-35.265-78.769-78.771
+	c0-43.504,35.265-78.773,78.769-78.77c43.5-0.004,78.77,35.266,78.77,78.77C764.615,689.967,729.346,725.236,685.846,725.231z"/>
+<path fill="#FFFFFF" d="M684.063,391.471l-44.867-1.483l2.221,9.542c-26.57,8.02-52.282,19.147-76.531,33.15
+	c-92.968,53.661-156.846,145.163-175.254,251.044l3.94,0.686C411.777,579.7,474.948,489.21,566.886,436.144
+	c23.907-13.806,49.252-24.785,75.439-32.71l2.139,9.191L684.063,391.471z"/>
+<g>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="443.215" cy="470.43" r="18"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="464" cy="458.43" r="18"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="512" cy="541.569" r="18"/>
+	<path fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" d="M541.785,545.156
+		c-8.608,4.975-19.619,2.021-24.589-6.586c-4.971-8.611-2.022-19.621,6.588-24.59c8.609-4.972,19.618-2.021,24.589,6.588
+		C553.345,529.178,550.396,540.188,541.785,545.156z"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="505.569" cy="434.43" r="18"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="489.608" cy="526.785" r="18"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="531.177" cy="502.784" r="18"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="510.393" cy="514.784" r="18"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="484.785" cy="446.43" r="18"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="467.216" cy="512.001" r="18"/>
+	<path fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" d="M497.001,515.588
+		c-8.609,4.974-19.62,2.021-24.59-6.588c-4.971-8.609-2.021-19.619,6.589-24.589c8.608-4.972,19.618-2.021,24.588,6.588
+		C508.561,499.607,505.61,510.619,497.001,515.588z"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="529.569" cy="475.999" r="18"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="508.784" cy="488" r="18"/>
+	<path fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" d="M453.823,512.803
+		c-8.609,4.975-19.619,2.021-24.588-6.588c-4.971-8.609-2.022-19.619,6.588-24.588c8.609-4.972,19.618-2.022,24.588,6.588
+		C465.383,496.824,462.434,507.834,453.823,512.803z"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="527.961" cy="449.215" r="17.999"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="465.608" cy="485.214" r="18"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="507.177" cy="461.215" r="18"/>
+	<circle fill="url(#New_Pattern_Swatch_1)" stroke="#FFFFFF" stroke-miterlimit="10" cx="486.392" cy="473.215" r="18"/>
+</g>
+</svg>
