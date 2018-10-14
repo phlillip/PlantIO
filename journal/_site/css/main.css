@@ -173,7 +173,6 @@ blockquote {
   color: #828282;
   padding: 10vw;
   font-size: 20px;
-  letter-spacing: -1px;
   text-align: center; }
   blockquote > :last-child {
     margin-bottom: 0; }

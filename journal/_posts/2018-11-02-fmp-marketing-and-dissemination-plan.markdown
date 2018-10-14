@@ -8,7 +8,7 @@ categories: FMP
 ---
 
 PlantIO
-
+<img src="/media/ruuts__tech.svg" >
 Grow perfect food, automatically.
 * TOC
 {:toc}
@@ -18,7 +18,7 @@ Grow perfect food, automatically.
 
 ### Value Proposition
 
-Plant**IO** allows you to grow perfect food for your family all year round at a low cost to you and the environment, completely automatically.
+> Plant**IO** allows you to grow perfect food for your family all year round at a low cost to you and the environment, completely automatically.
 
 ### Summary
 
