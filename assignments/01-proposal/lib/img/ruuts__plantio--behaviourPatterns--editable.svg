@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 384" style="enable-background:new 0 0 1024 384;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#404041;stroke-width:6;stroke-miterlimit:10;}
+	.st1{fill:#404041;}
+	.st2{font-family:'Helvetica-Bold';}
+	.st3{font-size:24px;}
+	.st4{letter-spacing:-1;}
+	.st5{fill:none;stroke:#404041;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#404041;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:2.9976,11.9904;}
+	.st7{fill:none;stroke:#404041;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:2.9263,11.7051;}
+	.st8{fill:none;stroke:#404041;stroke-width:3;stroke-miterlimit:10;}
+</style>
+<g>
+	<polyline class="st0" points="848.9,296.9 80.9,296.9 80.9,40.9 	"/>
+	<text transform="matrix(1 0 0 1 378.5469 342.5466)" class="st1 st2 st3 st4">Time (not to scale)</text>
+	<g>
+		<g>
+			<path class="st5" d="M80.4,297.2c0.5,0,1-0.1,1.4-0.4"/>
+			<path class="st6" d="M87.4,286.4c14.6-48.6,17-245.2,35.7-245.2h42.7c19.5,0,21.2,214.7,37.7,250.9"/>
+			<path class="st5" d="M206.9,296.8c0.5,0.3,0.9,0.4,1.4,0.4"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st5" d="M324.4,297.2c0.5,0,1-0.1,1.4-0.4"/>
+			<path class="st6" d="M331.4,286.4c14.6-48.6,17-245.2,35.7-245.2h42.7c19.5,0,21.2,214.7,37.7,250.9"/>
+			<path class="st5" d="M450.9,296.8c0.5,0.3,0.9,0.4,1.4,0.4"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st5" d="M568.4,297c0.5,0,1-0.1,1.4-0.4"/>
+			<path class="st6" d="M575.4,286.2C590,237.6,592.3,41,611,41h42.7c19.5,0,21.2,214.7,37.7,250.9"/>
+			<path class="st5" d="M694.9,296.6c0.5,0.3,0.9,0.4,1.4,0.4"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st5" d="M812.4,296.8c0.5,0,1-0.1,1.4-0.4"/>
+			<path class="st7" d="M819.3,286.3c13.3-43.6,16.5-209.5,30.8-240.5"/>
+			<path class="st5" d="M853.6,41.2c0.5-0.3,0.9-0.4,1.4-0.4"/>
+		</g>
+	</g>
+	<polyline class="st8" points="144.9,297.9 144.9,105.9 528.9,105.9 528.9,297.9 	"/>
+	<polyline class="st8" points="592.9,297.9 592.9,105.9 849.4,105.9 	"/>
+	<path class="st5" d="M848.4,174.3c-42.7,0-42.7,10.2-85.3,10.2c-42.7,0-42.7-10.2-85.3-10.2c-42.7,0-42.7,10.2-85.3,10.2
+		c-42.7,0-42.7-10.2-85.3-10.2c-42.7,0-42.7,10.2-85.3,10.2c-42.7,0-42.7-10.2-85.3-10.2"/>
+	<path class="st5" d="M336.4,174.4c-24,0-177,122-255,122"/>
+	<text transform="matrix(1 0 0 1 873.7607 114.5466)" class="st1 st2 st3 st4">LED</text>
+	<text transform="matrix(1 0 0 1 873.7607 179.5466)" class="st1 st2 st3 st4">Heater</text>
+	<text transform="matrix(1 0 0 1 873.7607 50.5466)" class="st1 st2 st3 st4">Nozzle</text>
+</g>
+</svg>

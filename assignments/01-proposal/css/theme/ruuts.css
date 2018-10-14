@@ -1,0 +1,499 @@
+/**
+ * Ruuts theme for reveal.js.
+ *
+ * By Phillip David Penny, https://philpenny.co.uk
+ */
+img {
+  border: 0;
+  align-self: center;
+  max-width: 100%;
+}
+
+#storyboard {
+  font-size: 0.75em;
+}
+
+#storyboard .storyboard-panel {
+  box-sizing: border-box;
+  overflow: hidden;
+  padding: .5vw;
+  height: 32vh;
+}
+
+.reveal section {
+  padding: 0;
+  height: 92vh;
+}
+
+.reveal .content {
+  height: 77vh;
+}
+
+.reveal section .tech img {
+  align-self: center;
+  max-height: 60vh;
+  width: auto;
+}
+
+.reveal section .model img {
+  max-height: 60vh;
+  width: auto;
+}
+
+.reveal section h1, .reveal section h2, .reveal section h3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1em;
+  margin-bottom: 1rem;
+  font-weight: 900;
+  letter-spacing: -0.05em;
+  color: #404041;
+}
+
+.reveal section h1 {
+  font-size: 1.5em;
+  line-height: 1.5;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  border-bottom: 1px solid rgba(0, 0, 0, .25);
+  color: rgba(0, 0, 0, .5);
+  display: block;
+}
+
+hr {
+  display: block;
+  width: 75%;
+  border: 0;
+  background: rgba(0, 0, 0, .25);
+  height: 1px;
+}
+
+.reveal section h2 {
+  font-size: 2.25em;
+}
+
+.reveal section .icon {
+  display: block;
+  font-size: 4.5em;
+  color: rgba(0, 0, 0, .25);
+  margin-bottom: 1rem;
+}
+
+.reveal section h3 {
+  font-size: 1.25em;
+  letter-spacing: 0em;
+}
+
+.reveal p, .reveal blockquote, .reveal label, .reveal li {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  margin-bottom: 1rem;
+  line-height: 1.5em;
+  font-weight: 300;
+  letter-spacing: 0.05em;
+  color: #404041;
+}
+
+.reveal li {
+  margin-bottom: 0;
+}
+
+.reveal p.title {
+  height: 8vh;
+  line-height: 8vh;
+  border-bottom: 1px solid #404041;
+  display: block;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+.reveal p.footer {
+  position: absolute;
+  bottom: 0;
+  height: 8vh;
+  line-height: 8vh;
+  border-top: 1px solid #404041;
+  display: block;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-size: 0.9em;
+}
+
+.reveal p.small {
+  font-size: 0.75em;
+}
+
+.reveal section li {
+  margin-left: 1em;
+}
+
+.reveal section strong {
+  font-weight: 900;
+}
+
+.reveal section .dark h1, .reveal section .dark h2, .reveal section .dark h3, .reveal section .dark p {
+  color: #ffffff;
+}
+
+.reveal section .light {
+  font-weight: 300;
+}
+
+.reveal section img {
+  width: 100%;
+  height: auto;
+  background: 0;
+  max-height: 90vh;
+  max-width: 90vw;
+}
+
+.reveal section .temp {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 1em;
+  font-weight: 600;
+  text-transform: uppercase;
+  display: none;
+}
+
+.reveal section .has-dark-background, .reveal section .has-dark-background h1, .reveal section .has-dark-background h2, .reveal section .has-dark-background h3, .reveal section .has-dark-background h4, .reveal section .has-dark-background h5, .reveal section .has-dark-background h6 {
+  color: #ffffff;
+}
+
+.reveal section .image-row {
+  padding: 10vh 0;
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.reveal section .image-grid {
+  padding: 10vh 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.reveal section .image-grid div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.reveal section .image-grid .plan {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1vh;
+}
+
+.reveal section .image-grid .beta {
+  color: #ffffff;
+  height: 15vh;
+}
+
+.reveal section .image-grid .bus {
+  border-left: 1px solid silver;
+  border-right: 1px solid silver;
+  background: #ffffff;
+  color: #aac446;
+  height: 15vh;
+}
+
+.reveal section .image-grid .recipe {
+  background: #ffffff;
+  height: 15vh;
+}
+
+.reveal section .image-grid .persona1 {
+  background: #a4cdc6;
+}
+
+.reveal section .image-grid .persona2 {
+  background: #aac446;
+}
+
+.reveal section .image-grid .persona3 {
+  background: #f0a836;
+}
+
+.reveal section .image-grid .persona4 {
+  background: #cc138a;
+}
+
+.reveal section .image-grid .persona1, .reveal section .image-grid .persona2, .reveal section .image-grid .persona3, .reveal section .image-grid .persona4 {
+  margin: 1vh;
+  width: calc(50% - 2vh);
+  height: 25vh;
+}
+
+.reveal section .image-grid .persona1 h2, .reveal section .image-grid .persona1 h3, .reveal section .image-grid .persona1 p, .reveal section .image-grid .persona2 h2, .reveal section .image-grid .persona2 h3, .reveal section .image-grid .persona2 p, .reveal section .image-grid .persona3 h2, .reveal section .image-grid .persona3 h3, .reveal section .image-grid .persona3 p, .reveal section .image-grid .persona4 h2, .reveal section .image-grid .persona4 h3, .reveal section .image-grid .persona4 p {
+  color: #ffffff;
+}
+
+.reveal section .persona {
+  text-align: left;
+  font-size: 0.75em;
+}
+
+.reveal section .persona ul {
+  margin-bottom: 1rem;
+}
+
+.reveal section .persona img {
+  background: #ffffff;
+  width: 100%;
+  height: auto;
+  align-self: center;
+}
+
+.reveal section .persona h1, .reveal section .persona blockquote {
+  display: block;
+  background: #a4cdc6;
+  color: #ffffff;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.reveal section .persona blockquote {
+  padding: 1em;
+}
+
+.reveal section .persona .content {
+  display: flex;
+  border: 1px solid #a4cdc6;
+}
+
+.reveal section .persona .content .sidebar {
+  padding: 1em;
+}
+
+.reveal section .persona .content .sidebar img {
+  align-self: center;
+}
+
+.reveal section .persona .content .end {
+  padding: 1em;
+}
+
+.reveal section .persona .content .end .logo-list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+.reveal section .persona .content .end .logo-list img {
+  width: calc(25% - (3em / 4));
+  height: auto;
+}
+
+.reveal section .persona .content .main {
+  border-left: 1px solid #a4cdc6;
+  border-right: 1px solid #a4cdc6;
+  padding: 1em;
+  width: 50%;
+}
+
+.reveal section .persona .content .main .traits {
+  display: flex;
+  justify-content: space-between;
+}
+
+.reveal section .persona .content .main .traits .trait {
+  display: block;
+  width: calc(20% - (3em / 4));
+  text-align: center;
+}
+
+.reveal section .persona .content .main .traits .trait p {
+  background: #a4cdc6;
+  color: #ffffff;
+  padding: .5em;
+}
+
+.reveal section .persona .content .bar {
+  display: block;
+  width: 100%;
+  background: #f6fafa;
+  height: 0.5em;
+  margin-bottom: 0.5rem;
+}
+
+.reveal section .persona .content .bar .bar-fill {
+  display: block;
+  background: #a4cdc6;
+  height: 0.5em;
+}
+
+.reveal section .persona .content .bar .five {
+  width: 5%;
+}
+
+.reveal section .persona .content .bar .ten {
+  width: 10%;
+}
+
+.reveal section .persona .content .bar .fifteen {
+  width: 15%;
+}
+
+.reveal section .persona .content .bar .twenty {
+  width: 20%;
+}
+
+.reveal section .persona .content .bar .twenty-five {
+  width: 25%;
+}
+
+.reveal section .persona .content .bar .thirty {
+  width: 30%;
+}
+
+.reveal section .persona .content .bar .thirty-five {
+  width: 35%;
+}
+
+.reveal section .persona .content .bar .forty {
+  width: 40%;
+}
+
+.reveal section .persona .content .bar .forty-five {
+  width: 45%;
+}
+
+.reveal section .persona .content .bar .fifty {
+  width: 50%;
+}
+
+.reveal section .persona .content .bar .fifty-five {
+  width: 55%;
+}
+
+.reveal section .persona .content .bar .sixty {
+  width: 60%;
+}
+
+.reveal section .persona .content .bar .sixty-five {
+  width: 65%;
+}
+
+.reveal section .persona .content .bar .seventy {
+  width: 70%;
+}
+
+.reveal section .persona .content .bar .seventy-five {
+  width: 75%;
+}
+
+.reveal section .persona .content .bar .eighty {
+  width: 80%;
+}
+
+.reveal section .persona .content .bar .eighty-five {
+  width: 85%;
+}
+
+.reveal section .persona .content .bar .ninety {
+  width: 90%;
+}
+
+.reveal section .persona .content .bar .ninety-five {
+  width: 95%;
+}
+
+.reveal section .persona .content label {
+  font-size: 0.8em;
+  display: inline-block;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.reveal section .persona .content label+label {
+  float: right;
+}
+
+.reveal section ol.references {
+  text-align: left;
+  column-count: 2;
+  column-gap: 2rem;
+  padding: 0 1em;
+}
+
+.reveal section ol.references li ol {
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid silver;
+}
+
+.reveal section ol.references li ol li {
+  font-size: 0.5em;
+  margin-bottom: 1em;
+}
+
+.half {
+  width: 50%
+}
+
+.third {
+  width: 33.333%
+}
+
+.two-thirds {
+  width: 66.666%
+}
+
+.quarter {
+  width: 25%
+}
+
+span.reference {
+  font-size: 1rem
+}
+
+#results .quarter {
+  padding: 0 2rem;
+  border-right: 1px solid rgba(0, 0, 0, .25);
+}
+
+#results .quarter:last-of-type {
+  border-right: 0;
+}
+
+.list h2 {
+  text-align: left;
+}
+
+.list h2:before {
+  display: inline-block;
+  content: "•";
+  margin-right: 0.5em;
+}
+
+.reveal .box {
+  box-sizing: border-box;
+  padding: 1rem 1rem 0 1rem;
+  margin-right: 1rem;
+  border: 1px solid rgba(0, 0, 0, .25);
+}
+
+.quarter.box {
+  width: calc(25% - .75rem);
+}
+
+.reveal .box:nth-child(4n) {
+  margin-right: 0;
+}
+
+.reveal .box:nth-child(-n+4) {
+  margin-bottom: 1rem;
+}
+
+#references p {
+  text-align: left
+}
