@@ -55,29 +55,40 @@ Grow perfect food, automatically.
 [//]: # (Last but not least among the five business growth drivers comes risk and reporting. As the business grows, so it is essential to establish controls to manage the inevitable risks that accompany rapid business development. The reporting element is also important for growing companies, both internally and externally. Management teams need to communicate clearly between themselves, to understand business performance and delivery against future targets. Similarly, the company needs to report effectively to external investors and other stakeholders to maintain their ongoing confidence and support.)
 
 #### Key Performance Indicators
-Goal
-KPI
-Year 1 Target
-Year 2 Target
-Year 3 Target
-Mass adoption of consumer unit
-Number of sales of the PlantIO system
-100 units
-500 units
-5000 units
-Active, growing knowledge base & online community
-Number of monthly active users (MAU) on forum
-launch
-50 MAU
-500 MAU
-Integration into SMB market
-Number of custom installs
-1 install
-10 installs
-50 installs
 
+<table>
+<tr>
+  <th>Goal</th>
+  <th>KPI</th>
+  <th>Year 1 Target</th>
+  <th>Year 2 Target</th>
+  <th>Year 3 Target</th>
+</tr>
+<tr>
+  <td>Mass adoption of consumer unit</td>
+  <td>Number of sales of the PlantIO system</td>
+  <td>100</td>
+  <td>500</td>
+  <td>5000</td>
+</tr>
+<tr>
+  <td>Active, growing knowledge base & online community</td>
+  <td>Number of monthly active users (MAU) on forum</td>
+  <td>launch</td>
+  <td>50</td>
+  <td>500</td>
+</tr>
+<tr>
+  <td>Integration into SMB market</td>
+  <td>Number of custom installs</td>
+  <td>1</td>
+  <td>10</td>
+  <td>50</td>
+</tr>
+</table>
 
 #### Differentiation compared to competitors
+Plant**IO** 
 #### Market Behaviours
 
 ### Projections

@@ -30,7 +30,7 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
+h1, h2, h3, h4,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm, hr{
@@ -40,10 +40,53 @@ ul, ol, dl, figure,
 /**
  * Heading style
  */
-h1, h2, h3, h4, h5, h6, .site-title{
+h1, h2, h3, h4, .site-title{
     font-family: $heading-font-family;
+    font-weight: $base-font-weight;
     line-height: $heading-line-height;
     text-transform: uppercase;
+    padding-left: $spacing-unit;
+    padding-right: $spacing-unit;
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+p, li{
+  font-size: $base-font-size;
+}
+h5{
+  font-size: $base-font-size;
+  line-height: $heading-line-height;
+  text-transform: lowercase;
+  font-variant: small-caps;
+  letter-spacing: .1em;
+  font-weight: 700;
+  margin-bottom: 1em;
+}
+h4, p.intro{
+  font-size: $base-font-size * 1.25;
+}
+h3{
+  font-size: $base-font-size * 1.5;
+  margin-top: 2em;
+}
+h2, h1.post-title{
+  font-size: $base-font-size * 2;
+}
+h1{
+  font-size: $base-font-size * 2.5;
+}
+.site-title {
+    font-size: $base-font-size * 3;
+    font-weight: 300;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+	word-spacing: $base-font-size * 80;
+
+    &,
+    &:visited {
+        color: $background-color;
+    }
 }
 
 
@@ -56,6 +99,17 @@ img {
     vertical-align: middle;
 }
 
+/**
+ * Tables
+ */
+table{
+ overflow-y: scroll;
+ max-width: 100%;
+
+ td{
+   min-width: 10em;
+ }
+}
 
 
 /**
@@ -86,7 +140,7 @@ figure.halflast{
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+    margin-left: $spacing-unit / 2;
 }
 
 li {
@@ -94,15 +148,6 @@ li {
     > ol {
          margin-bottom: 0;
     }
-}
-
-
-
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-    font-weight: $base-font-weight;
 }
 
 
@@ -163,14 +208,15 @@ a {
 blockquote {
     color: $grey-color;
     padding: $spacing-unit * 2;
-	margin: $spacing-unit * 2;
     font-size: $base-font-size * 1.25;
     letter-spacing: -1px;
 	text-align: center;
-	border: 1px solid $grey-color-light;
 
     > :last-child {
         margin-bottom: 0;
+    }
+    @include media-query($desktop) {
+      padding: $spacing-unit 0;
     }
 }
 
@@ -205,19 +251,13 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
     @extend %clearfix;
+    max-width: 50em;
 
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
+    @include media-query($desktop) {
+
     }
 }
 

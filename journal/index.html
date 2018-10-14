@@ -31,7 +31,7 @@ layout: default
       {% for post in posts %}
         {% if post.categories contains c %}
           <li>
-        	<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        	<div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
 	        <h2>
 	          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 	        </h2>
@@ -72,5 +72,3 @@ layout: default
     {% endfor %}
   </ul>
 </div>
-
-
