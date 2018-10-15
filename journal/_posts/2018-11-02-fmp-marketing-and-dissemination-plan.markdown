@@ -7,18 +7,19 @@ date:   2018-10-02 12:00:00 +0000
 categories: FMP
 ---
 
-PlantIO
-<img src="/media/ruuts__tech.svg" >
-Grow perfect food, automatically.
+<span class="contents-title">Contents</span>
 * TOC
 {:toc}
 
+## PlantIO
+<img src="/media/ruuts__tech.svg" >
+### Grow perfect food, automatically.
 
 ## Product Overview
 
 ### Value Proposition
 
-> Plant**IO** allows you to grow perfect food for your family all year round at a low cost to you and the environment, completely automatically.
+> PlantIO allows you to grow perfect food for your family all year round at a low cost to you and the environment, completely automatically.
 
 ### Summary
 
@@ -37,11 +38,18 @@ Grow perfect food, automatically.
 #### Core business drivers
 ##### Strategy
 [//]: # (The first key business growth driver is strategy. Every fast-growing business starts with an idea, which turns into the business plan. The strategy might revolve around bringing a new product to market, or be based on an existing product or service applied or delivered in a new way. Accelerated growth can be driven by developing more new products, and/or expanding into new markets.)
+PlantIO will initially serve the consumer market with advanced technology for a competitive price, backed by social. Following this, the B2B market will be targeted through custom installations before eventually being positioned to provide a viable solution on an industrial scale.
 
 
 ##### The Ruuts Team & Operations
 [//]: # (Alongside strategy, people and operations represent another key growth driver. Companies that grow fast often have a key individual driving them forward – the person with the initial vision, energy and determination to step out along the entrepreneurial road. However, growing a business fast relies on teamwork. Entrepreneurs need to draw around them a group of individuals who they can trust, who share the same dreams and apply the same values when trying to bring that dream alive. On the operations side, a growing business needs to develop an appropriate infrastructure and keep adjusting that infrastructure as the business grows. This involves IT systems, processes, even basic office space. If you are growing fast, will you have enough room for your expanded team in six months’ time? And as the business grows, new operational systems may need to be developed to maintain efficiency.)
-**Ruuts is powered by 3 founders all of whom are key individuals with unique skills.**
+Ruuts is powered by 3 founders all of whom are key individuals with unique skills.
+
+I will focus on the digital side of the business, developing the software and social strategy.
+
+Brett Bartlett will use his expertise in horticulture to develop optimum plant recipes to ensure a quality end product.
+
+Ashley Banner will use his electrical engineering background to develop the hardware systems.
 
 
 ##### Funding
@@ -49,10 +57,15 @@ Grow perfect food, automatically.
 
 **Ruuts are looking for £250,000 of funding to take the product to market.**
 
-This will cover salary for all 3 founders over the course of 15 months of product development, starting in January 2019 after creation of the MVP. It will also cover investment in an initial stock of 100 Plant**IO** units.
+This will cover salary for all 3 founders over the course of 15 months of product development, starting in January 2019 after creation of the MVP. It will also cover investment in an initial stock of 100 PlantIO units.
 
 ##### Transactions
 [//]: # (Transactions are also important for driving growth. These could include alliances in the form of strong supplier relationships. In addition, as the business grows, mergers and acquisitions may offer the potential to achieve a step change in growth, or facilitate entry into a new geographical market or a complementary service area.)
+**Several opportunities are available to increase conversions and sales.**
+
+Potential relationships with established seed suppliers such as Mr. Fothergills can add a reputability to the business in its' early days.
+
+The opportunity to create a charity serving global hunger can further strengthen out reputation.
 
 ##### Risk & Reporting
 [//]: # (Last but not least among the five business growth drivers comes risk and reporting. As the business grows, so it is essential to establish controls to manage the inevitable risks that accompany rapid business development. The reporting element is also important for growing companies, both internally and externally. Management teams need to communicate clearly between themselves, to understand business performance and delivery against future targets. Similarly, the company needs to report effectively to external investors and other stakeholders to maintain their ongoing confidence and support.)
@@ -91,7 +104,7 @@ This will cover salary for all 3 founders over the course of 15 months of produc
 </table>
 
 #### Differentiation compared to competitors
-Plant**IO** is differentiating from the competition in two main areas:
+PlantIO is differentiating from the competition in two main areas:
  * Pricing model
  * Product offering
 
@@ -101,50 +114,49 @@ Plant**IO** is differentiating from the competition in two main areas:
 
 ### Product Strategy
 
-> This section of the plan identifies the key products you will launch in your cloud portfolio, along with any bundling plans, special promotions, or other attachment strategies that will help you sell the products—including upselling and cross-selling to both new and existing customers. Any specifics you can include about differentiators between your offerings and those of your competitors will help you build your sales messaging as you progress further into the launch.
+[//]: # (This section of the plan identifies the key products you will launch in your cloud portfolio, along with any bundling plans, special promotions, or other attachment strategies that will help you sell the products—including upselling and cross-selling to both new and existing customers. Any specifics you can include about differentiators between your offerings and those of your competitors will help you build your sales messaging as you progress further into the launch.)
 
-Key Products
-PlantIO base system
-Heirloom seedpacks
-PlantIO app
-Bundling plans
-Special Promotions / Attachment strategies
-Up-sells & Cross-sells
-Differentiation compared to competitors
+#### Key Products
+* PlantIO base system
+* Heirloom seedpacks
+* PlantIO app
+
+##### Bundling plans
+##### Special Promotions / Attachment strategies
+##### Up-sells & Cross-sells
+##### Differentiation compared to competitors
 
 ### Channel Strategy
 
-> This is where you identify the primary channels that you’ll use—both to sell your products and to educate and support your customers—along with the resources, training, and incentives that will drive channel performance. In complex channel organizations, products and offers may differ from one channel to the next, playing on the unique advantages of specific channels, such as direct sales teams or online portals.
+[//]: # (This is where you identify the primary channels that you’ll use—both to sell your products and to educate and support your customers—along with the resources, training, and incentives that will drive channel performance. In complex channel organizations, products and offers may differ from one channel to the next, playing on the unique advantages of specific channels, such as direct sales teams or online portals.)
 
-Millennial Man Mark
-Frequency
-Engagement
-Usage
-Vertical Specific
-Channel
-Sales Funnel Position
-Financial Model
-Handling User Needs
+#### Millennial Man Mark
+
+##### Frequency
+
+First time | Intermediate | Casual | Power |
+
+Engagement | Usage | Vertical Specific | Channel | Sales Funnel Position | Financial Model | Handling User Needs |
 
 ### Marketing Strategy
 
-> This section summarizes the activities you’ll use to drive awareness and generate leads, both in your identified markets and within your existing customer base. In large organizations, the marketing strategy may also include activities for generating internal awareness. Such internally oriented activities are particularly important in situations where many groups will “touch” customers as they progress from purchase to activation to support.
+[//]: # (This section summarizes the activities you’ll use to drive awareness and generate leads, both in your identified markets and within your existing customer base. In large organizations, the marketing strategy may also include activities for generating internal awareness. Such internally oriented activities are particularly important in situations where many groups will “touch” customers as they progress from purchase to activation to support.)
 
 ### Customer Experience
 
-> This section documents the anticipated customer journey—either at a high level or in detail. Starting with how customers first hear about a product, it progresses through their purchase, activation, renewal, and possible cancellation. Exploring this journey helps to identify any “fall-off” points that may reduce conversion rates, or drive churn, while also helping to ensure that you’ll have the right people and systems in place to support the new products.
+[//]: # (This section documents the anticipated customer journey—either at a high level or in detail. Starting with how customers first hear about a product, it progresses through their purchase, activation, renewal, and possible cancellation. Exploring this journey helps to identify any “fall-off” points that may reduce conversion rates, or drive churn, while also helping to ensure that you’ll have the right people and systems in place to support the new products.)
 
 ### Technical Requirements
 
-> This section documents the technical requirements needed to support the new products. These requirements, which may be affected by decisions made in the previous sections of the plan, may include branding your customer-facing portals, and integrating sales and provisioning systems with third-party resources you’ve employed. Parallels can help you identify the technical requirements needed to launch your products.
+[//]: # (This section documents the technical requirements needed to support the new products. These requirements, which may be affected by decisions made in the previous sections of the plan, may include branding your customer-facing portals, and integrating sales and provisioning systems with third-party resources you’ve employed. Parallels can help you identify the technical requirements needed to launch your products.)
 
 ### Evaluation
 
-> This is where you spell out and prioritize the factors you’ll use to measure your success—for example, reaching a certain volume of sales in specific channels, or reducing churn of an existing product by attaching a cloud service. Try to be as specific and detailed as possible in outlining your goals and evaluation tactics—it will keep your team aligned and help to optimize activities through your launch.
+[//]: # (This is where you spell out and prioritize the factors you’ll use to measure your success—for example, reaching a certain volume of sales in specific channels, or reducing churn of an existing product by attaching a cloud service. Try to be as specific and detailed as possible in outlining your goals and evaluation tactics—it will keep your team aligned and help to optimize activities through your launch.)
 
 ### Timeline and Execution
 
-Finally, your plan needs to identify the timeline for execution, including next steps, the critical path for decisions, key milestones, and plans for reviewing and fine-tuning the GTM plan. This last point should not be overlooked, as good GTM plans are not static, but evolve with the project. As your plans progress, you can add details to increase the plan’s accuracy.
+[//]: # (Finally, your plan needs to identify the timeline for execution, including next steps, the critical path for decisions, key milestones, and plans for reviewing and fine-tuning the GTM plan. This last point should not be overlooked, as good GTM plans are not static, but evolve with the project. As your plans progress, you can add details to increase the plan’s accuracy.)
 
 
 
