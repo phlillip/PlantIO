@@ -11,6 +11,9 @@ dl, dd, ol, ul, figure {
   padding: 0; }
 
 /**
+ * Colours
+ */
+/**
  * Basic styling
  */
 body {
@@ -36,38 +39,33 @@ ul, ol, dl, figure,
 /**
  * Heading style
  */
-h1, h2, h3, h4, .site-title, .contents-title {
+h1, h2, h3, h4, h5, .site-title, .contents-title {
   font-family: "Rubik", sans-serif;
   font-weight: 300;
   line-height: 0.9;
   text-transform: uppercase;
-  padding-left: 5vw;
-  padding-right: 5vw;
+  margin-top: 3em;
   margin-bottom: 1em;
-  text-align: center; }
+  text-align: left; }
 
 p, li {
   font-size: 16px; }
 
 h5 {
-  font-size: 16px;
-  line-height: 0.9;
-  text-transform: lowercase;
-  font-variant: small-caps;
-  letter-spacing: .1em;
+  font-size: 12px;
+  line-height: 1.8;
+  letter-spacing: .25em;
   font-weight: 700;
-  margin-bottom: .5em;
-  margin-top: 1.5em; }
+  margin-bottom: .5em; }
 
 h4, .contents-title, p.intro {
-  font-size: 20px; }
+  font-size: 16px; }
 
 h3 {
-  font-size: 24px;
-  margin-top: 2em; }
+  font-size: 20px; }
 
 h2, h1.post-title {
-  font-size: 32px; }
+  font-size: 24px; }
 
 h2 {
   border-top: 1px solid #c2c2c2;
@@ -75,7 +73,7 @@ h2 {
   margin-top: 20vw; }
 
 h1 {
-  font-size: 40px; }
+  font-size: 32px; }
 
 .site-title {
   font-size: 48px;
@@ -97,10 +95,29 @@ img {
  * Tables
  */
 table {
-  overflow-y: scroll;
-  max-width: 100%; }
-  table td {
-    min-width: 10em; }
+  border-collapse: collapse;
+  margin: 3em auto;
+  font-size: 0.9em;
+  width: 100%;
+  text-align: left; }
+
+table td, table th {
+  padding: .5em 1em;
+  min-width: 10em; }
+
+table th {
+  background-color: white;
+  border-bottom: 1px solid #828282; }
+
+tbody tr:nth-child(odd) {
+  background-color: #f1f5e1; }
+
+.channels tbody tr:nth-child(1) {
+  border-bottom: none; }
+
+.channels tbody tr td:nth-child(1) {
+  border-right: 1px solid #828282;
+  font-weight: 700; }
 
 /**
  * Figures
@@ -129,6 +146,9 @@ figure.halflast {
  */
 ul, ol {
   margin-left: 5vw; }
+  @media screen and (min-width: 60em) {
+    ul, ol {
+      margin-left: 1em; } }
 
 li > ul,
 li > ol {
@@ -184,7 +204,7 @@ blockquote p {
     margin-bottom: 0; }
   @media screen and (min-width: 60em) {
     blockquote p {
-      padding: 5vw 0; } }
+      padding: 4em; } }
 
 /**
  * Code formatting
@@ -231,17 +251,6 @@ pre {
   vertical-align: middle; }
   .icon > svg path {
     fill: #828282; }
-
-table {
-  margin: 3em auto;
-  font-size: 0.9em;
-  width: 100%; }
-
-table td {
-  padding: .5em 1em; }
-
-tbody tr:nth-child(odd) {
-  background-color: whitesmoke; }
 
 /**
  * Site header

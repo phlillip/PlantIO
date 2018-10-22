@@ -8,7 +8,15 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+/**
+ * Colours
+ */
 
+$green: #aac446;
+$cyan: #a4cdc6;
+$orange: #efa835;
+$magenta: #cc138a;
+$lighter: 40%;
 
 /**
  * Basic styling
@@ -40,47 +48,42 @@ ul, ol, dl, figure,
 /**
  * Heading style
  */
-h1, h2, h3, h4, .site-title, .contents-title{
+h1, h2, h3, h4, h5, .site-title, .contents-title{
     font-family: $heading-font-family;
     font-weight: $base-font-weight;
     line-height: $heading-line-height;
     text-transform: uppercase;
-    padding-left: $spacing-unit;
-    padding-right: $spacing-unit;
+    margin-top: 3em;
     margin-bottom: 1em;
-    text-align: center;
+    text-align: left;
 }
 
 p, li{
   font-size: $base-font-size;
 }
 h5{
-  font-size: $base-font-size;
-  line-height: $heading-line-height;
-  text-transform: lowercase;
-  font-variant: small-caps;
-  letter-spacing: .1em;
+  font-size: $base-font-size * 0.75;
+  line-height: $heading-line-height * 2;
+  letter-spacing: .25em;
   font-weight: 700;
   margin-bottom: .5em;
-  margin-top: 1.5em;
 }
 h4, .contents-title, p.intro{
-  font-size: $base-font-size * 1.25;
+  font-size: $base-font-size;
 }
 h3{
-  font-size: $base-font-size * 1.5;
-  margin-top: 2em;
+  font-size: $base-font-size * 1.25;
 }
 h2, h1.post-title{
-  font-size: $base-font-size * 2;
+  font-size: $base-font-size * 2.25;
 }
 h2{
-  border-top: 1px solid lighten($grey-color, 25%);
+  border-top: 1px solid lighten($green, $amount);
   padding-top: $spacing-unit * 2;
   margin-top:$spacing-unit * 4;
 }
 h1{
-  font-size: $base-font-size * 2.5;
+  font-size: $base-font-size * 2;
 }
 .site-title {
     font-size: $base-font-size * 3;
@@ -108,13 +111,31 @@ img {
 /**
  * Tables
  */
-table{
- overflow-y: scroll;
- max-width: 100%;
 
- td{
-   min-width: 10em;
- }
+table{
+  border-collapse: collapse;
+  margin: 3em auto;
+  font-size: 0.9em;
+  width: 100%;
+  text-align: left;
+}
+table td, table th{
+  padding: .5em 1em;
+  min-width: 10em;
+}
+table th{
+  background-color: white;
+  border-bottom: 1px solid $grey-color;
+}
+tbody tr:nth-child(odd) {
+   background-color: lighten($green, $lighter);
+}
+.channels tbody tr:nth-child(1) {
+   border-bottom: none;
+}
+.channels tbody tr td:nth-child(1) {
+   border-right: 1px solid $grey-color;
+   font-weight: 700;
 }
 
 
@@ -147,6 +168,9 @@ figure.halflast{
  */
 ul, ol {
     margin-left: $spacing-unit;
+    @include media-query($desktop) {
+      margin-left: 1em;
+    }
 }
 
 li {
@@ -221,7 +245,7 @@ blockquote p {
         margin-bottom: 0;
     }
     @include media-query($desktop) {
-      padding: $spacing-unit 0;
+      padding: 4em;
     }
 }
 
@@ -298,10 +322,4 @@ pre {
             fill: $grey-color;
         }
     }
-}
-
-table{margin: 3em auto; font-size: 0.9em; width: 100%;}
-table td{padding: .5em 1em;}
-tbody tr:nth-child(odd) {
-   background-color: $grey-color-lighter;
 }
