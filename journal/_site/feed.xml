@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Critical Reflective Journal</title>
+    <title>Journal</title>
     <description>As part of my MA in Creative App Development, I will be keeping this weekly blog to increase self-awareness and understanding as I develop my skills.
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Oct 2018 14:30:59 +0100</pubDate>
-    <lastBuildDate>Sun, 14 Oct 2018 14:30:59 +0100</lastBuildDate>
-    <generator>Jekyll v3.8.4</generator>
+    <pubDate>Sun, 14 Oct 2018 20:36:15 +0100</pubDate>
+    <lastBuildDate>Sun, 14 Oct 2018 20:36:15 +0100</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>Marketing &amp; Dissemination Plan</title>
-        <description>&lt;p&gt;PlantIO&lt;/p&gt;
-
+        <description>&lt;p&gt;PlantIO
+&lt;img src=&quot;/media/ruuts__tech.svg&quot; /&gt;
+Grow perfect food, automatically.&lt;/p&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#product-overview&quot; id=&quot;markdown-toc-product-overview&quot;&gt;Product Overview&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#value-proposition&quot; id=&quot;markdown-toc-value-proposition&quot;&gt;Value Proposition&lt;/a&gt;&lt;/li&gt;
@@ -73,7 +74,9 @@
 
 &lt;h3 id=&quot;value-proposition&quot;&gt;Value Proposition&lt;/h3&gt;
 
-&lt;p&gt;Grow perfect food, automatically.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Plant&lt;strong&gt;IO&lt;/strong&gt; allows you to grow perfect food for your family all year round at a low cost to you and the environment, completely automatically.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
 
@@ -97,35 +100,54 @@
 
 &lt;h5 id=&quot;funding&quot;&gt;Funding&lt;/h5&gt;
 
-&lt;p&gt;&lt;strong&gt;Ruuts are looking for £250,000 of funding to take the product to market.&lt;/strong&gt; This will cover salary for all 3 founders over the course of 15 months of product development, starting in January 2019 after creation of the MVP. It will also cover investment in an initial stock of 100 Plant&lt;strong&gt;IO&lt;/strong&gt; units.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ruuts are looking for £250,000 of funding to take the product to market.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This will cover salary for all 3 founders over the course of 15 months of product development, starting in January 2019 after creation of the MVP. It will also cover investment in an initial stock of 100 Plant&lt;strong&gt;IO&lt;/strong&gt; units.&lt;/p&gt;
 
 &lt;h5 id=&quot;transactions&quot;&gt;Transactions&lt;/h5&gt;
 
 &lt;h5 id=&quot;risk--reporting&quot;&gt;Risk &amp;amp; Reporting&lt;/h5&gt;
 
 &lt;h4 id=&quot;key-performance-indicators&quot;&gt;Key Performance Indicators&lt;/h4&gt;
-&lt;p&gt;Goal
-KPI
-Year 1 Target
-Year 2 Target
-Year 3 Target
-Mass adoption of consumer unit
-Number of sales of the PlantIO system
-100 units
-500 units
-5000 units
-Active, growing knowledge base &amp;amp; online community
-Number of monthly active users (MAU) on forum
-launch
-50 MAU
-500 MAU
-Integration into SMB market
-Number of custom installs
-1 install
-10 installs
-50 installs&lt;/p&gt;
+
+&lt;table&gt;
+&lt;tr&gt;
+  &lt;th&gt;Goal&lt;/th&gt;
+  &lt;th&gt;KPI&lt;/th&gt;
+  &lt;th&gt;Year 1 Target&lt;/th&gt;
+  &lt;th&gt;Year 2 Target&lt;/th&gt;
+  &lt;th&gt;Year 3 Target&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Mass adoption of consumer unit&lt;/td&gt;
+  &lt;td&gt;Number of sales of the PlantIO system&lt;/td&gt;
+  &lt;td&gt;100&lt;/td&gt;
+  &lt;td&gt;500&lt;/td&gt;
+  &lt;td&gt;5000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Active, growing knowledge base &amp;amp; online community&lt;/td&gt;
+  &lt;td&gt;Number of monthly active users (MAU) on forum&lt;/td&gt;
+  &lt;td&gt;launch&lt;/td&gt;
+  &lt;td&gt;50&lt;/td&gt;
+  &lt;td&gt;500&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Integration into SMB market&lt;/td&gt;
+  &lt;td&gt;Number of custom installs&lt;/td&gt;
+  &lt;td&gt;1&lt;/td&gt;
+  &lt;td&gt;10&lt;/td&gt;
+  &lt;td&gt;50&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
 &lt;h4 id=&quot;differentiation-compared-to-competitors&quot;&gt;Differentiation compared to competitors&lt;/h4&gt;
+&lt;p&gt;Plant&lt;strong&gt;IO&lt;/strong&gt; is differentiating from the competition in two main areas:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pricing model&lt;/li&gt;
+  &lt;li&gt;Product offering&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h4 id=&quot;market-behaviours&quot;&gt;Market Behaviours&lt;/h4&gt;
 
 &lt;h3 id=&quot;projections&quot;&gt;Projections&lt;/h3&gt;
