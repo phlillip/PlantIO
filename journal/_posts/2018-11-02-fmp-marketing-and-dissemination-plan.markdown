@@ -1,19 +1,15 @@
 ---
-layout: post
+layout: report
 comments: false
 title:  Marketing & Dissemination Plan
-tagline: Assignment 3
+tagline: Falmouth University | MA Creative App Development | Final Major Project | PlantIO | November 2019 | Phillip David Penny | PP196285
 date:   2018-10-02 12:00:00 +0000
 categories: FMP
 ---
 
-<h2 class="text-center">PlantIO</h2>
+<h2 class="main text-center">Plant<strong>IO</strong></h2>
 <img src="/media/ruuts__tech.svg" />
 <h3 class="text-center">Grow perfect food, automatically.</h3>
-
-<span class="contents-title page-break">Contents</span>
-* TOC
-{:toc .NOshallow-list}
 
 ## Product Overview
 
@@ -22,7 +18,7 @@ categories: FMP
 > PlantIO allows you to grow perfect food for your family all year round at a low cost to you and the environment, completely automatically.
 
 ### Summary
-<div class="flex-col">
+<div class="flex">
 <p><strong>In the developed countries of the modern world we are now eating a wider variety of foods than ever before, with incredible accessibility. However, this global transportation of food comes at a cost, creating issues which society is becoming more informed about, such as the quality of our food, its true origins and what it really means to be organic, and what impacts this process is having on the environment.</strong></p>
 
 <p>The fact is, it is far easier to have a seemingly limitless supply of food any time of the year than it is to try to grow our own. Time, space, and our attention spans are at an ever increasing premium. Food is one of the 3 key elements all humans need to survive, along with warmth and shelter, and it deserves more of our attention. We can do better, and here at Ruuts we have done better.</p>
@@ -42,20 +38,20 @@ The PlantIO app monitors all aspects of the plants' health and adjusts the syste
 
 ##### 3 steps to success
 
-<div class="flex-col">
-<div><h5>Connect</h5>Simply connect your PlantIO system with your account via wi-fi, select the recipe you desire; place your seeds into your system and the germination phase then begins automatically.</div>
-<div><h5>Select</h5>The PlantIO app will monitor the seeds as they develop into sproutlings, and when ready, PlantIO will instruct you to select the superior sproutling and remove the others.</div>
-<div><h5>Collect</h5>The PlantIO app will now monitor complete growth of the plant and let you know when it is time to pick the final fruits.</div>
+<div class="flex">
+<div><strong>Connect</strong><br />Simply connect your PlantIO system with your account via wi-fi, select the recipe you desire; place your seeds into your system and the germination phase then begins automatically.</div>
+<div><strong>Select</strong><br />The PlantIO app will monitor the seeds as they develop into sproutlings, and when ready, PlantIO will instruct you to select the superior sproutling and remove the others.</div>
+<div><strong>Collect</strong><br />The PlantIO app will now monitor complete growth of the plant and let you know when it is time to pick the final fruits.</div>
 </div>
 
 ##### Freedom of growth
 
 This fully automated growing can be adjusted to give you back some control; we provide two extra kinds of recipes to live alongside the fully automatic variety.
 
-<div class="flex-col">
-<div><h5>Automatic</h5>Simply connect your PlantIO system with your account via wi-fi, select the recipe you desire; place your seeds into your system and the germination phase then begins automatically.</div>
-<div><h5>Semi-automatic</h5>'Semi-automatic' recipes work in the same way as standard fully automatic recipes, however they notify you when it's time to feed, water or give light to your plant rather than doing it automatically. You must then use the apps to control the grow system yourself, in real time.</div>
-<div><h5>Manual</h5>Finally, we have 'manual' recipes which provide no instructions whatsoever; it is up to you to decide how and when to care for your plant. This can be set up ahead of time or managed on the fly, just as you would a normal plant.</div>
+<div class="flex">
+<div><strong>Automatic</strong><br />Simply connect your PlantIO system with your account via wi-fi, select the recipe you desire; place your seeds into your system and the germination phase then begins automatically.</div>
+<div><strong>Semi-automatic</strong><br />'Semi-automatic' recipes work in the same way as standard fully automatic recipes, however they notify you when it's time to feed, water or give light to your plant rather than doing it automatically. You must then use the apps to control the grow system yourself, in real time.</div>
+<div><strong>Manual</strong><br />Finally, we have 'manual' recipes which provide no instructions whatsoever; it is up to you to decide how and when to care for your plant. This can be set up ahead of time or managed on the fly, just as you would a normal plant.</div>
 </div>
 
 ##### Evolutional database
@@ -85,21 +81,37 @@ The user can monitor their plant at any point using the PWA from any device with
 * Databank of recipes specify exact feed, light and temperature requirements for each plant, delivering perfect day/night cycles and rest periods.
 
 ### Audience
->> Millennial families looking to appear aware and improve their diets with minimal effort through the use of technology.
+> Millennial families looking to appear aware and improve their diets with minimal effort through the use of technology.
 
 #### Millenials
-<img src="/media/persona__millenial-man-mark.jpg" style="float: left; width: 25vw; margin: 0 1em 1em 0" />
+<img src="/media/persona__millenial-man-mark.jpg" style="float: left; width: 25vw; margin: 0 2em 2em 0" />
 Millenial man Mark is a highly aware individual; happily married with a very young family and a busy schedule. Mark is aware of the environment, aware of what we eat, and aware of our impression on others. Mark see the popularity behind lifestyle choices and provides an opportunity for marketing purposes for our product. Defined as a first-time passive user of the system, Mark will be looking for results and will use the system in fully automatic mode to fit in with his busy schedules. Should he see success with the system he is likely to form part of the subscription base, he has disposable income which he is happy to use to improve the quality of live for his family.
-
-Frequency | First time | Intermediate | Casual | Power |
-Engagement | Passive | Active | Advocate
-Usage | Enthusiast | Prosumer | Professional
-Vertical Specific | Hobby | Home | Business
-Channel | Social | Inbound | Traditional Ads
-Sales Funnel Position | High | Middle | Low
-Financial Model | Free | Freemium | Paid | Enterprise
-Handling User Needs | Automatic | Semi-automatic | Manual | AI
-{:.channels}
+<table class="channels">
+<tr>
+<td>Frequency</td><td class="selected">First time</td><td>Intermediate</td><td>Casual</td><td>Power</td>
+</tr>
+<tr>
+<td>Engagement</td><td class="selected">Passive</td><td>Active</td><td>Advocate</td><td></td>
+</tr>
+<tr>
+<td>Usage</td><td>Enthusiast</td><td class="selected">Prosumer</td><td>Professional</td><td></td>
+</tr>
+<tr>
+<td>Vertical Specific</td><td>Hobby</td><td class="selected">Home</td><td>Business</td><td></td>
+</tr>
+<tr>
+<td>Channel</td><td>Social</td><td>Inbound</td><td class="selected">Traditional Ads</td><td></td>
+</tr>
+<tr>
+<td>Sales Funnel Position</td><td class="selected">High</td><td>Middle</td><td>Low</td><td></td>
+</tr>
+<tr>
+<td>Financial Model</td><td>Free</td><td class="selected">Freemium</td><td>Paid</td><td>Enterprise</td>
+</tr>
+<tr>
+<td>Handling User Needs</td><td class="selected">Automatic</td><td>Semi-automatic</td><td>Manual</td><td>AI</td>
+</tr>
+</table>
 
 #### Other segments
 
@@ -112,18 +124,24 @@ Chef Cheryl is a small food business owner, serving vegan food from her converte
 
 ## Go-To-Market (GTM) Strategy
 
-<img src="/media/ruuts__model.svg" >
+<div class="flex" style="align-items: center">
+<img src="/media/ruuts__model.svg"  style="width: 100%" >
+<blockquote><p>A four stage business model initially targeting the consumer market, reaching into small businesses and finally entering the industrial market. Space is the final frontier.</p></blockquote>
+
+</div>
 
 ### Business Plan
 
->> A four stage business model initially targeting the consumer market, reaching into small businesses and finally entering the industrial market. Space is the final frontier.
+
 
 #### Strategy
 The Ruuts business model is composed of 3 major sequential phases&mdash;consumer, business, and industrial. There is a 4th end goal phase which the company is always driving towards.
 
 ##### Phase 1
 Ruuts will launch directly into the first phase which will focus on the consumer market. Initially, revenue will be generated through the sale of systems and equipment for occasional, home-based use, accompanied by the corresponding phase 1 of the PlantIO app. During this phase, everything will be open source in line with the values of the company; individuals will be free to use our code and create their own systems. The consumer will serve as a major source of promotion for the company during this phase and help Ruuts gain traction within the press and social media.
+
 The controlling application will be free to use for the first 3 harvests, giving the user enough time to benefit from the technology and have it form a part of their lifestyle. After this period, a subscription model will be implemented, charging monthly operating costs if the user wishes to have the full version of the software; otherwise they will be limited in some way, either by functionality limits or advertisements, yet to be determined.
+
 Continual investment will need to be made into promotion, online presence, and product development as issues are ironed out and consumer recommended enhancements are implemented. In addition to this, product development will need to be made into preparing for phase 2.
 
 ##### Phase 2
@@ -142,15 +160,15 @@ PlantIO will initially serve the consumer market with advanced technology for a 
 
 [//]: # (Alongside strategy, people and operations represent another key growth driver. Companies that grow fast often have a key individual driving them forward – the person with the initial vision, energy and determination to step out along the entrepreneurial road. However, growing a business fast relies on teamwork. Entrepreneurs need to draw around them a group of individuals who they can trust, who share the same dreams and apply the same values when trying to bring that dream alive. On the operations side, a growing business needs to develop an appropriate infrastructure and keep adjusting that infrastructure as the business grows. This involves IT systems, processes, even basic office space. If you are growing fast, will you have enough room for your expanded team in six months’ time? And as the business grows, new operational systems may need to be developed to maintain efficiency.)
 
-<div class="flex-col" style="align-items: center">
-<img src="/media/ruuts__team--combo.svg" style="height: 40vw" />
-
+<div class="flex" style="align-items: center">
 <blockquote><p>Ruuts is powered by 3 founders all of whom are key individuals with unique, complementary skills.</p></blockquote>
+<img src="/media/ruuts__team--combo.svg" style="height: 50vw" />
+
 </div>
 
 We combine the perfect mix of an experienced product designer in myself, with over 15 years of professional design experience, focusing on the digital side of the business, developing the software and social strategy; a horticulture expert in Brett Bartlett with a vast knowledge of plant growth characteristics and an aeroponic research programme behind him, focusing on developing optimum plant recipes to ensure a quality end product. and electronics engineer Ashley Banner who specialises in designing electronic systems with off-the-shelf components to create bespoke products, essentially taking Ruuts designs and turning them into a feasible, realistic tangible product; focussing on develop the hardware systems.
 
-<div class="flex-col">
+<div class="flex">
 <p>Ruuts have successfully worked together on a separate startup - <a href="https://carboncandy.co.uk">Carbon Candy</a> - producing bespoke carbon fibre and more recently 3D printed components for various industries, focusing on the drone industry of late, with a multi-page publication in Drone Magazine.</p>
 <p>Carbon Candy was designed as a stepping stone into Ruuts, enabling us to acquire the skills necessary build our own system using advanced materials, as well as learning the skills required to work together and form a successful business.</p>
 </div>
@@ -211,7 +229,14 @@ PlantIO is differentiating from the competition in two main areas:
 
 ##### Special Promotions / Attachment strategies
 
-##### Up-sells & Cross-sells
+<div class="flex" style="align-items: flex-start">
+<img src="/media/action-against-hunger.svg" style="width: 25vw" />
+<p>Forming a partnership with a charity such as <a href="https://www.actionagainsthunger.org/">Action Against Hunger</a> will help align our values with the customer and enable them to feel good knowing that purchasing from us immediately helps the fight against hunger, even before our industrial units are released.</p>
+</div>
+
+##### Up-sells, Cross-sells & Bundles
+
+Upsells are a key part of our product strategy; the user can purchase the base system at minimal cost and upgrade virtually all of the components depending on their budget and requirements. Cross-sells include offering heirloom seed packs with every purchase as well as recommended plant feeds. Similarly, bundles will play an important role in our product strategy. Essentially combining upgrades from each component into its own bundle along with seed packs and feed.
 
 Component | Base | Upsell 1 | Upsell 2
 ---- | --- | ------------- | -------------
@@ -219,12 +244,6 @@ Feed | Basic mister | Low pressure nozzle | High pressure atomizer
 Light | LED | Multi-color LED | Low-power LED
 Temperature | Basic thermostatic element | Min-max thermostat | Low energy thermostat
 Enclosure | Basic fabric skeleton | Modular enclosure | AR Enclosure
-
-Upsells are a key part of our product strategy; the user can purchase the base system at minimal cost and upgrade virtually all of the components depending on their budget and requirements. Cross-sells include offering heirloom seed packs with every purchase as well as recommended plant feeds.
-
-##### Bundling plans
-
-Similarly to the individual component upsells and cross-sells, bundles will play an important role in our product strategy. Essentially combining upgrades from each component into its own bundle along with seed packs and feed.
 
 ##### Differentiation compared to competitors
 
@@ -234,11 +253,11 @@ Aeroponics is used to grow the plant, negating the need for any soil and reducin
 
 Aeroponics is used to feed the plants and is the most advanced growing technique available. Plants are suspended in a growing medium in air&mdash;normally gauze or cotton&mdash;and the roots are misted with controlled droplets of feed to ensure they have optimum nutrition uptake, without the need for soil.
 
-<div class="flex-col">
-<div><h3>95%</h3>less water</div>
-<div><h3>90%</h3>less land</div>
-<div><h3>30%</h3>faster</div>
-<div><h3>no</h3>pesticies or fertilisers</div>
+<div class="flex">
+<div><h4>95%</h4>less water</div>
+<div><h4>90%</h4>less land</div>
+<div><h4>30%</h4>faster</div>
+<div><h4>no</h4>pesticies or fertilisers</div>
 </div>
 
 We will focus on 5 key areas of differentiation:
@@ -280,12 +299,23 @@ The competitor analysis has shown that the PlantIO system provides multiple USP'
 
 [//]: # (This is where you identify the primary channels that you’ll use—both to sell your products and to educate and support your customers—along with the resources, training, and incentives that will drive channel performance. In complex channel organizations, products and offers may differ from one channel to the next, playing on the unique advantages of specific channels, such as direct sales teams or online portals.)
 
+The primary sales channel will be online via our website, which will act both an e-commerce store as well as central hub for the users' PlantIO account, all product documentation and training resources, the recipe database and the community hub.
 
+We will also allow for direct sales through our Instagram channel as well as during our demonstration events which will target exhibitions, conferences, festival events and education establishments.
+
+Moving forward, we aim to construct a permanent demonstration facility providing free food to the local underprivileged community. This facility&mdash;like the demonstration vehicle&mdash;will be open to the public and provide a guided tour of our technology and products.
 
 
 ### Marketing Strategy
 
 [//]: # (This section summarizes the activities you’ll use to drive awareness and generate leads, both in your identified markets and within your existing customer base. In large organizations, the marketing strategy may also include activities for generating internal awareness. Such internally oriented activities are particularly important in situations where many groups will “touch” customers as they progress from purchase to activation to support.)
+<div class="flex">
+<div>
+<img src="/media/earned-owned-paid-media.png" />
+<a href="https://www.titangrowth.com/what-is-earned-owned-paid-media-the-difference-explained/">Source: Titan Growth</a>
+</div>
+<p>We are approaching our marketing using the strategy of paid, earned and owned media. In order to get people to our website and online community, we need to use earned and paid media to push our segments. A strong SEO strategy is needed in order to gain earned media from organic traffic, social sharing etc which ties back into our content marketing element&mdash;writing articles for publications along with our own blogs. Sales funnels will be implemented to ensure our time is used as efficiently as possible.</p>
+</div>
 
 ### Customer Experience
 
@@ -389,77 +419,143 @@ For further information, please contact Phillip Penny at [phil@plantio.co.uk](ma
 
 ### Social media
 
+Social media will initially be limited to a single active channel - Instagram. Accounts will exist across all social media ecosystems to give the brand a presence, however content creation will be focused around Instagram and driven to using the other channels. Instagram offers:
+* Visual
+* Instagram stories
+* Clean uncluttered experience free from advertisements
+* Shoppable
+* Consistent
+
+The main focus for our social media campaigns will be to:
+
+<div class="flex">
+<p>Increase brand awareness</p>
+<p>Higher quality sales</p>
+<p>Create loyalty</p>
+<p></p>
+</div>
+
 ### Analytics
 
 ### Feedback Channels
 
+Feedback channels include:
+
+* Website
+* PWA Account
+  * Surveys upon each harvest
+* Commenting via [commentbox.io](https://commentbox.io)
+* Continuous usability testing
+* Demonstration events
+
 ### Bug Tracking
 
+With our open source code hosted on Github, we will use their integrated bug tracking feature to manage all issues. Any known issues by the development team will be added prior to launch, and any additional issues highlighted post-launch will also be added to ensure a central repository of information.
+
+All issues will be added in the format of user stories: As a [user type], I want to [task] so that [goal]:
+
+>> &lsquo; As a customer, I want to schedule growing so that I can accurately predict the harvest period &rdquo;
+
+This ensures communication is easy for the user reporting the bug, and clarity is at the forefront of the problem; it may highlight a user trying to use the PlantIO system in a way not intended, allowing us to focus on documentation rather than blindly fixing bugs as they are raised.
+
 ## Post Launch
+### Maintenance & Future Development
+<div class="flex" style="align-items: center;">
+<img src="/media/git-model.png" style="width: 40vw; height: auto" />
+<blockquote><p>All future app development will follow the Git branching model as proposed by <a href="https://nvie.com/posts/a-successful-git-branching-model/">Vincent Driessen</a>.</p></blockquote>
+</div>
 
-### Maintenance
+Scheduled regular software updates will initially fall in line with our own harvests and linked blog posts as we work to short sprints. As the community grows, moderation of recipes and the forum will be required Future developments will initially focus on hardware as we look to scale the PlantIO system for business and industrial use.
 
-### Future Development
 
 ### Continued User Engagement
 
+#### Charity
+<div class="flex" style="align-items: flex-start">
+<img src="/media/action-against-hunger.svg" style="width: 25vw" />
+<p>Forming a partnership with a charity such as <a href="https://www.actionagainsthunger.org/">Action Against Hunger</a> will help align our values with the customer and enable them to feel good knowing that purchasing from us immediately helps the fight against hunger, even before our industrial units are released.</p>
+</div>
+#### Gamification
+A lot of the concepts from [Fudogotchi](http://fudogotchi.naturalmohican.com/) can be applied to the post launch experience for PlantIO - encouraging the user to earn achievements and level up will of course increase the chance of them engaging with us online and advertising through word of mouth. Their acquired status will also give them a certain level of standing in the growing forums.
+
+#### Brand advocates as community leaders
+Our customers who are highly engaged on social media will be targeted to become brand advocates, essentially rewarding their loyalty and encouraging them to continue. The community will eventually be introduced to the idea of communal growing (sharing produce within a neighbourhood, teaming up to organise what is being grown and where), which needs to be led by our brand advocates.
+
+#### Case Studies with real users/businesses as blog posts
 
 ## Appendix
 
 Competitor Case Studies
 
-[ 1 ]  Farmbot
-[ 2 ]  Click & Grow
+[1]  Farmbot
+
+[2]  Click & Grow
 
-FarmBot
-COMPETITOR CASE STUDY
+## FarmBot
+##### COMPETITOR CASE STUDY
+{: .text-center}
 
+<div class="flex ai--c">
+<img src="/media/farmbot--desktop.png" style="width: 67.5vw" />
+<img src="/media/farmbot--mobile.png" style="width: 17.5vw" />
+</div>
+Figure 1: The [FarmBot]( https://farm.bot/ ) homepage
 
-Figure 1: The FarmBot homepage ( https://farm.bot/ )
+**Location:** USA
 
-Location
-USA
-Mission Statement
-Grow a community that produces free and open-source hardware plans, software, data, and documentation enabling everyone to build and operate a farming machine.
-Product Offering
-FarmBot Express (Not yet released)
-FarmBot Genesis ($2,595.00 USD)
-FarmBot Genesis XL ($3,795.00 USD)
+**Mission Statement:**
 
-Content
-Blog posts  |  Whitepapers  |  eBooks  |  Videos  |  Webinars  |  Podcasts  |  Slides/Powerpoints  |  Visual content  |  FAQs  |  Feature articles  |  Press releases  |  News  |  Case studies  |  Buyer guides
+>> &ldquo; Grow a community that produces free and open-source hardware plans, software, data, and documentation enabling everyone to build and operate a farming machine. &rdquo;
 
-Strengths & Weaknesses
-Following the open-source route creates a strong community, and a very strong online presence provides documentation, forums, videos and reviews.
-The system requires a big upfront investment, technical skills to build and setup the machine, and a large area of space to run, all the while using traditional inefficient farming methods.
-Category of Competition
-Primary  |   Secondary   |  Tertiary
+**Product Offering:**
+* FarmBot Express (Not yet released)
+* FarmBot Genesis ($2,595.00 USD)
+* FarmBot Genesis XL ($3,795.00 USD)
+
+**Content:**
+
+<p>Blog posts  |  Whitepapers  |  eBooks  |  Videos  |  Webinars  |  Podcasts  |  Slides/Powerpoints  |  Visual content  |  FAQs  |  Feature articles  |  Press releases  |  News  |  Case studies  |  Buyer guides</p>
+
+**Strengths & Weaknesses:**
+
+Following the open-source route creates a strong community, and a very strong online presence provides documentation, forums, videos and reviews. The system requires a big upfront investment, technical skills to build and setup the machine, and a large area of space to run, all the while using traditional inefficient farming methods.
+
+**Category of Competition:**
+
+<p>Primary | <span>Secondary</span> | Tertiary</p>
+{: .tags}
 
 FarmBot offer a high-end version of our product at a much higher price to a slightly different audience, using lower-end hardware.
-Click & Grow
-COMPETITOR CASE STUDY
 
+## Click & Grow
+##### COMPETITOR CASE STUDY
+{: .text-center}
 
-Figure 1: The Click & Grow homepage ( https://eu.clickandgrow.com/ )
+<div class="flex ai--c">
+<img src="/media/clickandgrow--desktop.png" style="width: 67.5vw" />
+<img src="/media/clickandgrow--mobile.png" style="width: 17.5vw" />
+</div>
+Figure 1: The [Click & Grow]( https://eu.clickandgrow.com/) homepage
 
-Location
-USA & Estonia
-Mission Statement
-We create transformative technologies that allow growing fresh, vitamin-packed food locally and sustainably.
-Product Offering
-Smart Garden 3 / Smart Garden 9 (€99.95 / €199.95)
-Wall Farm Mini / Wall Farm (€899.00 / €1,299.00)
-Plant Pods (€9.95)
+**Location:** USA & Estonia
 
-Content
-Blog posts  |  Videos  |  Visual content  |  FAQs  |  Forum
+**Mission Statement:**
+>> &ldquo; We create transformative technologies that allow growing fresh, vitamin-packed food locally and sustainably. &rdquo;
 
-Strengths & Weaknesses
+**Product Offering:**
+* Smart Garden 3 / Smart Garden 9 (€99.95 / €199.95)
+* Wall Farm Mini / Wall Farm (€899.00 / €1,299.00)
+* Plant Pods (€9.95)
 
-Category of Competition
- Primary   |  Secondary  |  Tertiary
+**Content:**
+
+<p>Blog posts  |  Videos  |  Visual content  |  FAQs  |  Forum</p>
+
+**Strengths & Weaknesses:**
+
+**Category of Competition:**
+
+ <p><span>Primary</span> | Secondary | Tertiary</p>
+ {: .tags}
 
 Click & Grow offer a low-end version of our product at a higher price to a very similar audience, using lower-end hardware and software.
-
-
-> Let him who would move the world first move himself. - Socrates

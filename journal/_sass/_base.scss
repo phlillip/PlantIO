@@ -12,6 +12,7 @@ dl, dd, ol, ul, figure {
  * Colours
  */
 
+$white: #ffffff;
 $green: #aac446;
 $cyan: #a4cdc6;
 $orange: #efa835;
@@ -39,10 +40,10 @@ body {
  */
 
 .text-center{text-align: center;}
-.page-break{break-before: always; page-break-before: always;}
 .shallow-list li ul li ul li{ display: none;}
+.shallow-list li {width: 50%;}
 
-.flex-col{
+.flex{
   display: flex;
   justify-content: space-between;
   margin: 0 calc(-#{$spacing-unit} / 2) $spacing-unit calc(-#{$spacing-unit} / 2);
@@ -53,6 +54,12 @@ body {
     flex-basis: 0;
   }
 }
+.fd--c{flex-direction: column;}
+.fw--w{flex-wrap: wrap;}
+.ai--c{align-items: center}
+.ai--fs{align-items: flex-start}
+
+.tags span{font-weight: bold; background: $green; padding: .25em .5em;}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -72,7 +79,7 @@ h1, h2, h3, h4, h5, .site-title, .contents-title{
     font-weight: $base-font-weight;
     line-height: $heading-line-height;
     text-transform: uppercase;
-    margin-top: 3em;
+    margin-top: 2em;
     margin-bottom: 1em;
     text-align: left;
 }
@@ -88,39 +95,40 @@ h5{
   margin-bottom: .5em;
 }
 h4, .contents-title, p.intro{
-  font-size: $base-font-size;
+  font-size: $base-font-size * 1.25;
 }
 h3{
-  border-top: 1px solid lighten($green, $lighter);
+  border-top: .125em solid lighten($green, $lighter);
   margin-left: 6em;
   margin-right: 6em;
   padding-top: 1.5em;
-  font-size: $base-font-size * 1.25;
+  font-size: $base-font-size * 2;
   text-align: center;
 }
 h2, h1.post-title{
-  font-size: $base-font-size * 2.25;
+  font-size: $base-font-size * 2.5;
 }
 h2{
-  border-top: 2px solid lighten($green, $lighter);
-  padding-top: $spacing-unit * 2;
-  margin-top:$spacing-unit * 4;
+  border-top: .125em solid $green;
+  padding-top: $spacing-unit;
+  margin-top :$spacing-unit * 2;
   text-align: center;
+
+  &.main {
+    margin-top: 0;
+  }
 }
 h1{
+  margin-top: 0;
   font-size: $base-font-size * 2;
+  text-align: center;
 }
-.site-title {
-    font-size: $base-font-size * 3;
+.page-title, time {
+  display: block;
+    font-size: $base-font-size;
     font-weight: 300;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-	word-spacing: $base-font-size * 80;
-
-    &,
-    &:visited {
-        color: $background-color;
-    }
+    margin-bottom: 3em;
+    text-align: center;
 }
 
 
@@ -143,6 +151,7 @@ table{
   font-size: 0.9em;
   width: 100%;
   text-align: left;
+  position: relative;
 }
 table td, table th{
   padding: .5em 1em;
@@ -150,16 +159,19 @@ table td, table th{
 }
 table th{
   background-color: white;
-  border-bottom: 1px solid $grey-color;
+  border-bottom: .25em solid $green;
 }
 tbody tr:nth-child(odd) {
    background-color: lighten($green, $lighter);
+}
+.channels {
+  td.selected{background: $green; color: $white;}
 }
 .channels tbody tr:nth-child(1) {
    border-bottom: none;
 }
 .channels tbody tr td:nth-child(1) {
-   border-right: 1px solid $grey-color;
+   border-right: .25em solid $green;
    font-weight: 700;
 }
 
@@ -255,15 +267,18 @@ a {
   visibility: hidden!important;
 }
 
-
-
 /**
  * Blockquotes
  */
-blockquote p {
+
+blockquote{
+  margin-bottom: 0;
+
+p {
     color: $grey-color;
     padding: $spacing-unit;
     font-size: $base-font-size * 1.25;
+    margin-bottom: 0;
 	text-align: center;
 
     > :last-child {
@@ -272,6 +287,7 @@ blockquote p {
     @include media-query($desktop) {
       padding: 4em;
     }
+}
 }
 
 
@@ -308,12 +324,15 @@ pre {
     margin-right: auto;
     margin-left: auto;
     @extend %clearfix;
-    max-width: 50em;
     overflow: hidden;
 
     @include media-query($desktop) {
 
     }
+}
+
+@media screen{
+  .wrapper { max-width: 50em;}
 }
 
 
@@ -347,4 +366,36 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+/**
+ * Printing and PDF generation
+ */
+
+@media print {
+
+  a[href^="http"]:not([href*="example.com"]):after {
+    content: " (" attr(href) ")";
+  }
+  @page {
+  margin: 10mm;
+}
+p, h1, h2, h3, h4 ,h5 {
+  orphans: 2;
+  widows: 2;
+}
+h2 {
+  page-break-before: always;
+  break-before: page;
+  margin-top :$spacing-unit / 2;
+}
+h2, h3, h3, h4, h5{
+  page-break-after: avoid;
+  break-after: avoid-page;
+}
+img, table{
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
 }

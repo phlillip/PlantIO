@@ -33,21 +33,37 @@ body {
 .text-center {
   text-align: center; }
 
-.page-break {
-  break-before: always;
-  page-break-before: always; }
-
 .shallow-list li ul li ul li {
   display: none; }
 
-.flex-col {
+.shallow-list li {
+  width: 50%; }
+
+.flex {
   display: flex;
   justify-content: space-between;
   margin: 0 calc(-5vw / 2) 5vw calc(-5vw / 2); }
-  .flex-col p, .flex-col div {
+  .flex p, .flex div {
     margin: calc(5vw / 2);
     flex-grow: 1;
     flex-basis: 0; }
+
+.fd--c {
+  flex-direction: column; }
+
+.fw--w {
+  flex-wrap: wrap; }
+
+.ai--c {
+  align-items: center; }
+
+.ai--fs {
+  align-items: flex-start; }
+
+.tags span {
+  font-weight: bold;
+  background: #aac446;
+  padding: .25em .5em; }
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -66,7 +82,7 @@ h1, h2, h3, h4, h5, .site-title, .contents-title {
   font-weight: 300;
   line-height: 0.9;
   text-transform: uppercase;
-  margin-top: 3em;
+  margin-top: 2em;
   margin-bottom: 1em;
   text-align: left; }
 
@@ -81,36 +97,38 @@ h5 {
   margin-bottom: .5em; }
 
 h4, .contents-title, p.intro {
-  font-size: 16px; }
+  font-size: 20px; }
 
 h3 {
-  border-top: 1px solid #f1f5e1;
+  border-top: 0.125em solid #f1f5e1;
   margin-left: 6em;
   margin-right: 6em;
   padding-top: 1.5em;
-  font-size: 20px;
+  font-size: 32px;
   text-align: center; }
 
 h2, h1.post-title {
-  font-size: 36px; }
+  font-size: 40px; }
 
 h2 {
-  border-top: 2px solid #f1f5e1;
-  padding-top: 10vw;
-  margin-top: 20vw;
+  border-top: 0.125em solid #aac446;
+  padding-top: 5vw;
+  margin-top: 10vw;
   text-align: center; }
+  h2.main {
+    margin-top: 0; }
 
 h1 {
-  font-size: 32px; }
+  margin-top: 0;
+  font-size: 32px;
+  text-align: center; }
 
-.site-title {
-  font-size: 48px;
+.page-title, time {
+  display: block;
+  font-size: 16px;
   font-weight: 300;
-  letter-spacing: -1px;
-  margin-bottom: 0;
-  word-spacing: 1280px; }
-  .site-title, .site-title:visited {
-    color: #ffffff; }
+  margin-bottom: 3em;
+  text-align: center; }
 
 /**
  * Images
@@ -127,7 +145,8 @@ table {
   margin: 0 auto 3em auto;
   font-size: 0.9em;
   width: 100%;
-  text-align: left; }
+  text-align: left;
+  position: relative; }
 
 table td, table th {
   padding: .5em 1em;
@@ -135,16 +154,20 @@ table td, table th {
 
 table th {
   background-color: white;
-  border-bottom: 1px solid #828282; }
+  border-bottom: 0.25em solid #aac446; }
 
 tbody tr:nth-child(odd) {
   background-color: #f1f5e1; }
+
+.channels td.selected {
+  background: #aac446;
+  color: #ffffff; }
 
 .channels tbody tr:nth-child(1) {
   border-bottom: none; }
 
 .channels tbody tr td:nth-child(1) {
-  border-right: 1px solid #828282;
+  border-right: 0.25em solid #aac446;
   font-weight: 700; }
 
 /**
@@ -223,16 +246,19 @@ a {
 /**
  * Blockquotes
  */
-blockquote p {
-  color: #828282;
-  padding: 5vw;
-  font-size: 20px;
-  text-align: center; }
-  blockquote p > :last-child {
-    margin-bottom: 0; }
-  @media screen and (min-width: 60em) {
-    blockquote p {
-      padding: 4em; } }
+blockquote {
+  margin-bottom: 0; }
+  blockquote p {
+    color: #828282;
+    padding: 5vw;
+    font-size: 20px;
+    margin-bottom: 0;
+    text-align: center; }
+    blockquote p > :last-child {
+      margin-bottom: 0; }
+    @media screen and (min-width: 60em) {
+      blockquote p {
+        padding: 4em; } }
 
 /**
  * Code formatting
@@ -258,9 +284,11 @@ pre {
 .wrapper {
   margin-right: auto;
   margin-left: auto;
-  max-width: 50em;
   overflow: hidden; }
 
+@media screen {
+  .wrapper {
+    max-width: 50em; } }
 /**
  * Clearfix
  */
@@ -280,6 +308,31 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+/**
+ * Printing and PDF generation
+ */
+@media print {
+  a[href^="http"]:not([href*="example.com"]):after {
+    content: " (" attr(href) ")"; }
+
+  @page {
+    margin: 10mm; }
+  p, h1, h2, h3, h4, h5 {
+    orphans: 2;
+    widows: 2; }
+
+  h2 {
+    page-break-before: always;
+    break-before: page;
+    margin-top: 2.5vw; }
+
+  h2, h3, h3, h4, h5 {
+    page-break-after: avoid;
+    break-after: avoid-page; }
+
+  img, table {
+    page-break-inside: avoid;
+    break-inside: avoid; } }
 /**
  * Site header
  */
