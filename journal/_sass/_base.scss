@@ -21,6 +21,7 @@ $lighter: 40%;
 /**
  * Basic styling
  */
+
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
@@ -33,7 +34,25 @@ body {
     font-kerning: normal;
 }
 
+/**
+ * Utilities
+ */
 
+.text-center{text-align: center;}
+.page-break{break-before: always; page-break-before: always;}
+.shallow-list li ul li ul li{ display: none;}
+
+.flex-col{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 calc(-#{$spacing-unit} / 2) $spacing-unit calc(-#{$spacing-unit} / 2);
+
+  p, div{
+    margin: calc(#{$spacing-unit} / 2);
+    flex-grow: 1;
+    flex-basis: 0;
+  }
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -72,15 +91,21 @@ h4, .contents-title, p.intro{
   font-size: $base-font-size;
 }
 h3{
+  border-top: 1px solid lighten($green, $lighter);
+  margin-left: 6em;
+  margin-right: 6em;
+  padding-top: 1.5em;
   font-size: $base-font-size * 1.25;
+  text-align: center;
 }
 h2, h1.post-title{
   font-size: $base-font-size * 2.25;
 }
 h2{
-  border-top: 1px solid lighten($green, $lighter);
+  border-top: 2px solid lighten($green, $lighter);
   padding-top: $spacing-unit * 2;
   margin-top:$spacing-unit * 4;
+  text-align: center;
 }
 h1{
   font-size: $base-font-size * 2;
@@ -114,7 +139,7 @@ img {
 
 table{
   border-collapse: collapse;
-  margin: 3em auto;
+  margin: 0 auto 3em auto;
   font-size: 0.9em;
   width: 100%;
   text-align: left;
@@ -167,7 +192,7 @@ figure.halflast{
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+    margin-left: calc(#{$spacing-unit} / 2);
     @include media-query($desktop) {
       margin-left: 1em;
     }
@@ -176,7 +201,7 @@ ul, ol {
 li {
     > ul,
     > ol {
-         margin-bottom: 0;
+         margin-top: calc(#{$spacing-unit} / 4);
     }
 }
 
