@@ -42,9 +42,9 @@ body {
 .flex {
   display: flex;
   justify-content: space-between;
-  margin: 0 calc(-5vw / 2) 5vw calc(-5vw / 2); }
+  margin: 0 calc(-1em / 2) 1em calc(-1em / 2); }
   .flex p, .flex div {
-    margin: calc(5vw / 2);
+    margin: calc(1em / 2);
     flex-grow: 1;
     flex-basis: 0; }
 
@@ -82,45 +82,49 @@ h1, h2, h3, h4, h5, .site-title, .contents-title {
   font-weight: 300;
   line-height: 0.9;
   text-transform: uppercase;
-  margin-top: 2em;
-  margin-bottom: 1em;
   text-align: left; }
 
 p, li {
   font-size: 16px; }
 
 h5 {
-  font-size: 12px;
-  line-height: 1.8;
-  letter-spacing: .25em;
-  font-weight: 700;
-  margin-bottom: .5em; }
+  font-family: "Fanwood Text", serif;
+  text-transform: none;
+  font-size: 16px;
+  line-height: 1.35;
+  margin-bottom: 0;
+  font-weight: 700; }
 
 h4, .contents-title, p.intro {
-  font-size: 20px; }
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 1.5em;
+  margin-bottom: .5em; }
 
 h3 {
-  border-top: 0.125em solid #f1f5e1;
   margin-left: 6em;
   margin-right: 6em;
-  padding-top: 1.5em;
-  font-size: 32px;
-  text-align: center; }
+  padding-top: 1em;
+  font-size: 20px;
+  letter-spacing: 0.5em;
+  text-align: center;
+  line-height: 1.5; }
 
 h2, h1.post-title {
-  font-size: 40px; }
+  font-size: 36px; }
 
 h2 {
-  border-top: 0.125em solid #aac446;
-  padding-top: 5vw;
-  margin-top: 10vw;
+  border-bottom: 0.125em solid #aac446;
+  padding-bottom: 1em;
+  margin-top: 3em;
+  margin-bottom: 1em;
   text-align: center; }
   h2.main {
     margin-top: 0; }
 
 h1 {
   margin-top: 0;
-  font-size: 32px;
+  font-size: 24px;
   text-align: center; }
 
 .page-title, time {
@@ -142,14 +146,14 @@ img {
  */
 table {
   border-collapse: collapse;
-  margin: 0 auto 3em auto;
+  margin: 0 auto 2em auto;
   font-size: 0.9em;
   width: 100%;
   text-align: left;
   position: relative; }
 
 table td, table th {
-  padding: .5em 1em;
+  padding: .25em .5em;
   min-width: 10em; }
 
 table th {
@@ -196,14 +200,14 @@ figure.halflast {
  * Lists
  */
 ul, ol {
-  margin-left: calc(5vw / 2); }
+  margin-left: calc(1em / 2); }
   @media screen and (min-width: 60em) {
     ul, ol {
       margin-left: 1em; } }
 
 li > ul,
 li > ol {
-  margin-top: calc(5vw / 4); }
+  margin-top: calc(1em / 4); }
 
 /**
  * Links
@@ -222,8 +226,8 @@ a {
   display: inline-block;
   border: 1px solid #2a7ae2;
   border-radius: 4px;
-  padding: 1.25vw 2.5vw;
-  margin: 0 1.25vw 1.25vw 0; }
+  padding: 0.25em 0.5em;
+  margin: 0 0.25em 0.25em 0; }
   .button:hover {
     background: #2a7ae2;
     color: #ffffff;
@@ -236,7 +240,7 @@ a {
     color: #ffffff; }
 
 #categories {
-  margin-bottom: 5vw;
+  margin-bottom: 1em;
   text-align: center; }
 
 .hidden {
@@ -250,7 +254,7 @@ blockquote {
   margin-bottom: 0; }
   blockquote p {
     color: #828282;
-    padding: 5vw;
+    padding: 0.5em;
     font-size: 20px;
     margin-bottom: 0;
     text-align: center; }
@@ -321,10 +325,9 @@ pre {
     orphans: 2;
     widows: 2; }
 
-  h2 {
-    page-break-before: always;
-    break-before: page;
-    margin-top: 2.5vw; }
+  h2.main {
+    page-break-before: avoid;
+    break-before: avoid-page; }
 
   h2, h3, h3, h4, h5 {
     page-break-after: avoid;
@@ -350,11 +353,11 @@ pre {
  */
 .site-footer {
   border-top: 1px solid #dbdbdb;
-  padding: 5vw 0; }
+  padding: 1em 0; }
 
 .footer-heading {
   font-size: 18px;
-  margin-bottom: 2.5vw; }
+  margin-bottom: 0.5em; }
 
 .contact-list,
 .social-media-list {
@@ -364,45 +367,45 @@ pre {
 .footer-col-wrapper {
   font-size: 15px;
   color: #828282;
-  margin-left: -2.5vw; }
+  margin-left: -0.5em; }
 
 .footer-col {
   float: left;
-  margin-bottom: 2.5vw;
-  padding-left: 2.5vw; }
+  margin-bottom: 0.5em;
+  padding-left: 0.5em; }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (5vw / 2));
-  width: calc(35% - (5vw / 2)); }
+  width: -webkit-calc(35% - (1em / 2));
+  width: calc(35% - (1em / 2)); }
 
 .footer-col-2 {
-  width: -webkit-calc(20% - (5vw / 2));
-  width: calc(20% - (5vw / 2)); }
+  width: -webkit-calc(20% - (1em / 2));
+  width: calc(20% - (1em / 2)); }
 
 .footer-col-3 {
-  width: -webkit-calc(45% - (5vw / 2));
-  width: calc(45% - (5vw / 2)); }
+  width: -webkit-calc(45% - (1em / 2));
+  width: calc(45% - (1em / 2)); }
 
 @media screen and (min-width: 60em) {
   .footer-col-1,
   .footer-col-2 {
-    width: -webkit-calc(50% - (5vw / 2));
-    width: calc(50% - (5vw / 2)); }
+    width: -webkit-calc(50% - (1em / 2));
+    width: calc(50% - (1em / 2)); }
 
   .footer-col-3 {
-    width: -webkit-calc(100% - (5vw / 2));
-    width: calc(100% - (5vw / 2)); } }
+    width: -webkit-calc(100% - (1em / 2));
+    width: calc(100% - (1em / 2)); } }
 .footer-col {
   float: none;
-  width: -webkit-calc(100% - (5vw / 2));
-  width: calc(100% - (5vw / 2)); }
+  width: -webkit-calc(100% - (1em / 2));
+  width: calc(100% - (1em / 2)); }
 
 /**
  * Page content
  */
 .page-content {
-  padding: 5vw 0;
-  padding-top: 20vw; }
+  padding: 1em 0;
+  padding-top: 4em; }
 
 .page-heading {
   font-size: 16px; }
@@ -420,21 +423,21 @@ pre {
 .post-link {
   display: block;
   font-size: 24px;
-  margin-bottom: -5vw; }
+  margin-bottom: -1em; }
 
 /**
  * Posts
  */
 .post-header {
-  padding: 5vw; }
+  padding: 1em; }
 
 .post-content {
   padding: 5vw;
-  margin-bottom: 5vw; }
+  margin-bottom: 1em; }
 
 .comments {
-  padding-top: 5vw;
-  margin-top: 5vw; }
+  padding-top: 1em;
+  margin-top: 1em; }
 
 .PageNavigation {
   display: block;
@@ -453,8 +456,8 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 5vw 0;
-  padding-top: 10vw; }
+  padding: 1em 0;
+  padding-top: 2em; }
 
 .page-heading {
   font-size: 16px; }
@@ -464,23 +467,23 @@ pre {
   list-style: none; }
   .post-list > li {
     text-align: center;
-    margin: 5vw;
-    padding: 5vw;
+    margin: 1em;
+    padding: 1em;
     border-bottom: 1px solid #828282; }
 
 .post-meta {
   font-size: 12px;
   color: #828282;
-  margin-bottom: 5vw;
+  margin-bottom: 1em;
   display: block; }
 
 .post-link {
   display: block;
-  margin-bottom: -5vw; }
+  margin-bottom: -1em; }
 
 .button {
-  padding: 0.625vw 1.25vw;
-  margin: 0 0.625vw 0.625vw 0;
+  padding: 0.125em 0.25em;
+  margin: 0 0.125em 0.125em 0;
   font-size: 12px; }
 
 /**

@@ -79,8 +79,6 @@ h1, h2, h3, h4, h5, .site-title, .contents-title{
     font-weight: $base-font-weight;
     line-height: $heading-line-height;
     text-transform: uppercase;
-    margin-top: 2em;
-    margin-bottom: 1em;
     text-align: left;
 }
 
@@ -88,30 +86,36 @@ p, li{
   font-size: $base-font-size;
 }
 h5{
-  font-size: $base-font-size * 0.75;
-  line-height: $heading-line-height * 2;
-  letter-spacing: .25em;
+  font-family: $base-font-family;
+  text-transform: none;
+  font-size: $base-font-size;
+  line-height: $heading-line-height * 1.5;
+  margin-bottom: 0;
   font-weight: 700;
-  margin-bottom: .5em;
 }
 h4, .contents-title, p.intro{
-  font-size: $base-font-size * 1.25;
+  font-size: $base-font-size * 1;
+  font-weight: 700;
+  margin-top: 1.5em;
+  margin-bottom: .5em;
 }
 h3{
-  border-top: .125em solid lighten($green, $lighter);
   margin-left: 6em;
   margin-right: 6em;
-  padding-top: 1.5em;
-  font-size: $base-font-size * 2;
+  padding-top: 1em;
+  font-size: $base-font-size * 1.25;
+  letter-spacing: 0.5em;
   text-align: center;
+  line-height: 1.5;
 }
 h2, h1.post-title{
-  font-size: $base-font-size * 2.5;
+  font-size: $base-font-size * 2.25;
 }
 h2{
-  border-top: .125em solid $green;
-  padding-top: $spacing-unit;
-  margin-top :$spacing-unit * 2;
+  border-bottom: .125em solid $green;
+  padding-bottom: 1em;
+  margin-top :3em;
+  margin-bottom :1em;
   text-align: center;
 
   &.main {
@@ -120,7 +124,7 @@ h2{
 }
 h1{
   margin-top: 0;
-  font-size: $base-font-size * 2;
+  font-size: $base-font-size * 1.5;
   text-align: center;
 }
 .page-title, time {
@@ -147,14 +151,14 @@ img {
 
 table{
   border-collapse: collapse;
-  margin: 0 auto 3em auto;
+  margin: 0 auto 2em auto;
   font-size: 0.9em;
   width: 100%;
   text-align: left;
   position: relative;
 }
 table td, table th{
-  padding: .5em 1em;
+  padding: .25em .5em;
   min-width: 10em;
 }
 table th{
@@ -276,7 +280,7 @@ blockquote{
 
 p {
     color: $grey-color;
-    padding: $spacing-unit;
+    padding: $spacing-unit / 2;
     font-size: $base-font-size * 1.25;
     margin-bottom: 0;
 	text-align: center;
@@ -385,9 +389,13 @@ p, h1, h2, h3, h4 ,h5 {
   widows: 2;
 }
 h2 {
-  page-break-before: always;
-  break-before: page;
-  margin-top :$spacing-unit / 2;
+  //page-break-before: always;
+  //break-before: page;
+
+  &.main{
+    page-break-before: avoid;
+    break-before: avoid-page;
+  }
 }
 h2, h3, h3, h4, h5{
   page-break-after: avoid;

@@ -8,7 +8,7 @@ categories: FMP
 ---
 
 <h2 class="main text-center">Plant<strong>IO</strong></h2>
-<img src="/media/ruuts__tech.svg" />
+<img src="/media/ruuts__tech.svg" style="width: 75vw; margin-left: calc(12.5vw - 2em)" />
 <h3 class="text-center">Grow perfect food, automatically.</h3>
 
 ## Product Overview
@@ -115,12 +115,11 @@ Millenial man Mark is a highly aware individual; happily married with a very you
 
 #### Other segments
 
-##### Generation Z
-Youth Yasmin, part of "Generation Z" is in her early twenties and is an avid gym goer and clean eater. She loves to travel, loves animals and is an active blogger. Yasmin provides a huge opportunity for free marketing - the Instagram generation are all too eager to show off their exploits to their followers, particularly when it comes to health and their bodies. What can be healthier than the purest, sustainable food possible? Unlikely to create revenue through the subscription model, Yasmin will require a workable free setting to continue using the product. We expect Yasmin to want increased product engagement so will be using the semi-automatic recipes and documenting her every interaction via social media. Strong app branding is important for all the screen time Yasmin will generate. She will appreciate the fine UI details such as subtle animations, and a fast, smooth experience.
-##### Environmentalists
-Environmentalist Ed is highly aware of the damage the human race is doing to the planet, and seeks to promote a better way of living in all that he does. He rides a bike everywhere, and people know it. He recycles everything in his home, and people know it. One of our power users during the first phase, Ed will be an advocate for the system, preaching to his peers about the massive benefits it brings to society and the health of the planet. Ed will provide plenty of product feedback, and use his system religiously, yet will push for freedom of use and likely not contribute much in the way of direct revenue. Ed's value is in his evangelic promotion of the idea and rigorous testing.
-##### Small Business Owners (stage 2)
-Chef Cheryl is a small food business owner, serving vegan food from her converted van. Though forming the bulk of phase 2, it is important to connect with Cheryl during the first product phase, she needs to believe that this is a product that can take her business to the next level. It needs to provide economic benefit, as well as seamless operation. Cheryl will likely upgrade to a paid installation to suit her needs, and demand A.I. technology from her recipes to ensure she is growing the best possible food for her business needs.
+**Generation Z:** Youth Yasmin, part of "Generation Z" is in her early twenties and is an avid gym goer and clean eater. She loves to travel, loves animals and is an active blogger. Yasmin provides a huge opportunity for free marketing - the Instagram generation are all too eager to show off their exploits to their followers, particularly when it comes to health and their bodies. What can be healthier than the purest, sustainable food possible? Unlikely to create revenue through the subscription model, Yasmin will require a workable free setting to continue using the product. We expect Yasmin to want increased product engagement so will be using the semi-automatic recipes and documenting her every interaction via social media. Strong app branding is important for all the screen time Yasmin will generate. She will appreciate the fine UI details such as subtle animations, and a fast, smooth experience.
+
+**Environmentalists:** Environmentalist Ed is highly aware of the damage the human race is doing to the planet, and seeks to promote a better way of living in all that he does. He rides a bike everywhere, and people know it. He recycles everything in his home, and people know it. One of our power users during the first phase, Ed will be an advocate for the system, preaching to his peers about the massive benefits it brings to society and the health of the planet. Ed will provide plenty of product feedback, and use his system religiously, yet will push for freedom of use and likely not contribute much in the way of direct revenue. Ed's value is in his evangelic promotion of the idea and rigorous testing.
+
+**Small Business Owners (stage 2):** Chef Cheryl is a small food business owner, serving vegan food from her converted van. Though forming the bulk of phase 2, it is important to connect with Cheryl during the first product phase, she needs to believe that this is a product that can take her business to the next level. It needs to provide economic benefit, as well as seamless operation. Cheryl will likely upgrade to a paid installation to suit her needs, and demand A.I. technology from her recipes to ensure she is growing the best possible food for her business needs.
 
 ## Go-To-Market (GTM) Strategy
 
@@ -135,23 +134,19 @@ Chef Cheryl is a small food business owner, serving vegan food from her converte
 
 
 #### Strategy
-The Ruuts business model is composed of 3 major sequential phases&mdash;consumer, business, and industrial. There is a 4th end goal phase which the company is always driving towards.
+The Ruuts business model is composed of three major sequential phases&mdash;consumer, business, and industrial. There is a fourth end goal phase which the company is always driving towards.
 
-##### Phase 1
-Ruuts will launch directly into the first phase which will focus on the consumer market. Initially, revenue will be generated through the sale of systems and equipment for occasional, home-based use, accompanied by the corresponding phase 1 of the PlantIO app. During this phase, everything will be open source in line with the values of the company; individuals will be free to use our code and create their own systems. The consumer will serve as a major source of promotion for the company during this phase and help Ruuts gain traction within the press and social media.
+**Phase 1:** Ruuts will launch directly into the first phase focusing on the consumer market. Initially, revenue will be generated through the sale of systems and equipment for occasional, home-based use, accompanied by the corresponding phase 1 of the PlantIO app. During this phase, everything will be open source in line with the values of the company; individuals will be free to use our code and create their own systems. The consumer will serve as a major source of promotion for the company during this phase and help Ruuts gain traction within the press and social media.
 
 The controlling application will be free to use for the first 3 harvests, giving the user enough time to benefit from the technology and have it form a part of their lifestyle. After this period, a subscription model will be implemented, charging monthly operating costs if the user wishes to have the full version of the software; otherwise they will be limited in some way, either by functionality limits or advertisements, yet to be determined.
 
 Continual investment will need to be made into promotion, online presence, and product development as issues are ironed out and consumer recommended enhancements are implemented. In addition to this, product development will need to be made into preparing for phase 2.
 
-##### Phase 2
-Having gained stability and popularity within the consumer market, we will shift a portion of our focus into business applications; investment will now concentrate on semi-bespoke installs for small businesses in return for promotion. Using our modular designs, this approach can also be adopted by consumers to set up their own larger systems. The app will be further developed to monitor multiple connected systems and help businesses create growing plans to maximise daily yields.
+**Phase 2:** Having gained stability and popularity within the consumer market, we will shift a portion of our focus into business applications; investment will now concentrate on semi-bespoke installs for small businesses in return for promotion. Using our modular designs, this approach can also be adopted by consumers to set up their own larger systems. The app will be further developed to monitor multiple connected systems and help businesses create growing plans to maximise daily yields.
 
-##### Phase 3
-With exposure from small business applications will come interest from larger-scale industrial applications; supermarkets are an obvious candidate for bespoke installation of bolt-on 'Ruuts-Farms' on their premises. Investment during this phase will be into a large-scale demonstration system providing free produce for charity and food banks, doubling as a live exhibition for potential investors. The app will be developed in the areas of security and scalability, with careful assessment of the back-end services to manage big plant data.
+**Phase 3:** With exposure from small business applications will come interest from larger-scale industrial applications; supermarkets are an obvious candidate for bespoke installation of bolt-on 'Ruuts-Farms' on their premises. Investment during this phase will be into a large-scale demonstration system providing free produce for charity and food banks, doubling as a live exhibition for potential investors. The app will be developed in the areas of security and scalability, with careful assessment of the back-end services to manage big plant data.
 
-##### Phase 4
-The fourth and final phase of the business will focus on extreme environments such as polar, desert, and space, with the company heavily investing into development in these areas to become a world leader in this market segment. The development of a cost-effective, self-sustaining container farm that can be deployed in areas of need will be the first focus.
+**Phase 4:** The fourth and final phase of the business will focus on extreme environments such as polar, desert, and space, with the company heavily investing into development in these areas to become a world leader in this market segment. The development of a cost-effective, self-sustaining container farm that can be deployed in areas of need will be the first focus.
 
 [//]: # (The first key business growth driver is strategy. Every fast-growing business starts with an idea, which turns into the business plan. The strategy might revolve around bringing a new product to market, or be based on an existing product or service applied or delivered in a new way. Accelerated growth can be driven by developing more new products, and/or expanding into new markets.)
 PlantIO will initially serve the consumer market with advanced technology for a competitive price, backed by social. Following this, the B2B market will be targeted through custom installations before eventually being positioned to provide a viable solution on an industrial scale. The ultimate goal for Ruuts is to grow plants in space with their PlantIO technology.
@@ -187,18 +182,15 @@ This will cover salary for all 3 founders over the course of 15 months of produc
 #### Risk & Reporting
 [//]: # (Last but not least among the five business growth drivers comes risk and reporting. As the business grows, so it is essential to establish controls to manage the inevitable risks that accompany rapid business development. The reporting element is also important for growing companies, both internally and externally. Management teams need to communicate clearly between themselves, to understand business performance and delivery against future targets. Similarly, the company needs to report effectively to external investors and other stakeholders to maintain their ongoing confidence and support.)
 
+**Automation is the key to scaling this business.** Both on the digital side and the hardware side. The consumer market should be able to essentially self-moderate the online community through earned controls, while back-end services such as [Digital Ocean](https://www.digitalocean.com/) can automatically scale to demand. E-commerce will be hosted on [Shopify](https://www.shopify.co.uk/) with potential to expand onto higher tiers as the business grows.
+
 #### Key Performance Indicators
 
-Though there is plenty of research still to be done on our pricing model and component selection, we have still generated a basic 3 year plan to focus our efforts.
+**Year 1:** Initial product development will offset the revenue from early sales and subscriptions as we respond to user feedback and solidify our offering. Investment will also go into maintaining an active online brand that is engaged with users and responds to the social environment. Product development will be focused on optimising the application with its current feature-set, and developing the system in preparation for small to medium business installs.
 
-##### Year 1
-Initial product development will offset the revenue from early sales and subscriptions as we respond to user feedback and solidify our offering. Investment will also go into maintaining an active online brand that is engaged with users and responds to the social environment. Product development will be focussed on optimising the application with its current feature-set, and developing the system in preparation for small to medium business installs.
+**Year 2:** Sales in the business segment will again be offset by further product development and marketing of the business, any profits being re-invested into the company to build a fully working bespoke demonstration system.
 
-##### Year2
-Sales in the business segment will again be offset by further product development and marketing of the business, any profits being re-invested into the company to build a fully working bespoke demonstration system.#
-
-##### Year 3
-We expect to provide a slight return on investment with the launch of our complete system which will truly cater for all market segments and allow us to approach larger companies for bespoke installs and custom management solutions.
+**Year 3:** We expect to provide a slight return on investment with the launch of our complete system which will truly cater for all market segments and allow us to approach larger companies for bespoke installs and custom management solutions.
 
 Goal | KPI | Year 1 Target | Year 2 Target | Year 3 Target
 ---- | --- | ------------- | ------------- | -------------
@@ -208,24 +200,31 @@ Integration into SMB market | Number of custom installs | 1 | 10 | 50
 
 #### Strategic differentiators
 
-PlantIO is differentiating from the competition in two main areas:
- * Pricing model
- * Product offering
+PlantIO is differentiating from the competition in two main areas&mdash;it's pricing model and the product offering. Early calculations place the unit at a highly competititve average price point of £200, however the modular approach will provide numerous setup options to cater for a much wider range of budgets.
+
+The flexibility of our system stands it ahead of its' nearest competitors in Click&Grow in that it can grow a vast array of crops with less waste and higher efficiency. As we begin to move into phase 2 we will also hold a distinct advantage over FarmBot in that our system provides much greater flexibility combined with extremely simple setup and the lack of a requirement for soil.
 
 #### Market Behaviours
 
-[TODO] Reference to the instagram generation and free marketing, early adopters etc etc
+##### Awareness
 
-### Projections
+The first of four main market behaviour categories[1](#ref), awareness is generated at first through our initial press release and advertising campaigns, both online and via real demonstrations across the country
+
+##### Preference
+
+The market then proceeds to develop a preference by comparing our product to the competition&mdash;how do we compare to being able to buy fruit at 3am in a 24 hour local supermarket?
+
+##### Engagement
+
+The third phase is engagement, hooking the user in and convincing them to commit. this pre-purchase decision will be attacked from a multitude of angles&mdash;from information overload in our documentation, community led advocacy, interactive onboarding and strong, impactful messaging.
+
+##### Advocacy
+
+Referrals by word of mouth, we are focusing on pushing a community based approach for collective groups of advocates to impress upon the importance of our product to local communities.
 
 ### Product Strategy
 
 [//]: # (This section of the plan identifies the key products you will launch in your cloud portfolio, along with any bundling plans, special promotions, or other attachment strategies that will help you sell the products—including upselling and cross-selling to both new and existing customers. Any specifics you can include about differentiators between your offerings and those of your competitors will help you build your sales messaging as you progress further into the launch.)
-
-#### Key Products
-* PlantIO base system
-* Heirloom seedpacks
-* PlantIO app
 
 ##### Special Promotions / Attachment strategies
 
@@ -245,55 +244,25 @@ Light | LED | Multi-color LED | Low-power LED
 Temperature | Basic thermostatic element | Min-max thermostat | Low energy thermostat
 Enclosure | Basic fabric skeleton | Modular enclosure | AR Enclosure
 
-##### Differentiation compared to competitors
-
-**Using the Ruuts growing system, we can grow perfect food, whenever we want, wherever we want, really fast, using trustworthy seeds, saving water, saving land, saving the planet, all automatically. We can grow enough food to feed our family, with virtually no time cost. We can teach our family how to grow food and care for plants using optional manual or semi-automatic recipes. We can create our own recipes and share them with the world. We can even compete to grow the biggest tomato, the brightest, the tastiest or the fastest.**
-
-Aeroponics is used to grow the plant, negating the need for any soil and reducing the water and land usage by over 90% compared to traditional growing methods.
-
-Aeroponics is used to feed the plants and is the most advanced growing technique available. Plants are suspended in a growing medium in air&mdash;normally gauze or cotton&mdash;and the roots are misted with controlled droplets of feed to ensure they have optimum nutrition uptake, without the need for soil.
-
-<div class="flex">
-<div><h4>95%</h4>less water</div>
-<div><h4>90%</h4>less land</div>
-<div><h4>30%</h4>faster</div>
-<div><h4>no</h4>pesticies or fertilisers</div>
-</div>
-
-We will focus on 5 key areas of differentiation:
-
-1. Quality (conditions)
-2. Trust (organic)
-2. Environmental (low-impact)
-3. Speed/consistency/reliability (due to conditions)
-4. Convenience/automation (time/involvement)
-5. Availability (24/7/no seasons)
-
-<!-- PLANET -->
-The clean, secure, enclosed environment provided by the system negates the need for any pesticides or fertilisers; pests and disease are no longer an issue.
-<!-- PERFECT -->
-By providing the plant with the exact conditions needed for growth we can produce perfect quality fruit every time, maximising the potential of the seeds.
-<!-- SPEED -->
-All this allows us to grow food up to 30% faster using aeroponics;  and, by combining multiple systems and using our advanced scheduler, you can effectively remove the wait for growth after the initial harvest.
-<!-- SEASONAL -->
-By controlling the entire climate of the plant, we can render weather as a factor obsolete, meaning traditional seasons become a thing of the past and allow for true all year round growing.
-<!-- LOCATION -->
-The compact system enclosure will fit anywhere in your home - behind the sofa, under the stairs, in a kitchen cupboard, practically anywhere you can provide it with power. Growing food at home completely removes the need for global transportation because the food is grown in its final destination.
-<!-- TRUSTWORTHY SEEDS  -->
-Know exactly what you are growing by choosing the seeds yourself, thus giving you 100% control over the food you are eating. Moving forward we will offer ancient and heirloom seeds from our store so you can grow guaranteed unmodified foods, opening up a wide and diverse range of new tastes to try.
-<!-- APP -->
-Everything is monitored by the accompanying PlantIO application to provide constant, real-time feedback to the user about their plant and serve as a community for sharing growth recipes, providing feedback for further product development, and giving control to the user to grow their plant their own way using our semi-automatic and manual recipe settings.
+**Differentiation compared to competitors**
 
 There is a huge gap in the market for our product; our competitors either cannot match our technology, or our pricing models, or our scale.
-Small hobbyist programs such as PlantFriends are free, but are not suited for substantial, regular food growth and require significant user investment to set them up and get them working.
-FarmBot, our nearest competitor, have an attractive and unique application, however they offer an entry level option of over £2000, yet still requires outdoor growing space and uses dated farming methods.
-AeroFarms are a huge player and serve the industry with prices starting from tens of thousands of dollars. They use advanced technology and are really focussing on the top end of the market.
+
+Small hobbyist programs such as [PlantFriends](http://dicksonchow.com/plant-friends/) are free, but are not suited for substantial, regular food growth and require significant user investment to set them up and get them working. FarmBot, our nearest competitor, have an attractive and unique application, however they offer an entry level option of over £2000, yet still requires outdoor growing space and uses dated farming methods. AeroFarms are a huge player and serve the industry with prices starting from tens of thousands of dollars. They use advanced technology and are really focusing on the top end of the market.
 The Sahara Forest Project is at the very top end of the industry, setting standards in growing in extreme conditions and are a serious competitor for phase 4 of our business model only.
-There is an opportunity for low cost, low management convenient home growing using advanced techniques. All of the systems around the pricing model for our phase 1 users are vastly overpriced for what they offer; for example, the £99.50 KRYDDA/VÄXER from IKEA is simply a two tier stand with slots to grow 16 small plants, or approximately 200 lettuces from the supermarket. The Conran Shop are selling the "Smart Garden 9" which boasts NASA technology in the form of smart soil, provides slots for 9 small plants at the whopping cost of £199, or 400 cucumbers.
-The closest competitor with an app is the Flower Care Smart Monitor, which is nicely designed and professionally presented with strong branding, including a well thought out UX, however it provides no automation and utilises none of the agricultural advancements the Ruuts system is built around, focuses on flowers and single use systems.
+There is an opportunity for low cost, low management convenient home growing using advanced techniques. All of the systems around the pricing model for our phase 1 users are vastly overpriced for what they offer; for example, the [£100 KRYDDA/VÄXER from IKEA](https://www.ikea.com/gb/en/products/indoor-gardening/indoor-growing-cultivators/krydda-v%C3%A4xer-grow-kit-w-16-pots-2-tiers-spr-79158686/) is simply a two tier stand with slots to grow 16 small plants, or approximately 200 lettuces from the supermarket. The [Click & Grow Smart Garden 9](https://eu.clickandgrow.com/products/the-smart-garden-9) which boasts NASA technology in the form of smart soil, provides slots for 9 small plants at the whopping cost of £200, or 400 cucumbers.
+The closest competitor with an app is the [Flower Care Smart Monitor](https://www.huahuacaocao.com/product), which is nicely designed and professionally presented with strong branding, including a well thought out UX, however it provides no automation and utilises none of the agricultural advancements the PlantIO system is built around, focuses on flowers and single use systems.
 The competitor analysis has shown that the PlantIO system provides multiple USP's and will target an underserved segment of the market.
 
+**Quality:** By providing the plant with the exact conditions needed for growth we can produce perfect quality fruit every time, maximising the potential of the seeds. FarmBot cannot control the environment, and Click & Grow cannot control the feed in the same advanced manner.
 
+**Trust:** Know exactly what you are growing by choosing the seeds yourself, thus giving you 100% control over the food you are eating. Click & Grow runs from its own proprietary seed packs.
+
+**Environmental:** The clean, secure, enclosed environment provided by the system negates the need for any pesticides or fertilisers; pests and disease are no longer an issue. Outdoor systems such as FarmBot cannot say the same. Click & Grow also creates waste through unnecessarily complex packaging of its "Plant Pods". Aeroponics allows us to grow using over 90% less land and water.
+
+**Convenience:** Using aeroponics allows us to grow food up to 30% faster;  and, by combining multiple systems and using our advanced scheduler, you can effectively remove the wait for growth after the initial harvest. FarmBot essentially uses traditional growing techniques, whilst also requiring a sizeable square footage of outdoor land, which also brings in the factor of seasons dictating growing patterns.
+
+**Community:** Regardless of how you choose to connect to the internet, PlantIO is there for you. The PWA doesn't care if you have an iPhone, an Android, or a Lynx text browser. Everything is monitored by the accompanying PlantIO application to provide constant, real-time feedback to the user about their plant and serve as a community for sharing growth recipes, providing feedback for further product development, and giving control to the user to grow their plant their own way using our semi-automatic and manual recipe settings.
 
 ### Channel Strategy
 
@@ -321,13 +290,25 @@ Moving forward, we aim to construct a permanent demonstration facility providing
 
 [//]: # (This section documents the anticipated customer journey—either at a high level or in detail. Starting with how customers first hear about a product, it progresses through their purchase, activation, renewal, and possible cancellation. Exploring this journey helps to identify any “fall-off” points that may reduce conversion rates, or drive churn, while also helping to ensure that you’ll have the right people and systems in place to support the new products.)
 
+After failing to find acceptable quality out of season food in the supermarket, Mark receives a targeted advert through YouTube about the PlantIO system.
+
+Instead of skipping, he clicks through to the main website where the main Call to action is to use the PlantIO software with a tamagotchi plant. This is actually a disguised onboarding process taking Mark through an accelerated, pain-free product experience.
+
+Upon completion he able to purchase the PlantIO system and is invited to sign up for a free account to get 10% off his first PlantIO order.
+
+Mark quickly signs in with his Google account and his discount is applied immediately to his cart, he upgrades to a bundle containing seeds and feed and completes purchase.
+
+Upon receiving his PlantIO system, Mark plugs it in and connects it with his account with the push of a button. After selecting his recipe, the app then provides visual instructions for the first-time setup of the unit, and Mark's growing experience is underway.
+
+Mark can check the plant at any point via the status page in the PWA, and for the first harvest he can see a representation of his plant growing in the PlantIO Sky Garden. Aside from selecting a seed to continue with once germination is complete, Mark has no need to interact with the system until it is time to harvest the plant.
+
+Mark is contacted via email and through his account to remind him to purchase more seeds at a timely point prior to his first harvest. He is also offered an upsell of a component in his system at this time. Once he has harvested, Mark is pushed for feedback and offered discounts on future purchases, as well as being suggested to share his growth over social media. His grower status reaches level 1.
+
 ### Technical Requirements
 
-[//]: # (This section documents the technical requirements needed to support the new products. These requirements, which may be affected by decisions made in the previous sections of the plan, may include branding your customer-facing portals, and integrating sales and provisioning systems with third-party resources you’ve employed. Parallels can help you identify the technical requirements needed to launch your products.)
+[//]: # (This section documents the technical requirements needed to support the new products. These requirements, which may be affected by decisions made in the previous sections of the plan, may include branding your customer-facing portals, and integrating sales and provisioning systems with third-party resources you've employed. Parallels can help you identify the technical requirements needed to launch your products.)
 
-### Evaluation
-
-[//]: # (This is where you spell out and prioritize the factors you’ll use to measure your success—for example, reaching a certain volume of sales in specific channels, or reducing churn of an existing product by attaching a cloud service. Try to be as specific and detailed as possible in outlining your goals and evaluation tactics—it will keep your team aligned and help to optimize activities through your launch.)
+Branding of all social media accounts in line with the company website. Secure integration with a 3rd party cloud hosted database and connection to PlantIO hardware via wi-fi to provide real-time communication.
 
 ### Timeline and Execution
 
@@ -335,18 +316,8 @@ Moving forward, we aim to construct a permanent demonstration facility providing
 
 [//]: # (Finally, your plan needs to identify the timeline for execution, including next steps, the critical path for decisions, key milestones, and plans for reviewing and fine-tuning the GTM plan. This last point should not be overlooked, as good GTM plans are not static, but evolve with the project. As your plans progress, you can add details to increase the plan’s accuracy.)
 
-We are currently developing the minimum viable product (MVP); whilst I design and develop the PlantIO application, Ashley is sourcing the components required to build the initial system to for scenario testing, whilst Brett is conducting detailed research into plant growth to create the first of our recipes.
-
-We expect the MVP to be ready in 3 months time, for our very first internal alpha testing which itself will run for a 3 month period. Following this, we will commit a further 6 months to product development and finalise the physical design and initial consumer model. We will then repeat our 3 month alpha test, and follow it up with a second 3 month period of improvements. This will then lead into the 3 month public beta test which, if successful, will allow for an initial product launch during the Autumn of 2020 in 21 months time.
-
-> It is important for us to remain agile as a company, and we will be using the length of harvests (around 21-30 days) to line up our sprints.
-
-The PlantIO System is at an extremely early stage of development, and requires considerable time dedication to product development. The physical components must undergo safety checks along with long-term testing, and the complete financial side of the product is yet to be calculated. Should the system be deemed to expensive for phase 1, we may have to begin our product in phase 2.
-
-There is also the question of maintenance; as with any machine with moving parts, users will need to perform basic periodic checks on their systems. This maintenance procedure will be designed into the system, perhaps using sensors to check that the user has inspected the required components and cleaned where necessary.
-
-#### Phase 1: MVP creation
-We are currently developing the minimum viable product; whilst I design and develop the PlantIO application, Ashley is sourcing the components required to build the initial system to for scenario testing, whilst Brett is conducting detailed research into plant growth to create the first of our recipes. We expect the MVP to be ready in 3 months time, for our very first internal alpha testing which itself will run for a 3 month period.
+#### Phases 1-2: MVP creation & Initial Alpha Test
+We are currently developing the minimum viable product (MVP); whilst I design and develop the PlantIO application, Ashley is sourcing the components required to build the initial system to for scenario testing, whilst Brett is conducting detailed research into plant growth to create the first of our recipes. We expect the MVP to be ready in 3 months time, for our very first internal alpha testing which itself will run for a 3 month period.
 
 | Key Deliverables |
 --- |
@@ -354,12 +325,10 @@ Software | Software simulation of the PlantIO PWA
 Hardware | Software simulation of the PlantIO PWA
 Knowledge | A variety of recipes for the most common plants
 
-#### Phase 2: Initial alpha test
-
 #### Phases 3-5: Product Development Sprints
 Following this, we will commit a further 6 months to product development and finalise the physical design and initial consumer model. We will then repeat our 3 month alpha test, and follow it up with a second 3 month period of improvements.
 
-
+> It is important for us to remain agile as a company, and we will be using the length of harvests (around 21-30 days) to line up our sprints and reassess our planning.
 
 #### Phase 6: Beta Test
 This will then lead into the 3 month public beta test which, if successful, will allow for an initial product launch during the Autumn of 2020 in 21 months time.
@@ -378,8 +347,6 @@ Period | Phase | End date
 18-21 months | product development | April 2019
 21-24 months | beta test | July 2019
 24 months | product launch | October 2019
-
-
 
 ## Launch
 
@@ -419,23 +386,11 @@ For further information, please contact Phillip Penny at [phil@plantio.co.uk](ma
 
 ### Social media
 
-Social media will initially be limited to a single active channel - Instagram. Accounts will exist across all social media ecosystems to give the brand a presence, however content creation will be focused around Instagram and driven to using the other channels. Instagram offers:
-* Visual
-* Instagram stories
-* Clean uncluttered experience free from advertisements
-* Shoppable
-* Consistent
-
-The main focus for our social media campaigns will be to:
-
-<div class="flex">
-<p>Increase brand awareness</p>
-<p>Higher quality sales</p>
-<p>Create loyalty</p>
-<p></p>
-</div>
+The main focus for our social media campaigns will be to increase brand awareness, create higher quality sales, and create brand loyalty. External social media will initially be limited to a single active channel - Instagram. Accounts will exist across all social media ecosystems to give the brand a presence, however content creation will be focused around Instagram and driven to by using the other channels. Instagram offers the benefits of being extremely visual—especially so given the rise of Instagram Stories, ad-free, shoppable, and presented in a consistent, uncluttered manor.
 
 ### Analytics
+
+The use of website analytics such as [HotJar](https://www.hotjar.com/) and [Lucky Orange](https://www.luckyorange.com/) will be implemented alongside Google analytics to fully understand how the e-commerce platform can be optimised. We will also be collecting continuous data from all connected PlantIO systems and harvest completion reports filled out by users. The data collected will be fed back into the recipe database to improve recipe timings and results. We will also conduct manual analytics of community posts and bug tracking issues raised. Each and every live demonstration will include recordings of usability tests and Q/A sessions.
 
 ### Feedback Channels
 
@@ -471,8 +426,8 @@ Scheduled regular software updates will initially fall in line with our own harv
 ### Continued User Engagement
 
 #### Charity
-<div class="flex" style="align-items: flex-start">
-<img src="/media/action-against-hunger.svg" style="width: 25vw" />
+<div class="">
+<img src="/media/action-against-hunger.svg" style="float: left;width: 25vw;" />
 <p>Forming a partnership with a charity such as <a href="https://www.actionagainsthunger.org/">Action Against Hunger</a> will help align our values with the customer and enable them to feel good knowing that purchasing from us immediately helps the fight against hunger, even before our industrial units are released.</p>
 </div>
 #### Gamification
