@@ -8,7 +8,7 @@ categories: FMP
 ---
 
 <h2 class="main text-center">Plant<strong>IO</strong></h2>
-<img src="/media/ruuts__tech.svg" style="width: 75vw; margin-left: calc(12.5vw - 2em)" />
+<img src="/media/ruuts__tech.svg" style="width: 75vw; margin-left: calc(12.5vw - 4em)" />
 <h3 class="text-center">Grow perfect food, automatically.</h3>
 
 ## Product Overview
@@ -36,7 +36,7 @@ PlantIO provides complete control of plant growth. Watering and feeding, light e
 
 The PlantIO app monitors all aspects of the plants' health and adjusts the system as required, only sending you notifications if emergency situation arise. Of course, users can check the status of their plant at any time using the real-time status screen.
 
-##### 3 steps to success
+##### Three steps to success
 
 <div class="flex">
 <div><strong>Connect</strong><br />Simply connect your PlantIO system with your account via wi-fi, select the recipe you desire; place your seeds into your system and the germination phase then begins automatically.</div>
@@ -62,14 +62,16 @@ All plant data is recorded so you can save any recipes which work particularly w
 #### Technical information
 
 ##### Software
-* Progressive Web Application (PWA) communicating with the hardware through the johnny5 javascript library.
+* Progressive Web Application (PWA) communicating with the hardware through the johnny5 javascript library and wi-fi enabled Arduinos to enable real-time communication.
 * 24/7 remote access from any internet enabled browser
 * Cross platform, single codebase, automatically updating software
 * Optional manual & semi-automatic modes enable more interactive growing
+* Branding of all social media accounts in line with the company website.
+* Secure integration with a 3rd party cloud hosted database
 
 For the technology stack, a PWA was chosen to ensure maximum accessibility. Users can check their plant status regardless of the device, so long as they have can access a web browser. Each PlantIO system comes with it's own Raspberry Pi Zero W allowing it to connect wirelessly to the internet, and Arduino controllers are used to turn the PlantIO signals into actions.
 
-The user can monitor their plant at any point using the PWA from any device with a web browser. The PWA communicates with the PlantIO hardware, which takes the form of a blackout growing box housing LED lights for complete control of lumen levels, an aeroponic atomiser nozzle for accurate delivery of food and thermostatically controlled heater to maintain the optimum ambient temperature.
+The PWA communicates with the PlantIO hardware, which takes the form of a blackout growing box housing LED lights for complete control of lumen levels, an aeroponic atomiser nozzle for accurate delivery of food and thermostatically controlled heater to maintain the optimum ambient temperature.
 
 ##### Hardware
 * Custom built blackout enclosure extends to any plant size and ensures complete separation of light from plant roots.
@@ -84,8 +86,8 @@ The user can monitor their plant at any point using the PWA from any device with
 > Millennial families looking to appear aware and improve their diets with minimal effort through the use of technology.
 
 #### Millenials
-<img src="/media/persona__millenial-man-mark.jpg" style="float: left; width: 25vw; margin: 0 2em 2em 0" />
-Millenial man Mark is a highly aware individual; happily married with a very young family and a busy schedule. Mark is aware of the environment, aware of what we eat, and aware of our impression on others. Mark see the popularity behind lifestyle choices and provides an opportunity for marketing purposes for our product. Defined as a first-time passive user of the system, Mark will be looking for results and will use the system in fully automatic mode to fit in with his busy schedules. Should he see success with the system he is likely to form part of the subscription base, he has disposable income which he is happy to use to improve the quality of live for his family.
+<img src="/media/persona__millenial-man-mark.jpg" style="float: left; width: 15em; margin: 0 1em 2em 0" />
+Millenial man Mark is happily married with a young family and a busy schedule. Mark is aware of the environment, aware of what we eat, and aware of our impression on others. Mark see the popularity behind lifestyle choices and provides an opportunity for marketing purposes for our product. Defined as a first-time passive user of the system, he will be looking for results and will use the system in fully automatic mode to fit in with his busy schedule. Should he see success with the system he is likely to subscribe to the paid plan, he is happy to use his disposable income to improve the quality of live for his family.
 <table class="channels">
 <tr>
 <td>Frequency</td><td class="selected">First time</td><td>Intermediate</td><td>Casual</td><td>Power</td>
@@ -164,14 +166,14 @@ PlantIO will initially serve the consumer market with advanced technology for a 
 We combine the perfect mix of an experienced product designer in myself, with over 15 years of professional design experience, focusing on the digital side of the business, developing the software and social strategy; a horticulture expert in Brett Bartlett with a vast knowledge of plant growth characteristics and an aeroponic research programme behind him, focusing on developing optimum plant recipes to ensure a quality end product. and electronics engineer Ashley Banner who specialises in designing electronic systems with off-the-shelf components to create bespoke products, essentially taking Ruuts designs and turning them into a feasible, realistic tangible product; focussing on develop the hardware systems.
 
 <div class="flex">
-<p>Ruuts have successfully worked together on a separate startup - <a href="https://carboncandy.co.uk">Carbon Candy</a> - producing bespoke carbon fibre and more recently 3D printed components for various industries, focusing on the drone industry of late, with a multi-page publication in Drone Magazine.</p>
+<p>Ruuts have successfully worked together on a separate startup - Carbon Candy <a href="#ref">[2]</a> - producing bespoke carbon fibre and more recently 3D printed components for various industries, focusing on the drone industry of late, with a multi-page publication in Drone Magazine.</p>
 <p>Carbon Candy was designed as a stepping stone into Ruuts, enabling us to acquire the skills necessary build our own system using advanced materials, as well as learning the skills required to work together and form a successful business.</p>
 </div>
 
 #### Funding
 [//]: # (Clearly no business can grow fast without the right funding, and so capital is another key growth driver. Finding the right form of financial backing, and at the right time, is critical. That’s not to say that high growth can only be achieved with large amounts of funding, or that high funding levels will automatically result in fast growth.)
 
-**Ruuts are looking for £250,000 of funding to take the product to market.**
+**Ruuts are looking for £250,000 of funding to take the product to market.** [[3]](#ref)
 This will cover salary for all 3 founders over the course of 15 months of product development, starting in January 2019 after creation of the MVP. It will also cover investment in an initial stock of 100 PlantIO units.
 
 #### Transactions
@@ -182,7 +184,7 @@ This will cover salary for all 3 founders over the course of 15 months of produc
 #### Risk & Reporting
 [//]: # (Last but not least among the five business growth drivers comes risk and reporting. As the business grows, so it is essential to establish controls to manage the inevitable risks that accompany rapid business development. The reporting element is also important for growing companies, both internally and externally. Management teams need to communicate clearly between themselves, to understand business performance and delivery against future targets. Similarly, the company needs to report effectively to external investors and other stakeholders to maintain their ongoing confidence and support.)
 
-**Automation is the key to scaling this business.** Both on the digital side and the hardware side. The consumer market should be able to essentially self-moderate the online community through earned controls, while back-end services such as [Digital Ocean](https://www.digitalocean.com/) can automatically scale to demand. E-commerce will be hosted on [Shopify](https://www.shopify.co.uk/) with potential to expand onto higher tiers as the business grows.
+**Automation is the key to scaling this business.** Both on the digital side and the hardware side. The consumer market should be able to essentially self-moderate the online community through earned controls, while back-end services such as Digital Ocean [[4]](#ref) can automatically scale to demand. E-commerce will be hosted on Shopify [[5]](#ref) with potential to expand onto higher tiers as the business grows.
 
 #### Key Performance Indicators
 
@@ -200,27 +202,19 @@ Integration into SMB market | Number of custom installs | 1 | 10 | 50
 
 #### Strategic differentiators
 
-PlantIO is differentiating from the competition in two main areas&mdash;it's pricing model and the product offering. Early calculations place the unit at a highly competititve average price point of £200, however the modular approach will provide numerous setup options to cater for a much wider range of budgets.
+PlantIO is differentiating from the competition in two main areas&mdash;it's pricing model and the product offering. Early calculations place the unit at a highly competitive average price point of £200, however the modular approach will provide numerous setup options to cater for a much wider range of budgets.
 
-The flexibility of our system stands it ahead of its' nearest competitors in Click&Grow in that it can grow a vast array of crops with less waste and higher efficiency. As we begin to move into phase 2 we will also hold a distinct advantage over FarmBot in that our system provides much greater flexibility combined with extremely simple setup and the lack of a requirement for soil.
+The flexibility of our system stands it ahead of its' nearest competitors in Click & Grow in that it can grow a vast array of crops with less waste and higher efficiency. As we begin to move into phase 2 we will also hold a distinct advantage over FarmBot in that our system provides much greater flexibility combined with extremely simple setup and the lack of a requirement for soil.
 
 #### Market Behaviours
 
-##### Awareness
+**Awareness:** The first of four main market behaviour categories [[6]](#ref), awareness is generated at first through our initial press release and advertising campaigns, both online and via real demonstrations across the country
 
-The first of four main market behaviour categories[1](#ref), awareness is generated at first through our initial press release and advertising campaigns, both online and via real demonstrations across the country
+**Preference:** The market then proceeds to develop a preference by comparing our product to the competition&mdash;how do we compare to being able to buy fruit at 3am in a 24 hour local supermarket?
 
-##### Preference
+**Engagement:** The third phase is engagement, hooking the user in and convincing them to commit. this pre-purchase decision will be attacked from a multitude of angles&mdash;from information overload in our documentation, community led advocacy, interactive onboarding and strong, impactful messaging.
 
-The market then proceeds to develop a preference by comparing our product to the competition&mdash;how do we compare to being able to buy fruit at 3am in a 24 hour local supermarket?
-
-##### Engagement
-
-The third phase is engagement, hooking the user in and convincing them to commit. this pre-purchase decision will be attacked from a multitude of angles&mdash;from information overload in our documentation, community led advocacy, interactive onboarding and strong, impactful messaging.
-
-##### Advocacy
-
-Referrals by word of mouth, we are focusing on pushing a community based approach for collective groups of advocates to impress upon the importance of our product to local communities.
+**Advocacy:** Referrals by word of mouth, we are focusing on pushing a community based approach for collective groups of advocates to impress upon the importance of our product to local communities.
 
 ### Product Strategy
 
@@ -229,8 +223,8 @@ Referrals by word of mouth, we are focusing on pushing a community based approac
 ##### Special Promotions / Attachment strategies
 
 <div class="flex" style="align-items: flex-start">
-<img src="/media/action-against-hunger.svg" style="width: 25vw" />
-<p>Forming a partnership with a charity such as <a href="https://www.actionagainsthunger.org/">Action Against Hunger</a> will help align our values with the customer and enable them to feel good knowing that purchasing from us immediately helps the fight against hunger, even before our industrial units are released.</p>
+<img src="/media/action-against-hunger.svg" style="width: 25vw; margin: 1em 1em 0 0;" />
+<p style="padding-top: 1.75em;">Forming a partnership with a charity such as Action Against Hunger <a href="#ref">[7]</a> will help align our values with the customer and enable them to feel good knowing that purchasing from us immediately helps the fight against hunger, even before our industrial units are released.</p>
 </div>
 
 ##### Up-sells, Cross-sells & Bundles
@@ -248,10 +242,10 @@ Enclosure | Basic fabric skeleton | Modular enclosure | AR Enclosure
 
 There is a huge gap in the market for our product; our competitors either cannot match our technology, or our pricing models, or our scale.
 
-Small hobbyist programs such as [PlantFriends](http://dicksonchow.com/plant-friends/) are free, but are not suited for substantial, regular food growth and require significant user investment to set them up and get them working. FarmBot, our nearest competitor, have an attractive and unique application, however they offer an entry level option of over £2000, yet still requires outdoor growing space and uses dated farming methods. AeroFarms are a huge player and serve the industry with prices starting from tens of thousands of dollars. They use advanced technology and are really focusing on the top end of the market.
-The Sahara Forest Project is at the very top end of the industry, setting standards in growing in extreme conditions and are a serious competitor for phase 4 of our business model only.
-There is an opportunity for low cost, low management convenient home growing using advanced techniques. All of the systems around the pricing model for our phase 1 users are vastly overpriced for what they offer; for example, the [£100 KRYDDA/VÄXER from IKEA](https://www.ikea.com/gb/en/products/indoor-gardening/indoor-growing-cultivators/krydda-v%C3%A4xer-grow-kit-w-16-pots-2-tiers-spr-79158686/) is simply a two tier stand with slots to grow 16 small plants, or approximately 200 lettuces from the supermarket. The [Click & Grow Smart Garden 9](https://eu.clickandgrow.com/products/the-smart-garden-9) which boasts NASA technology in the form of smart soil, provides slots for 9 small plants at the whopping cost of £200, or 400 cucumbers.
-The closest competitor with an app is the [Flower Care Smart Monitor](https://www.huahuacaocao.com/product), which is nicely designed and professionally presented with strong branding, including a well thought out UX, however it provides no automation and utilises none of the agricultural advancements the PlantIO system is built around, focuses on flowers and single use systems.
+Small hobbyist programs such as PlantFriends [[8]](#ref) are free, but are not suited for substantial, regular food growth and require significant user investment to set them up and get them working. FarmBot, our nearest competitor, have an attractive and unique application, however they offer an entry level option of over £2000, yet still requires outdoor growing space and uses dated farming methods. AeroFarms are a huge player and serve the industry with prices starting from tens of thousands of dollars. They use advanced technology and are really focusing on the top end of the market [[9]](#ref).
+The Sahara Forest Project is at the very top end of the industry, setting standards in growing in extreme conditions and are a serious competitor for phase 4 of our business model only [[10]](#ref).
+There is an opportunity for low cost, low management convenient home growing using advanced techniques. All of the systems around the pricing model for our phase 1 users are vastly overpriced for what they offer; for example, the £100 KRYDDA/VÄXER from IKEA is simply a two tier stand with slots to grow 16 small plants, or approximately 200 lettuces from the supermarket [[11]](#ref). The Click & Grow Smart Garden 9 which boasts NASA technology in the form of smart soil, provides slots for 9 small plants at the whopping cost of £200, or 400 cucumbers.
+The closest competitor with an app is the Flower Care Smart Monitor [[12]](#ref), which is nicely designed and professionally presented with strong branding, including a well thought out UX, however it provides no automation and utilises none of the agricultural advancements the PlantIO system is built around, focuses on flowers and single use systems.
 The competitor analysis has shown that the PlantIO system provides multiple USP's and will target an underserved segment of the market.
 
 **Quality:** By providing the plant with the exact conditions needed for growth we can produce perfect quality fruit every time, maximising the potential of the seeds. FarmBot cannot control the environment, and Click & Grow cannot control the feed in the same advanced manner.
@@ -281,9 +275,8 @@ Moving forward, we aim to construct a permanent demonstration facility providing
 <div class="flex">
 <div>
 <img src="/media/earned-owned-paid-media.png" />
-<a href="https://www.titangrowth.com/what-is-earned-owned-paid-media-the-difference-explained/">Source: Titan Growth</a>
 </div>
-<p>We are approaching our marketing using the strategy of paid, earned and owned media. In order to get people to our website and online community, we need to use earned and paid media to push our segments. A strong SEO strategy is needed in order to gain earned media from organic traffic, social sharing etc which ties back into our content marketing element&mdash;writing articles for publications along with our own blogs. Sales funnels will be implemented to ensure our time is used as efficiently as possible.</p>
+<p>We are approaching our marketing using the strategy of paid, earned and owned media <a href="ref">[13]</a>. In order to get people to our website and online community, we need to use earned and paid media to push our segments. A strong SEO strategy is needed in order to gain earned media from organic traffic, social sharing etc which ties back into our content marketing element&mdash;writing articles for publications along with our own blogs. Sales funnels will be implemented to ensure our time is used as efficiently as possible.</p>
 </div>
 
 ### Customer Experience
@@ -303,12 +296,6 @@ Upon receiving his PlantIO system, Mark plugs it in and connects it with his acc
 Mark can check the plant at any point via the status page in the PWA, and for the first harvest he can see a representation of his plant growing in the PlantIO Sky Garden. Aside from selecting a seed to continue with once germination is complete, Mark has no need to interact with the system until it is time to harvest the plant.
 
 Mark is contacted via email and through his account to remind him to purchase more seeds at a timely point prior to his first harvest. He is also offered an upsell of a component in his system at this time. Once he has harvested, Mark is pushed for feedback and offered discounts on future purchases, as well as being suggested to share his growth over social media. His grower status reaches level 1.
-
-### Technical Requirements
-
-[//]: # (This section documents the technical requirements needed to support the new products. These requirements, which may be affected by decisions made in the previous sections of the plan, may include branding your customer-facing portals, and integrating sales and provisioning systems with third-party resources you've employed. Parallels can help you identify the technical requirements needed to launch your products.)
-
-Branding of all social media accounts in line with the company website. Secure integration with a 3rd party cloud hosted database and connection to PlantIO hardware via wi-fi to provide real-time communication.
 
 ### Timeline and Execution
 
@@ -390,7 +377,7 @@ The main focus for our social media campaigns will be to increase brand awarenes
 
 ### Analytics
 
-The use of website analytics such as [HotJar](https://www.hotjar.com/) and [Lucky Orange](https://www.luckyorange.com/) will be implemented alongside Google analytics to fully understand how the e-commerce platform can be optimised. We will also be collecting continuous data from all connected PlantIO systems and harvest completion reports filled out by users. The data collected will be fed back into the recipe database to improve recipe timings and results. We will also conduct manual analytics of community posts and bug tracking issues raised. Each and every live demonstration will include recordings of usability tests and Q/A sessions.
+The use of website analytics such as HotJar [[14]](#ref) and Lucky Orange [[15]](#ref) will be implemented alongside Google analytics to fully understand how the e-commerce platform can be optimised. We will also be collecting continuous data from all connected PlantIO systems and harvest completion reports filled out by users. The data collected will be fed back into the recipe database to improve recipe timings and results. We will also conduct manual analytics of community posts and bug tracking issues raised. Each and every live demonstration will include recordings of usability tests and Q/A sessions.
 
 ### Feedback Channels
 
@@ -417,7 +404,7 @@ This ensures communication is easy for the user reporting the bug, and clarity i
 ### Maintenance & Future Development
 <div class="flex" style="align-items: center;">
 <img src="/media/git-model.png" style="width: 40vw; height: auto" />
-<blockquote><p>All future app development will follow the Git branching model as proposed by <a href="https://nvie.com/posts/a-successful-git-branching-model/">Vincent Driessen</a>.</p></blockquote>
+<blockquote><p>All future app development will follow the Git branching model as proposed by Vincent Driessen <a href="#ref">[16]</a>.</p></blockquote>
 </div>
 
 Scheduled regular software updates will initially fall in line with our own harvests and linked blog posts as we work to short sprints. As the community grows, moderation of recipes and the forum will be required Future developments will initially focus on hardware as we look to scale the PlantIO system for business and industrial use.
@@ -425,38 +412,48 @@ Scheduled regular software updates will initially fall in line with our own harv
 
 ### Continued User Engagement
 
-#### Charity
-<div class="">
-<img src="/media/action-against-hunger.svg" style="float: left;width: 25vw;" />
-<p>Forming a partnership with a charity such as <a href="https://www.actionagainsthunger.org/">Action Against Hunger</a> will help align our values with the customer and enable them to feel good knowing that purchasing from us immediately helps the fight against hunger, even before our industrial units are released.</p>
-</div>
 #### Gamification
-A lot of the concepts from [Fudogotchi](http://fudogotchi.naturalmohican.com/) can be applied to the post launch experience for PlantIO - encouraging the user to earn achievements and level up will of course increase the chance of them engaging with us online and advertising through word of mouth. Their acquired status will also give them a certain level of standing in the growing forums.
+A lot of the concepts from Fudogotchi [[17]](#ref) can be applied to the post launch experience for PlantIO - encouraging the user to earn achievements and level up will of course increase the chance of them engaging with us online and advertising through word of mouth. Their acquired status will also give them a certain level of standing in the growing forums.
 
 #### Brand advocates as community leaders
 Our customers who are highly engaged on social media will be targeted to become brand advocates, essentially rewarding their loyalty and encouraging them to continue. The community will eventually be introduced to the idea of communal growing (sharing produce within a neighbourhood, teaming up to organise what is being grown and where), which needs to be led by our brand advocates.
 
-#### Case Studies with real users/businesses as blog posts
-
 ## Appendix
+{: #ref}
 
-Competitor Case Studies
-
-[1]  Farmbot
-
-[2]  Click & Grow
+1. Penny, P D. Initial FMP user survey, [https://docs.google.com/spreadsheets/d/1nGWIVqBoslziVk2PurzK5a8G3wUKEeuJQFKUpQMps-M/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1nGWIVqBoslziVk2PurzK5a8G3wUKEeuJQFKUpQMps-M/edit?usp=sharing)
+2. Penny, P D et al. Carbon Candy, Retrieved October 29, 2018: [https://carboncandy.co.uk](https://carboncandy.co.uk)
+3. Based on a bottom up analysis. Approximately 8 million uk users fit the persona ([https://en.wikipedia.org/wiki/Demography_of_the_United_Kingdom#Age_structure](https://en.wikipedia.org/wiki/Demography_of_the_United_Kingdom#Age_structure)), which equates to 4 million couples, placing one unit per family each with a potential unit spend of £200.
+4. Digital Ocean, cloud computing. Retrieved October 29, 2018: [https://www.digitalocean.com/](https://www.digitalocean.com/)
+5. Shopify, hosted e-commerce platform. Retrieved October 29, 2018: [https://www.shopify.co.uk/](https://www.shopify.co.uk/)
+6. Hawkins, D et al. Consumer Behavior, 2009.
+7. Action Against Hunger, charity. Retrieved October 29, 2018: [https://www.actionagainsthunger.org/](https://www.actionagainsthunger.org/)
+8. Chow, D. Plant Friends, Retrieved October 29, 2018: [http://dicksonchow.com/plant-friends/](http://dicksonchow.com/plant-friends/)
+9. Aerofarms, Retrieved October 29, 2018: [https://aerofarms.com/](https://aerofarms.com/)
+10. Sahara Forest Project, Retrieved October 29, 2018: [https://www.saharaforestproject.com/](https://www.saharaforestproject.com/)
+11. IKEA, KRYDDA/VÄXER, Retrieved October 29, 2018: [https://www.ikea.com/gb/en/products/indoor-gardening/indoor-growing-cultivators/krydda-v%C3%A4xer-grow-kit-w-16-pots-2-tiers-spr-79158686/](https://www.ikea.com/gb/en/products/indoor-gardening/indoor-growing-cultivators/krydda-v%C3%A4xer-grow-kit-w-16-pots-2-tiers-spr-79158686/)
+12. Flower Care Smart Monitor, Retrieved October 29 2018: [https://www.huahuacaocao.com/product](https://www.huahuacaocao.com/product)
+13. Garman, E. What is Earned, Owned & Paid Media? The Difference Explained. Retrieved October 29, 2018: [https://www.titangrowth.com/what-is-earned-owned-paid-media-the-difference-explained/](https://www.titangrowth.com/what-is-earned-owned-paid-media-the-difference-explained/)
+14. Hotjar, analytics. Retrieved October 29, 2018: [https://www.hotjar.com/](https://www.hotjar.com/)
+15. Lucky Orange, analytics. Retrieved October 29, 2018: [https://www.luckyorange.com/](https://www.luckyorange.com/)
+16. Driessen, V. A successful Git branching model. Retrieved October 29, 2018:  [https://nvie.com/posts/a-successful-git-branching-model](https://nvie.com/posts/a-successful-git-branching-model)
+17. Penny, P D and Harrison, C. Fudogotchi. Retrieved October 29, 2018: [http://fudogotchi.naturalmohican.com/](http://fudogotchi.naturalmohican.com/)
 
-## FarmBot
-##### COMPETITOR CASE STUDY
+### FarmBot
+{: .page-break}
+#### COMPETITOR CASE STUDY
 {: .text-center}
 
 <div class="flex ai--c">
-<img src="/media/farmbot--desktop.png" style="width: 67.5vw" />
-<img src="/media/farmbot--mobile.png" style="width: 17.5vw" />
+<img src="/media/farmbot--desktop.png" style="width: 62.5vw" />
+<img src="/media/farmbot--mobile.png" style="width: 15vw" />
 </div>
-Figure 1: The [FarmBot]( https://farm.bot/ ) homepage
+Figure 1: The FarmBot homepage ([https://farm.bot/](https://farm.bot/))
 
 **Location:** USA
+
+<p><strong>Category of Competition:</strong> Primary | <span>Secondary</span> | Tertiary</p>
+{: .tags}
 
 **Mission Statement:**
 
@@ -475,24 +472,23 @@ Figure 1: The [FarmBot]( https://farm.bot/ ) homepage
 
 Following the open-source route creates a strong community, and a very strong online presence provides documentation, forums, videos and reviews. The system requires a big upfront investment, technical skills to build and setup the machine, and a large area of space to run, all the while using traditional inefficient farming methods.
 
-**Category of Competition:**
-
-<p>Primary | <span>Secondary</span> | Tertiary</p>
-{: .tags}
-
 FarmBot offer a high-end version of our product at a much higher price to a slightly different audience, using lower-end hardware.
 
-## Click & Grow
-##### COMPETITOR CASE STUDY
+### Click & Grow
+{: .page-break}
+#### COMPETITOR CASE STUDY
 {: .text-center}
 
 <div class="flex ai--c">
-<img src="/media/clickandgrow--desktop.png" style="width: 67.5vw" />
-<img src="/media/clickandgrow--mobile.png" style="width: 17.5vw" />
+<img src="/media/clickandgrow--desktop.png" style="width: 62.5vw" />
+<img src="/media/clickandgrow--mobile.png" style="width: 15vw" />
 </div>
-Figure 1: The [Click & Grow]( https://eu.clickandgrow.com/) homepage
+Figure 1: The Click & Grow homepage ([https://eu.clickandgrow.com/](https://eu.clickandgrow.com/))
 
 **Location:** USA & Estonia
+
+<p><strong>Category of Competition:</strong> <span>Primary</span> | Secondary | Tertiary</p>
+{: .tags}
 
 **Mission Statement:**
 >> &ldquo; We create transformative technologies that allow growing fresh, vitamin-packed food locally and sustainably. &rdquo;
@@ -507,10 +503,5 @@ Figure 1: The [Click & Grow]( https://eu.clickandgrow.com/) homepage
 <p>Blog posts  |  Videos  |  Visual content  |  FAQs  |  Forum</p>
 
 **Strengths & Weaknesses:**
-
-**Category of Competition:**
-
- <p><span>Primary</span> | Secondary | Tertiary</p>
- {: .tags}
 
 Click & Grow offer a low-end version of our product at a higher price to a very similar audience, using lower-end hardware and software.

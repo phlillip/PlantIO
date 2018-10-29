@@ -378,11 +378,15 @@ pre {
 
 @media print {
 
-  a[href^="http"]:not([href*="example.com"]):after {
-    content: " (" attr(href) ")";
-  }
+  //a[href^="http"]:not([href*="example.com"]):after {
+  //  content: " (" attr(href) ")";
+  //}
   @page {
   margin: 10mm;
+}
+.page-break{
+  page-break-before: always;
+  break-before: page;
 }
 p, h1, h2, h3, h4 ,h5 {
   orphans: 2;
