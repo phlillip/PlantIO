@@ -15,7 +15,6 @@ baseurl: # the subpath of your site, e.g. /blog
 url: "https://philpenny.co.uk" # the base hostname & protocol for your site
 github_username:  phlillip
 future: true
-incremental: true
 
 # Build settings
 markdown: kramdown

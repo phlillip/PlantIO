@@ -6,291 +6,602 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Oct 2018 20:36:15 +0100</pubDate>
-    <lastBuildDate>Sun, 14 Oct 2018 20:36:15 +0100</lastBuildDate>
-    <generator>Jekyll v3.7.3</generator>
+    <pubDate>Sun, 04 Nov 2018 20:16:55 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Nov 2018 20:16:55 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>Marketing &amp; Dissemination Plan</title>
-        <description>&lt;p&gt;PlantIO
-&lt;img src=&quot;/media/ruuts__tech.svg&quot; /&gt;
-Grow perfect food, automatically.&lt;/p&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#product-overview&quot; id=&quot;markdown-toc-product-overview&quot;&gt;Product Overview&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#value-proposition&quot; id=&quot;markdown-toc-value-proposition&quot;&gt;Value Proposition&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#summary&quot; id=&quot;markdown-toc-summary&quot;&gt;Summary&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#description&quot; id=&quot;markdown-toc-description&quot;&gt;Description&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#features&quot; id=&quot;markdown-toc-features&quot;&gt;Features&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#technical-information&quot; id=&quot;markdown-toc-technical-information&quot;&gt;Technical information&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#audience&quot; id=&quot;markdown-toc-audience&quot;&gt;Audience&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#go-to-market-gtm-strategy&quot; id=&quot;markdown-toc-go-to-market-gtm-strategy&quot;&gt;Go-To-Market (GTM) Strategy&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#business-plan&quot; id=&quot;markdown-toc-business-plan&quot;&gt;Business Plan&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#core-business-drivers&quot; id=&quot;markdown-toc-core-business-drivers&quot;&gt;Core business drivers&lt;/a&gt;            &lt;ul&gt;
-              &lt;li&gt;&lt;a href=&quot;#strategy&quot; id=&quot;markdown-toc-strategy&quot;&gt;Strategy&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#the-ruuts-team--operations&quot; id=&quot;markdown-toc-the-ruuts-team--operations&quot;&gt;The Ruuts Team &amp;amp; Operations&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#funding&quot; id=&quot;markdown-toc-funding&quot;&gt;Funding&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#transactions&quot; id=&quot;markdown-toc-transactions&quot;&gt;Transactions&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#risk--reporting&quot; id=&quot;markdown-toc-risk--reporting&quot;&gt;Risk &amp;amp; Reporting&lt;/a&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#key-performance-indicators&quot; id=&quot;markdown-toc-key-performance-indicators&quot;&gt;Key Performance Indicators&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#differentiation-compared-to-competitors&quot; id=&quot;markdown-toc-differentiation-compared-to-competitors&quot;&gt;Differentiation compared to competitors&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#market-behaviours&quot; id=&quot;markdown-toc-market-behaviours&quot;&gt;Market Behaviours&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#projections&quot; id=&quot;markdown-toc-projections&quot;&gt;Projections&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#product-strategy&quot; id=&quot;markdown-toc-product-strategy&quot;&gt;Product Strategy&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#channel-strategy&quot; id=&quot;markdown-toc-channel-strategy&quot;&gt;Channel Strategy&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#marketing-strategy&quot; id=&quot;markdown-toc-marketing-strategy&quot;&gt;Marketing Strategy&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#customer-experience&quot; id=&quot;markdown-toc-customer-experience&quot;&gt;Customer Experience&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#technical-requirements&quot; id=&quot;markdown-toc-technical-requirements&quot;&gt;Technical Requirements&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#evaluation&quot; id=&quot;markdown-toc-evaluation&quot;&gt;Evaluation&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#timeline-and-execution&quot; id=&quot;markdown-toc-timeline-and-execution&quot;&gt;Timeline and Execution&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#launch&quot; id=&quot;markdown-toc-launch&quot;&gt;Launch&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#beta-launch&quot; id=&quot;markdown-toc-beta-launch&quot;&gt;Beta Launch&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#press-release&quot; id=&quot;markdown-toc-press-release&quot;&gt;Press release&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#social-media&quot; id=&quot;markdown-toc-social-media&quot;&gt;Social media&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#analytics&quot; id=&quot;markdown-toc-analytics&quot;&gt;Analytics&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#feedback-channels&quot; id=&quot;markdown-toc-feedback-channels&quot;&gt;Feedback Channels&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#bug-tracking&quot; id=&quot;markdown-toc-bug-tracking&quot;&gt;Bug Tracking&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#post-launch&quot; id=&quot;markdown-toc-post-launch&quot;&gt;Post Launch&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#maintenance&quot; id=&quot;markdown-toc-maintenance&quot;&gt;Maintenance&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#future-development&quot; id=&quot;markdown-toc-future-development&quot;&gt;Future Development&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#continued-user-engagement&quot; id=&quot;markdown-toc-continued-user-engagement&quot;&gt;Continued User Engagement&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#appendix&quot; id=&quot;markdown-toc-appendix&quot;&gt;Appendix&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+        <description>&lt;h2 class=&quot;main text-center&quot;&gt;Plant&lt;strong&gt;IO&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/media/ruuts__tech.svg&quot; style=&quot;width: 75vw; margin-left: calc(12.5vw - 10mm)&quot; /&gt;&lt;/p&gt;
+&lt;h3 class=&quot;text-center&quot;&gt;Grow perfect food, automatically.&lt;/h3&gt;
 
 &lt;h2 id=&quot;product-overview&quot;&gt;Product Overview&lt;/h2&gt;
 
 &lt;h3 id=&quot;value-proposition&quot;&gt;Value Proposition&lt;/h3&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Plant&lt;strong&gt;IO&lt;/strong&gt; allows you to grow perfect food for your family all year round at a low cost to you and the environment, completely automatically.&lt;/p&gt;
+  &lt;p&gt;PlantIO allows you to grow perfect food for your family all year round at a low cost to you and the environment, completely automatically.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+&lt;div class=&quot;flex&quot;&gt;
+&lt;p&gt;&lt;strong&gt;In the developed countries of the modern world, we are now eating a wider variety of foods than ever before, with incredible accessibility. However, this global transportation of food comes at a cost, creating issues which society is becoming more informed about, such as the quality of our food, its true origins and what it really means to be organic, and what impacts this process is having on the environment.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The fact is, it is far easier to have a seemingly limitless supply of food at any time of the year than it is to try to grow our own. Time, space, and our attention spans are at an ever increasing premium. Food is one of the 3 key elements all humans need to survive, along with warmth and shelter, and it deserves more of our attention. We can do better, and here at Ruuts, we have done better.&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h4 id=&quot;description&quot;&gt;Description&lt;/h4&gt;
 
+&lt;p&gt;&lt;strong&gt;PlantIO is a fully automated system for controlling and managing all aspects of plant growth. Controlled from pre-selected recipes, it provides for all your plants’ needs until it comes to fruition, only contacting the user in the event of an emergency or when the plant is ready to be harvested.&lt;/strong&gt;&lt;/p&gt;
+
 &lt;h4 id=&quot;features&quot;&gt;Features&lt;/h4&gt;
+
+&lt;p&gt;PlantIO provides complete control of plant growth. Watering and feeding, light exposure, and temperature are all delivered to exact specifications based on your starting seed. Using our ‘recipes’ we do all the hard work for you.&lt;/p&gt;
+
+&lt;h5 id=&quot;three-steps-to-success&quot;&gt;Three steps to success&lt;/h5&gt;
+
+&lt;div class=&quot;flex&quot;&gt;
+&lt;div&gt;&lt;strong&gt;Connect&lt;/strong&gt;&lt;br /&gt;Simply connect your PlantIO system with your account via wi-fi, select the recipe you desire; place your seeds into your system and the germination phase then begins automatically.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Select&lt;/strong&gt;&lt;br /&gt;The PlantIO app will monitor the seeds as they develop into sproutlings, and when ready, PlantIO will instruct you to select the superior sproutling and remove the others.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Collect&lt;/strong&gt;&lt;br /&gt;The PlantIO app will now monitor the complete growth of the plant and let you know when it is time to pick the final fruits.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The PlantIO app monitors all aspects of the plants’ health and adjusts the system as required, only sending you notifications if emergency situation arise. Of course, users can check the status of their plant at any time using the real-time status screen.&lt;/p&gt;
+
+&lt;h5 id=&quot;freedom-of-growth&quot;&gt;Freedom of growth&lt;/h5&gt;
+
+&lt;p&gt;This fully automated growing can be adjusted to give you back some control; we provide two extra kinds of recipes to live alongside the fully automatic variety.&lt;/p&gt;
+
+&lt;div class=&quot;flex&quot;&gt;
+&lt;div&gt;&lt;strong&gt;Automatic&lt;/strong&gt;&lt;br /&gt;Simply connect your PlantIO system with your account via wi-fi, select the recipe you desire, place your seeds into your system and the germination phase then begins automatically.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Semi-automatic&lt;/strong&gt;&lt;br /&gt;Semi-automatic recipes work in the same way as automatic recipes, however, they notify you when it's time to feed, water or give light to your plant rather than doing it automatically. You must then use the app to control the grow system yourself, in real time.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Manual&lt;/strong&gt;&lt;br /&gt;Finally, we have manual recipes which provide no instructions whatsoever; it is up to you to decide how and when to care for your plant. This can be set up ahead of time or managed on the fly, just as you would a normal plant.&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h5 id=&quot;evolutional-database&quot;&gt;Evolutional database&lt;/h5&gt;
+
+&lt;p&gt;All plant data is recorded so you can save any recipes which work particularly well and share them  with the Ruuts community, this will help to evolve our recipes over time for growing food to specific requirements; the biggest tomato, the crunchiest lettuce, the best-looking strawberries.&lt;/p&gt;
 
 &lt;h4 id=&quot;technical-information&quot;&gt;Technical information&lt;/h4&gt;
 
+&lt;h5 id=&quot;software&quot;&gt;Software&lt;/h5&gt;
+&lt;p&gt;For the technology stack, a Progressive Web Application (PWA) was chosen to ensure maximum accessibility, providing a cross-platform solution from a single codebase, and easy updating of software. Users can check their plant status at any point regardless of the device, so long as they can access a web browser. Each PlantIO system comes with its own Raspberry Pi Zero W allowing it to connect wirelessly to the internet, and Arduino controllers are used to turn the PlantIO signals into actions. The Johnny-Five JavaScript library will be used to communicate with the plant in real-time &lt;a href=&quot;#ref&quot;&gt;[1]&lt;/a&gt;. There is also the question of maintenance; as with any machine with moving parts, users will need to perform basic periodic checks on their systems. This maintenance procedure will be designed into the system, perhaps using sensors to check that the user has inspected the required components and cleaned where necessary.&lt;/p&gt;
+
+&lt;h5 id=&quot;hardware&quot;&gt;Hardware&lt;/h5&gt;
+&lt;p&gt;The PWA communicates with the PlantIO hardware, which takes the form of a custom-built blackout enclosure which extends to any plant size and ensures complete separation of light from plant roots. LED lights are used for complete control of lumen levels and the wavelength at extremely low energy levels and negligible heat creation. An atomiser nozzle delivers exacting amounts of feed at the optimum atomic size to enable maximum nutrient uptake from the plant’s roots. Finally, a thermostatic heater element maintains the optimum temperature of the enclosure 24/7 with minimal power usage. 90% of the components of the PlantIO system can be 3D printed if replacements or additional modules are required - meaning the home user can expand at very little cost.&lt;/p&gt;
+
+&lt;h5 id=&quot;dataware&quot;&gt;Dataware&lt;/h5&gt;
+&lt;p&gt;The databank of recipes will specify the exact feed, light and temperature requirements for each plant, delivering perfect day/night cycles and rest periods. Secure integration with a 3rd party cloud-hosted database will provide the storage and access controls across a content-delivery network.&lt;/p&gt;
+
 &lt;h3 id=&quot;audience&quot;&gt;Audience&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Millennial families looking to appear socially aware and improve their diets with minimal effort through the use of technology.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h2 id=&quot;go-to-market-gtm-strategy&quot;&gt;Go-To-Market (GTM) Strategy&lt;/h2&gt;
-
-&lt;h3 id=&quot;business-plan&quot;&gt;Business Plan&lt;/h3&gt;
-
-&lt;h4 id=&quot;core-business-drivers&quot;&gt;Core business drivers&lt;/h4&gt;
-&lt;h5 id=&quot;strategy&quot;&gt;Strategy&lt;/h5&gt;
-
-&lt;h5 id=&quot;the-ruuts-team--operations&quot;&gt;The Ruuts Team &amp;amp; Operations&lt;/h5&gt;
-&lt;p&gt;&lt;strong&gt;Ruuts is powered by 3 founders all of whom are key individuals with unique skills.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;funding&quot;&gt;Funding&lt;/h5&gt;
-
-&lt;p&gt;&lt;strong&gt;Ruuts are looking for £250,000 of funding to take the product to market.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This will cover salary for all 3 founders over the course of 15 months of product development, starting in January 2019 after creation of the MVP. It will also cover investment in an initial stock of 100 Plant&lt;strong&gt;IO&lt;/strong&gt; units.&lt;/p&gt;
-
-&lt;h5 id=&quot;transactions&quot;&gt;Transactions&lt;/h5&gt;
-
-&lt;h5 id=&quot;risk--reporting&quot;&gt;Risk &amp;amp; Reporting&lt;/h5&gt;
-
-&lt;h4 id=&quot;key-performance-indicators&quot;&gt;Key Performance Indicators&lt;/h4&gt;
-
-&lt;table&gt;
+&lt;h4 id=&quot;millennials&quot;&gt;Millennials&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/media/persona__millenial-man-mark.jpg&quot; style=&quot;float: left; width: 15em; margin: 0 1em 2em 0&quot; /&gt;
+Millennial man Mark is happily married with a young family and a busy schedule. Mark is aware of the environment, aware of what we eat, and aware of our impression on others. Mark sees the popularity behind lifestyle choices and provides an opportunity for marketing purposes for our product. Defined as a first-time passive user of the system, he will be looking for results and will use the system in the fully automatic mode to fit in with his busy schedule. Should he see success with the system he is likely to subscribe to the paid plan, he is happy to use his disposable income to improve the quality of life for his family.&lt;/p&gt;
+&lt;table class=&quot;channels&quot;&gt;
 &lt;tr&gt;
-  &lt;th&gt;Goal&lt;/th&gt;
-  &lt;th&gt;KPI&lt;/th&gt;
-  &lt;th&gt;Year 1 Target&lt;/th&gt;
-  &lt;th&gt;Year 2 Target&lt;/th&gt;
-  &lt;th&gt;Year 3 Target&lt;/th&gt;
+&lt;td&gt;Frequency&lt;/td&gt;&lt;td class=&quot;selected&quot;&gt;First-time&lt;/td&gt;&lt;td&gt;Intermediate&lt;/td&gt;&lt;td&gt;Casual&lt;/td&gt;&lt;td&gt;Power&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-  &lt;td&gt;Mass adoption of consumer unit&lt;/td&gt;
-  &lt;td&gt;Number of sales of the PlantIO system&lt;/td&gt;
-  &lt;td&gt;100&lt;/td&gt;
-  &lt;td&gt;500&lt;/td&gt;
-  &lt;td&gt;5000&lt;/td&gt;
+&lt;td&gt;Engagement&lt;/td&gt;&lt;td class=&quot;selected&quot;&gt;Passive&lt;/td&gt;&lt;td&gt;Active&lt;/td&gt;&lt;td&gt;Advocate&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-  &lt;td&gt;Active, growing knowledge base &amp;amp; online community&lt;/td&gt;
-  &lt;td&gt;Number of monthly active users (MAU) on forum&lt;/td&gt;
-  &lt;td&gt;launch&lt;/td&gt;
-  &lt;td&gt;50&lt;/td&gt;
-  &lt;td&gt;500&lt;/td&gt;
+&lt;td&gt;Usage&lt;/td&gt;&lt;td&gt;Enthusiast&lt;/td&gt;&lt;td class=&quot;selected&quot;&gt;Prosumer&lt;/td&gt;&lt;td&gt;Professional&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-  &lt;td&gt;Integration into SMB market&lt;/td&gt;
-  &lt;td&gt;Number of custom installs&lt;/td&gt;
-  &lt;td&gt;1&lt;/td&gt;
-  &lt;td&gt;10&lt;/td&gt;
-  &lt;td&gt;50&lt;/td&gt;
+&lt;td&gt;Vertical Specific&lt;/td&gt;&lt;td&gt;Hobby&lt;/td&gt;&lt;td class=&quot;selected&quot;&gt;Home&lt;/td&gt;&lt;td&gt;Business&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Channel&lt;/td&gt;&lt;td&gt;Social&lt;/td&gt;&lt;td&gt;Inbound&lt;/td&gt;&lt;td class=&quot;selected&quot;&gt;Traditional Ads&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sales Funnel Position&lt;/td&gt;&lt;td class=&quot;selected&quot;&gt;High&lt;/td&gt;&lt;td&gt;Middle&lt;/td&gt;&lt;td&gt;Low&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Financial Model&lt;/td&gt;&lt;td&gt;Free&lt;/td&gt;&lt;td class=&quot;selected&quot;&gt;Freemium&lt;/td&gt;&lt;td&gt;Paid&lt;/td&gt;&lt;td&gt;Enterprise&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Handling User Needs&lt;/td&gt;&lt;td class=&quot;selected&quot;&gt;Automatic&lt;/td&gt;&lt;td&gt;Semi-automatic&lt;/td&gt;&lt;td&gt;Manual&lt;/td&gt;&lt;td&gt;AI&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 
-&lt;h4 id=&quot;differentiation-compared-to-competitors&quot;&gt;Differentiation compared to competitors&lt;/h4&gt;
-&lt;p&gt;Plant&lt;strong&gt;IO&lt;/strong&gt; is differentiating from the competition in two main areas:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Pricing model&lt;/li&gt;
-  &lt;li&gt;Product offering&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h4 id=&quot;other-segments&quot;&gt;Other segments&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Generation Z:&lt;/strong&gt; Youth Yasmin, part of “Generation Z” is in her early twenties and is an avid gym goer and clean eater. She loves to travel, loves animals and is an active blogger. Yasmin provides a huge opportunity for free marketing - the Instagram generation are all too eager to show off their exploits to their followers, particularly when it comes to health and their bodies. What can be healthier than the purest, sustainable food possible? Unlikely to create revenue through the subscription model, Yasmin will require a workable free setting to continue using the product. We expect Yasmin to want increased product engagement so will be using the semi-automatic recipes and documenting her every interaction via social media. Strong app branding is important for all the screen time Yasmin will generate. She will appreciate the fine UI details such as subtle animations, and a fast, smooth experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Environmentalists:&lt;/strong&gt; Environmentalist Ed is highly aware of the damage the human race is doing to the planet and seeks to promote a better way of living in all that he does. He rides a bike everywhere, and people know it. He recycles everything in his home, and people know it. One of our power users during the first phase, Ed will be an advocate for the system, preaching to his peers about the massive benefits it brings to society and the health of the planet. Ed will provide plenty of product feedback, and use his system religiously, yet will push for freedom of use and likely not contribute much in the way of direct revenue. Ed’s value is in his evangelic promotion of the idea and rigorous testing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Small Business Owners (stage 2):&lt;/strong&gt; Chef Cheryl is a small food business owner, serving vegan food from her converted van. Though forming the bulk of phase 2, it is important to connect with Cheryl during the first product phase, she needs to believe that this is a product that can take her business to the next level. It needs to provide economic benefit, as well as seamless operation. Cheryl will likely upgrade to a paid installation to suit her needs, and demand A.I. technology from her recipes to ensure she is growing the best possible food for her business needs.&lt;/p&gt;
+
+&lt;h2 id=&quot;go-to-market-gtm-strategy&quot;&gt;Go-To-Market (GTM) Strategy&lt;/h2&gt;
+
+&lt;div class=&quot;flex&quot; style=&quot;align-items: center&quot;&gt;
+&lt;img src=&quot;/media/ruuts__model.svg&quot; style=&quot;width: 100%&quot; /&gt;
+&lt;blockquote&gt;&lt;p&gt;A four-stage business model initially targeting the consumer market, reaching into small businesses and finally entering the industrial market. Space is the final frontier.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;/div&gt;
+
+&lt;h3 id=&quot;business-plan&quot;&gt;Business Plan&lt;/h3&gt;
+
+&lt;h4 id=&quot;strategy&quot;&gt;Strategy&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Phase 1:&lt;/strong&gt; Ruuts will launch directly into the first phase focusing on the consumer market. Initially, revenue will be generated through the sale of systems and equipment for occasional, home-based use, accompanied by the corresponding phase 1 of the PlantIO app. During this phase, everything will be open source in line with the values of the company; individuals will be free to use our code and create their own systems. The consumer will serve as a major source of promotion for the company during this phase and help Ruuts gain traction within the press and social media.&lt;/p&gt;
+
+&lt;p&gt;The controlling application will be free to use for the first 3 harvests, giving the user enough time to benefit from the technology and have it form a part of their lifestyle. After this period, a subscription model will be implemented, charging monthly operating costs if the user wishes to have the full version of the software; otherwise, they will be limited in some way, either by functionality limits or advertisements, yet to be determined.&lt;/p&gt;
+
+&lt;p&gt;Continuous investment will need to be made into promotion, online presence, and product development as issues are ironed out and consumer recommended enhancements are implemented. In addition to this, product development will need to be made into preparing for phase 2.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Phase 2:&lt;/strong&gt; Having gained stability and popularity within the consumer market, we will shift a portion of our focus into business applications; investment will now concentrate on semi-bespoke installs for small businesses in return for promotion. Using our modular designs, this approach can also be adopted by consumers to set up their own larger systems. The app will be further developed to monitor multiple connected systems and help businesses create growing plans to maximise daily yields.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Phase 3:&lt;/strong&gt; With exposure to small business applications will come interest from large-scale industrial applications; supermarkets are an obvious candidate for bespoke installation of bolt-on ‘Ruuts-Farms’ on their premises. Investment during this phase will be into a large-scale demonstration system providing free produce for charity and food banks, doubling as a live exhibition for potential investors. The app will be developed in the areas of security and scalability, with careful assessment of the back-end services to manage big plant data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Phase 4:&lt;/strong&gt; The fourth and final phase of the business will focus on extreme environments such as polar, desert, and space, with the company heavily investing into development in these areas to become a world leader in this market segment. The development of a cost-effective, self-sustaining container farm that can be deployed in areas of need will be the first focus.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-ruuts-team--operations&quot;&gt;The Ruuts Team &amp;amp; Operations&lt;/h4&gt;
+
+&lt;div class=&quot;flex&quot; style=&quot;align-items: center&quot;&gt;
+&lt;blockquote&gt;&lt;p&gt;Ruuts is powered by 3 founders all of whom are key individuals with unique, complementary skills.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;img src=&quot;/media/ruuts__team--combo.svg&quot; style=&quot;height: 45vw&quot; /&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;We combine the perfect mix of an experienced product designer in myself, with over 15 years of professional design experience, focusing on the digital side of the business, developing the software and social strategy; a horticulture expert in Brett Bartlett with a vast knowledge of plant growth characteristics and an aeroponic research programme behind him, focusing on developing optimum plant recipes to ensure a quality end product; and electronics engineer Ashley Banner who specialises in designing electronic systems with off-the-shelf components to create bespoke products, essentially taking Ruuts designs and turning them into a feasible, realistic tangible product; focusing on developing the hardware systems.&lt;/p&gt;
+
+&lt;div class=&quot;flex&quot;&gt;
+&lt;p&gt;Ruuts have successfully worked together on a separate startup - Carbon Candy &lt;a href=&quot;#ref&quot;&gt;[3]&lt;/a&gt; - producing bespoke carbon fibre and more recently 3D printed components for various industries, focusing on the drone industry of late, with a multi-page publication in Drone Magazine. &lt;a href=&quot;#ref&quot;&gt;[4]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Carbon Candy was designed as a stepping stone into Ruuts, enabling us to acquire the skills necessary to build our own system using advanced materials, as well as learning the skills required to work together and form a successful business.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;funding&quot;&gt;Funding&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Ruuts are looking for £250,000 of funding to take the product to market.&lt;/strong&gt; &lt;a href=&quot;#ref&quot;&gt;[5]&lt;/a&gt;
+This will cover salary for all 3 founders over the course of 15 months of product development, starting in January 2019 after the creation of the MVP. It will also cover investment in an initial stock of 100 PlantIO units.&lt;/p&gt;
+
+&lt;h4 id=&quot;transactions&quot;&gt;Transactions&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Several opportunities are available to increase conversions and sales.&lt;/strong&gt; Potential relationships with established seed suppliers such as Mr Fothergills can add a reputability to the business in its’ early days. The opportunity to create a charity serving global hunger can further strengthen our reputation.&lt;/p&gt;
+
+&lt;h4 id=&quot;risk--reporting&quot;&gt;Risk &amp;amp; Reporting&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Automation is the key to scaling this business, both on the digital side and the hardware side.&lt;/strong&gt; The consumer market should be able to essentially self-moderate the online community through earned controls, while back-end services such as Digital Ocean &lt;a href=&quot;#ref&quot;&gt;[6]&lt;/a&gt; can automatically scale to demand. E-commerce will be hosted on Shopify &lt;a href=&quot;#ref&quot;&gt;[7]&lt;/a&gt; with the potential to expand onto higher tiers as the business grows.&lt;/p&gt;
+
+&lt;h4 id=&quot;key-performance-indicators&quot;&gt;Key Performance Indicators&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Year 1:&lt;/strong&gt; Initial product development will offset the revenue from early sales and subscriptions as we respond to user feedback and solidify our offering. Investment will also go into maintaining an active online brand that is engaged with users and responds to the social environment. Product development will be focused on optimising the application with its current feature-set, and developing the system in preparation for small to medium business installs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Year 2:&lt;/strong&gt; Sales in the business segment will again be offset by further product development and marketing of the business, any profits being re-invested into the company to build a fully working bespoke demonstration system.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Year 3:&lt;/strong&gt; We expect to provide a slight return on investment with the launch of our complete system which will truly cater for all market segments and allow us to approach larger companies for bespoke installs and custom management solutions.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Goal&lt;/th&gt;
+      &lt;th&gt;KPI&lt;/th&gt;
+      &lt;th&gt;Year 1 Target&lt;/th&gt;
+      &lt;th&gt;Year 2 Target&lt;/th&gt;
+      &lt;th&gt;Year 3 Target&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mass adoption of consumer unit&lt;/td&gt;
+      &lt;td&gt;Number of sales of the PlantIO system&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+      &lt;td&gt;500&lt;/td&gt;
+      &lt;td&gt;5000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Active, growing knowledge base &amp;amp; online community&lt;/td&gt;
+      &lt;td&gt;Number of monthly active users (MAU) on forum&lt;/td&gt;
+      &lt;td&gt;launch&lt;/td&gt;
+      &lt;td&gt;50&lt;/td&gt;
+      &lt;td&gt;500&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Integration into SMB market&lt;/td&gt;
+      &lt;td&gt;Number of custom installs&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;50&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;strategic-differentiators&quot;&gt;Strategic differentiators&lt;/h4&gt;
+
+&lt;p&gt;The PlantIO strategy is differentiating from the competition in two main areas—it’s pricing model and the product offering. Early calculations place the unit at a highly competitive average price point of £200, however, the modular approach will provide numerous setup options to cater for a much wider range of budgets.&lt;/p&gt;
+
+&lt;p&gt;The flexibility of our system raises it above that of its nearest competitor’s Click &amp;amp; Grow in that it can grow a vast array of crops with less waste and higher efficiency. As we begin to move into phase 2 we will also hold a distinct advantage over FarmBot in that our system provides much greater flexibility combined with extremely simple setup and the lack of a requirement for soil.&lt;/p&gt;
 
 &lt;h4 id=&quot;market-behaviours&quot;&gt;Market Behaviours&lt;/h4&gt;
 
-&lt;h3 id=&quot;projections&quot;&gt;Projections&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Awareness:&lt;/strong&gt; The first of four main market behaviour categories &lt;a href=&quot;#ref&quot;&gt;[8]&lt;/a&gt;, awareness is generated at first through our initial press release and advertising campaigns, both online and via real demonstrations across the country&lt;/p&gt;
 
-&lt;h3 id=&quot;product-strategy&quot;&gt;Product Strategy&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Preference:&lt;/strong&gt; The market then proceeds to develop a preference by comparing our product to the competition—how do we compare to being able to buy fruit at 3 am in a 24-hour local supermarket?&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;This section of the plan identifies the key products you will launch in your cloud portfolio, along with any bundling plans, special promotions, or other attachment strategies that will help you sell the products—including upselling and cross-selling to both new and existing customers. Any specifics you can include about differentiators between your offerings and those of your competitors will help you build your sales messaging as you progress further into the launch.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Engagement:&lt;/strong&gt; The third phase is engagement, hooking the user in and convincing them to commit. this pre-purchase decision will be attacked from a multitude of angles—from information overload in our documentation, community-led advocacy, interactive onboarding and strong, impactful messaging.&lt;/p&gt;
 
-&lt;p&gt;Key Products
-PlantIO base system
-Heirloom seedpacks
-PlantIO app
-Bundling plans
-Special Promotions / Attachment strategies
-Up-sells &amp;amp; Cross-sells
-Differentiation compared to competitors&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Advocacy:&lt;/strong&gt; Referrals by word of mouth, we are focusing on pushing a community-based approach for collective groups of advocates to impress upon the importance of our product to local communities.&lt;/p&gt;
+
+&lt;h3 class=&quot;page-break&quot; id=&quot;product-strategy&quot;&gt;Product Strategy&lt;/h3&gt;
+
+&lt;h4 id=&quot;special-promotions--attachment-strategies&quot;&gt;Special Promotions / Attachment strategies&lt;/h4&gt;
+
+&lt;div class=&quot;flex&quot; style=&quot;align-items: flex-start&quot;&gt;
+&lt;img src=&quot;/media/action-against-hunger.svg&quot; style=&quot;width: 25vw; margin: 1em 1em 0 0;&quot; /&gt;
+&lt;p style=&quot;padding-top: 1.75em;&quot;&gt;Forming a partnership with a charity such as Action Against Hunger &lt;a href=&quot;#ref&quot;&gt;[9]&lt;/a&gt; will help align our values and enable the customer to feel good knowing that purchasing from us immediately helps the fight against hunger, even before our industrial units are released.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h4 id=&quot;up-sells-cross-sells--bundles&quot;&gt;Up-sells, Cross-sells &amp;amp; Bundles&lt;/h4&gt;
+
+&lt;p&gt;Upsells are a key part of our product strategy; the user can purchase the base system at minimal cost and upgrade virtually all of the components depending on their budget and requirements. Cross-sells include offering heirloom seed packs with every purchase as well as recommended plant feeds. Similarly, bundles will play an important role in our product strategy. Essentially combining upgrades from each component into its own bundle along with seed packs and feed.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Component&lt;/th&gt;
+      &lt;th&gt;Base&lt;/th&gt;
+      &lt;th&gt;Upsell 1&lt;/th&gt;
+      &lt;th&gt;Upsell 2&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Feed&lt;/td&gt;
+      &lt;td&gt;Basic mister&lt;/td&gt;
+      &lt;td&gt;Low-pressure nozzle&lt;/td&gt;
+      &lt;td&gt;High-pressure atomizer&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Light&lt;/td&gt;
+      &lt;td&gt;LED&lt;/td&gt;
+      &lt;td&gt;Multi-color LED&lt;/td&gt;
+      &lt;td&gt;Low-power LED&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Temperature&lt;/td&gt;
+      &lt;td&gt;Basic thermostatic element&lt;/td&gt;
+      &lt;td&gt;Min-max thermostat&lt;/td&gt;
+      &lt;td&gt;Low energy thermostat&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Enclosure&lt;/td&gt;
+      &lt;td&gt;Basic fabric skeleton&lt;/td&gt;
+      &lt;td&gt;Modular enclosure&lt;/td&gt;
+      &lt;td&gt;AR Enclosure&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;differentiation-compared-to-competitors&quot;&gt;Differentiation compared to competitors&lt;/h4&gt;
+
+&lt;p&gt;There is a huge gap in the market for our product; our competitors either cannot match our technology, or our pricing models, or our scale.&lt;/p&gt;
+
+&lt;p&gt;Small hobbyist programs such as PlantFriends &lt;a href=&quot;#ref&quot;&gt;[10]&lt;/a&gt; are free, but are not suited for substantial, regular food growth and require significant user investment to set them up and get them working. FarmBot, our nearest competitor, have an attractive and unique application, however, they offer an entry-level option of over £2000, yet still requires outdoor growing space and uses dated farming methods. AeroFarms are a huge player and serve the industry with prices starting from tens of thousands of dollars. They use advanced technology and are really focusing on the top end of the market &lt;a href=&quot;#ref&quot;&gt;[11]&lt;/a&gt;.
+The Sahara Forest Project is at the very top end of the industry, setting standards in growing in extreme conditions and are a serious competitor for phase 4 of our business model only &lt;a href=&quot;#ref&quot;&gt;[12]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There is an opportunity for low cost, low management convenient home growing using advanced techniques. All of the systems around the pricing model for our phase 1 users are vastly overpriced considering what they offer; for example, the £100 KRYDDA/VÄXER from IKEA is simply a two-tier stand with slots to grow 16 small plants or approximately 200 lettuces from the supermarket &lt;a href=&quot;#ref&quot;&gt;[13]&lt;/a&gt;. The Click &amp;amp; Grow Smart Garden 9 which boasts NASA technology in the form of smart soil, provides slots for 9 small plants at the whopping cost of £200, or 400 cucumbers.
+The closest competitor with an app is the Flower Care Smart Monitor &lt;a href=&quot;#ref&quot;&gt;[14]&lt;/a&gt;, which is nicely designed and professionally presented with strong branding, including a well thought out UX, however, it provides no automation and utilises none of the agricultural advancements the PlantIO system is built around, focusing on flowers and single-use systems.
+The competitor analysis has shown that the PlantIO system provides multiple USP’s and will target an underserved segment of the market.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quality:&lt;/strong&gt; By providing the plant with the exact conditions needed for growth we can produce perfect quality fruit every time, maximising the potential of the seeds. FarmBot cannot control the environment, and Click &amp;amp; Grow cannot control the feed in the same advanced manner.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Trust:&lt;/strong&gt; Know exactly what you are growing by choosing the seeds yourself, thus giving you 100% control over the food you are eating. Click &amp;amp; Grow runs from its own proprietary seed packs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Environmental:&lt;/strong&gt; The clean, secure, enclosed environment provided by the system negates the need for any pesticides or fertilisers; pests and disease are no longer an issue. Outdoor systems such as FarmBot cannot say the same. Click &amp;amp; Grow also creates waste through the unnecessarily complex packaging of its “Plant Pods”. Aeroponics allows us to grow using over 90% less land and water.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Convenience:&lt;/strong&gt; Using aeroponics allows us to grow food up to 30% faster;  and, by combining multiple systems and using our advanced scheduler, you can effectively remove the wait for growth after the initial harvest. FarmBot essentially uses traditional growing techniques, whilst also requiring a sizeable square footage of outdoor land, which also brings in the factor of seasons dictating growing patterns.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Community:&lt;/strong&gt; Regardless of how you choose to connect to the internet, PlantIO is there for you. The PWA doesn’t care if you have an iPhone, an Android, or a Lynx text browser. Everything is monitored by the accompanying PlantIO application to provide constant, real-time feedback to the user about their plant and serve as a community for sharing growth recipes, providing feedback for further product development, and giving control to the user to grow their plant their own way using our semi-automatic and manual recipe settings.&lt;/p&gt;
 
 &lt;h3 id=&quot;channel-strategy&quot;&gt;Channel Strategy&lt;/h3&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;This is where you identify the primary channels that you’ll use—both to sell your products and to educate and support your customers—along with the resources, training, and incentives that will drive channel performance. In complex channel organizations, products and offers may differ from one channel to the next, playing on the unique advantages of specific channels, such as direct sales teams or online portals.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The primary sales channel will be online via our website, which will act both an e-commerce store as well as a central hub for the users’ PlantIO account, all product documentation and training resources, the recipe database and the community hub.&lt;/p&gt;
 
-&lt;p&gt;Millennial Man Mark
-Frequency
-Engagement
-Usage
-Vertical Specific
-Channel
-Sales Funnel Position
-Financial Model
-Handling User Needs&lt;/p&gt;
+&lt;p&gt;We will also allow for direct sales through our Instagram channel as well as during our demonstration events which will target exhibitions, conferences, festival events and education establishments.&lt;/p&gt;
 
-&lt;h3 id=&quot;marketing-strategy&quot;&gt;Marketing Strategy&lt;/h3&gt;
+&lt;p&gt;Moving forward, we aim to construct a permanent demonstration facility providing free food to the local underprivileged community. This facility—like the demonstration vehicle—will be open to the public and provide a guided tour of our technology and products.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;This section summarizes the activities you’ll use to drive awareness and generate leads, both in your identified markets and within your existing customer base. In large organizations, the marketing strategy may also include activities for generating internal awareness. Such internally oriented activities are particularly important in situations where many groups will “touch” customers as they progress from purchase to activation to support.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h3 class=&quot;page-break&quot; id=&quot;marketing-strategy&quot;&gt;Marketing Strategy&lt;/h3&gt;
+
+&lt;div class=&quot;flex&quot;&gt;
+&lt;div&gt;
+&lt;img src=&quot;/media/earned-owned-paid-media.png&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;We are approaching our marketing using the strategy of paid, earned and owned media &lt;a href=&quot;ref&quot;&gt;[15]&lt;/a&gt;. In order to get people to our website and online community, we need to use earned and paid media to push our segments. A strong SEO strategy is needed in order to gain earned media from organic traffic, social sharing etc which ties back into our content marketing element&amp;mdash;writing articles for publications along with our own blogs. Sales funnels will be implemented to ensure our time is used as efficiently as possible &lt;a href=&quot;ref&quot;&gt;[16]&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;customer-experience&quot;&gt;Customer Experience&lt;/h3&gt;
 
+&lt;ol&gt;
+  &lt;li&gt;After failing to find acceptable quality out of season food in the supermarket, Mark receives a targeted advert through YouTube about the PlantIO system.&lt;/li&gt;
+  &lt;li&gt;Instead of skipping, he clicks through to the main website where the main Call to action is to use the PlantIO software with a Tamagotchi plant. This is actually a disguised onboarding process taking Mark through an accelerated, pain-free product experience.&lt;/li&gt;
+  &lt;li&gt;Upon completion, he is able to purchase the PlantIO system and is invited to sign up for a free account to get 10% off his first PlantIO order.&lt;/li&gt;
+  &lt;li&gt;Mark quickly signs in with his Google account and his discount is applied immediately to his cart, he upgrades to a bundle containing seeds and feed and completes the purchase.&lt;/li&gt;
+  &lt;li&gt;Upon receiving his PlantIO system, Mark plugs it in and connects it with his account with the push of a button. After selecting his recipe, the app then provides visual instructions for the first-time setup of the unit, and Mark’s growing experience is underway.&lt;/li&gt;
+  &lt;li&gt;Mark can check the plant at any point via the status page in the PWA, and for the first harvest, he can see a representation of his plant growing in the PlantIO Sky Garden. Aside from selecting a seed to continue with once germination is complete, Mark has no need to interact with the system until it is time to harvest the plant.&lt;/li&gt;
+  &lt;li&gt;Mark is contacted via email and through his account to remind him to purchase more seeds at a point in time prior to his first harvest. He is also offered an upsell of a component in his system at this time. Once he has harvested, Mark is pushed for feedback and offered discounts on future purchases, as well as being suggested to share his growth over social media. His grower status reaches level 1.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 class=&quot;page-break&quot; id=&quot;timeline-and-execution&quot;&gt;Timeline and Execution&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/media/ruuts__status.svg&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;phases-1-2-mvp-creation--initial-alpha-test&quot;&gt;Phases 1-2: MVP creation &amp;amp; Initial Alpha Test&lt;/h4&gt;
+&lt;p&gt;We are currently developing the minimum viable product (MVP); whilst I design and develop the PlantIO application, Ashley is sourcing the components required to build the initial system to for scenario testing, whilst Brett is conducting detailed research into plant growth to create the first of our recipes. We expect the MVP to be ready in 3 months time, for our very first internal alpha testing which itself will run for a 3 month period.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Key Deliverables&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Software&lt;/td&gt;
+      &lt;td&gt;Software simulation of the PlantIO PWA&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Hardware&lt;/td&gt;
+      &lt;td&gt;Working PlantIO enclosure for a single harvest of specified plant&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Knowledge&lt;/td&gt;
+      &lt;td&gt;A variety of recipes for the most common plants&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;phases-3-5-product-development-sprints&quot;&gt;Phases 3-5: Product Development Sprints&lt;/h4&gt;
+&lt;p&gt;Following this, we will commit a further 6 months to product development and finalise the physical design and initial consumer model. We will then repeat our 3-month alpha test, and follow it up with a second 3-month period of improvements.&lt;/p&gt;
+
 &lt;blockquote&gt;
-  &lt;p&gt;This section documents the anticipated customer journey—either at a high level or in detail. Starting with how customers first hear about a product, it progresses through their purchase, activation, renewal, and possible cancellation. Exploring this journey helps to identify any “fall-off” points that may reduce conversion rates, or drive churn, while also helping to ensure that you’ll have the right people and systems in place to support the new products.&lt;/p&gt;
+  &lt;p&gt;It is important for us to remain agile as a company, and we will be using the length of harvests (around 21-30 days) to line up our sprints and reassess our planning.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h3 id=&quot;technical-requirements&quot;&gt;Technical Requirements&lt;/h3&gt;
+&lt;h4 id=&quot;phase-6-beta-test&quot;&gt;Phase 6: Beta Test&lt;/h4&gt;
+&lt;p&gt;This will then lead into the 3-month public beta test which, if successful, will allow for an initial product launch during the Autumn of 2020 in 21 months time.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;This section documents the technical requirements needed to support the new products. These requirements, which may be affected by decisions made in the previous sections of the plan, may include branding your customer-facing portals, and integrating sales and provisioning systems with third-party resources you’ve employed. Parallels can help you identify the technical requirements needed to launch your products.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h4 id=&quot;phase-7-product-launch&quot;&gt;Phase 7: Product Launch&lt;/h4&gt;
+&lt;p&gt;The PlantIO System is at an extremely early stage of development and requires considerable time dedication to product development. The physical components must undergo safety checks along with long-term testing, and the financial side of the product is yet to be finalised. Should the system be deemed too expensive for phase 1, we may have to begin our product in phase 2.&lt;/p&gt;
 
-&lt;h3 id=&quot;evaluation&quot;&gt;Evaluation&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is where you spell out and prioritize the factors you’ll use to measure your success—for example, reaching a certain volume of sales in specific channels, or reducing churn of an existing product by attaching a cloud service. Try to be as specific and detailed as possible in outlining your goals and evaluation tactics—it will keep your team aligned and help to optimize activities through your launch.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;timeline-and-execution&quot;&gt;Timeline and Execution&lt;/h3&gt;
-
-&lt;p&gt;Finally, your plan needs to identify the timeline for execution, including next steps, the critical path for decisions, key milestones, and plans for reviewing and fine-tuning the GTM plan. This last point should not be overlooked, as good GTM plans are not static, but evolve with the project. As your plans progress, you can add details to increase the plan’s accuracy.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Period&lt;/th&gt;
+      &lt;th&gt;Phase&lt;/th&gt;
+      &lt;th&gt;End date&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;0-6 months&lt;/td&gt;
+      &lt;td&gt;MVP creation&lt;/td&gt;
+      &lt;td&gt;December 2018&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6-9 months&lt;/td&gt;
+      &lt;td&gt;initial alpha test&lt;/td&gt;
+      &lt;td&gt;March 2019&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;9-15 months&lt;/td&gt;
+      &lt;td&gt;product development&lt;/td&gt;
+      &lt;td&gt;October 2018&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;15-18 months&lt;/td&gt;
+      &lt;td&gt;second alpha test&lt;/td&gt;
+      &lt;td&gt;January 2019&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;18-21 months&lt;/td&gt;
+      &lt;td&gt;product development&lt;/td&gt;
+      &lt;td&gt;April 2019&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;21-24 months&lt;/td&gt;
+      &lt;td&gt;beta test&lt;/td&gt;
+      &lt;td&gt;July 2019&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;24 months&lt;/td&gt;
+      &lt;td&gt;product launch&lt;/td&gt;
+      &lt;td&gt;October 2019&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h2 id=&quot;launch&quot;&gt;Launch&lt;/h2&gt;
 
 &lt;h3 id=&quot;beta-launch&quot;&gt;Beta Launch&lt;/h3&gt;
 
-&lt;h3 id=&quot;press-release&quot;&gt;Press release&lt;/h3&gt;
+&lt;p&gt;The company will remain agile, specifically within the first 12 months of product launches in order to fine-tune the product and ensure a successful press launch. A beta release of the system will be offered over a period of 90 days (roughly equating to 3 consecutive harvests) to 100 people serving the 4 main market segments of phase 1, with a free base system provided in return for regular feedback. A/B testing of fully automatic, semi-automatic and manual recipe settings will need to be conducted.&lt;/p&gt;
+
+&lt;p&gt;Following from this, a staggered product launch will provide the opportunity for users to buy in at a very low level, then upgrade components as the system forms part of their daily life and habits. The modular design allows for limitless expansion and upgrading, whilst the sharing of recipes will build a social community and a huge knowledge base.&lt;/p&gt;
+
+&lt;p&gt;A promotional campaign will run during the first phase as Ruuts provides demonstrations and education to schools, exhibition events and pairing up with local businesses to provide instant ingredients, likely to be served from a specially modified demonstration vehicle allowing for cross-country promotions.&lt;/p&gt;
 
 &lt;h3 id=&quot;social-media&quot;&gt;Social media&lt;/h3&gt;
 
+&lt;p&gt;The main focus for our social media campaigns will be to increase brand awareness, create higher quality sales, and create brand loyalty. External social media will initially be limited to a single active channel - Instagram. Accounts will exist across all social media ecosystems to give the brand a presence, however, content creation will be focused around Instagram and driven to by using the other channels. Instagram offers the benefits of being extremely visual—especially so given the rise of Instagram Stories, ad-free, shoppable, and presented in a consistent, uncluttered manner.&lt;/p&gt;
+
+&lt;h3 id=&quot;press-release&quot;&gt;Press release&lt;/h3&gt;
+
+&lt;p class=&quot;text-center&quot;&gt;Embargoed for: 2019-10-01&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Grow food, automatically.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;The new PlantIO system allows you to grow perfect food for your family all year round at a low cost to you and the environment, completely automatically.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Simply connect your PlantIO system with your online account, select the recipe you desire; place your seeds into your system and the germination phase begins automatically. The PlantIO app will monitor the seeds as they develop into sproutlings, and when ready, PlantIO will instruct you to select the superior sproutling and remove the others. The PlantIO app will now control the  complete growth of the plant and let you know when it is time to pick the final fruits.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“For too long our food has been compromised and an afterthought; it is one of the three key elements of survival and should be treated as such.&lt;br /&gt;Take back control and grow your own.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Using PlantIO you can grow perfect food, whenever you want, wherever you want, really fast, using trustworthy seeds, saving water, saving land, saving the planet, all automatically. You can grow enough food to feed your family, with virtually no time cost. You can teach your family how to grow food and care for plants using optional manual or semi-automatic recipes. You can create your own recipes and share them with the world. You can even compete to grow the biggest tomato, the brightest, the tastiest or the fastest.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Your plant can be accessed twenty-four seven using any web browser on any Internet-enabled device anywhere in the world in a matter of seconds. Not that you’d ever need to.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Ends.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For further information, please contact Phillip Penny at &lt;a href=&quot;mailto:phil@plantio.co.uk&quot;&gt;phil@plantio.co.uk&lt;/a&gt; or on &lt;a href=&quot;tel:+447961732861&quot;&gt;07961732861&lt;/a&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;notes-to-editors&quot;&gt;Notes to Editors&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ruuts combine the perfect mix of a product designer, horticulture expert and electronics engineer.&lt;/li&gt;
+  &lt;li&gt;Photos are available on request.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;analytics&quot;&gt;Analytics&lt;/h3&gt;
+
+&lt;p&gt;The use of website analytics such as HotJar &lt;a href=&quot;#ref&quot;&gt;[17]&lt;/a&gt; and Lucky Orange &lt;a href=&quot;#ref&quot;&gt;[18]&lt;/a&gt; will be implemented alongside Google analytics to fully understand how the e-commerce platform can be optimised. We will also be collecting continuous data from all connected PlantIO systems and harvest completion reports filled out by users. The data collected will be fed back into the recipe database to improve recipe timings and results. We will also conduct manual analytics of community posts and bug tracking issues raised. Each and every live demonstration will include recordings of usability tests and Q/A sessions.&lt;/p&gt;
 
 &lt;h3 id=&quot;feedback-channels&quot;&gt;Feedback Channels&lt;/h3&gt;
 
+&lt;p&gt;Our primary feedback channels will be our website, comprising of the contact page, chatbot, and online community forum. We will also gain feedback through the user’s PlantIO PWA account via harvest completion surveys and social media integration. Continuous usability testing will be undertaken during the product development cycles in the form of interviews and demonstration events.&lt;/p&gt;
+
 &lt;h3 id=&quot;bug-tracking&quot;&gt;Bug Tracking&lt;/h3&gt;
+
+&lt;p&gt;With our open source code hosted on Github, we will use their integrated bug tracking feature to manage all issues. Any known issues by the development team will be added prior to launch, and any additional issues highlighted post-launch will also be added to ensure a central repository of information.&lt;/p&gt;
+
+&lt;p&gt;All issues will be added in the format of user stories: As a [user type], I want to [task] so that [goal]:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;‘ As a customer, I want to schedule growing so that I can accurately predict the harvest period ”&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This ensures communication is easy for the user reporting the bug, and clarity is at the forefront of the problem; it may highlight a user trying to use the PlantIO system in a way not intended, allowing us to focus on documentation rather than blindly fixing bugs as they are raised.&lt;/p&gt;
 
 &lt;h2 id=&quot;post-launch&quot;&gt;Post Launch&lt;/h2&gt;
 
-&lt;h3 id=&quot;maintenance&quot;&gt;Maintenance&lt;/h3&gt;
+&lt;h3 id=&quot;maintenance--future-development&quot;&gt;Maintenance &amp;amp; Future Development&lt;/h3&gt;
+&lt;p&gt;Scheduled regular software updates will initially fall in line with our own harvests and linked blog posts as we work to short sprints. As the community grows, moderation of recipes and the forum will be required Future developments will initially focus on hardware as we look to scale the PlantIO system for business and industrial use.&lt;/p&gt;
 
-&lt;h3 id=&quot;future-development&quot;&gt;Future Development&lt;/h3&gt;
+&lt;div class=&quot;flex page-break&quot; style=&quot;align-items: center&quot;&gt;
+&lt;img src=&quot;/media/git-model.png&quot; style=&quot;width: 35vw; height: auto&quot; /&gt;
+&lt;blockquote&gt;&lt;p&gt;All future app development will follow the Git branching model as proposed by Vincent Driessen &lt;a href=&quot;#ref&quot;&gt;[19]&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;continued-user-engagement&quot;&gt;Continued User Engagement&lt;/h3&gt;
 
-&lt;h2 id=&quot;appendix&quot;&gt;Appendix&lt;/h2&gt;
+&lt;h4 id=&quot;gamification&quot;&gt;Gamification&lt;/h4&gt;
+&lt;p&gt;A lot of the concepts from Fudogotchi &lt;a href=&quot;#ref&quot;&gt;[20]&lt;/a&gt; can be applied to the post-launch experience for PlantIO - encouraging the user to earn achievements and level up will, of course, increase the chance of them engaging with us online and advertising through word of mouth. Their acquired status will also give them a certain level of standing in the growing forums.&lt;/p&gt;
 
-&lt;p&gt;Competitor Case Studies&lt;/p&gt;
+&lt;h4 id=&quot;brand-advocates-as-community-leaders&quot;&gt;Brand advocates as community leaders&lt;/h4&gt;
+&lt;p&gt;Our customers who are highly engaged on social media will be targeted to become brand advocates, essentially rewarding their loyalty and encouraging them to continue. The community will eventually be introduced to the idea of communal growing (sharing produce within a neighbourhood, teaming up to organise what is being grown and where), which needs to be led by our brand advocates.&lt;/p&gt;
 
-&lt;p&gt;[ 1 ]  Farmbot
-[ 2 ]  Click &amp;amp; Grow&lt;/p&gt;
+&lt;h2 id=&quot;ref&quot; class=&quot;page-break&quot;&gt;Appendix&lt;/h2&gt;
 
-&lt;p&gt;FarmBot
-COMPETITOR CASE STUDY&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Bocoup, Johnny-Five JavaScript library. Retrieved October 29, 2018: &lt;a href=&quot;http://johnny-five.io/&quot;&gt;http://johnny-five.io/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Penny, P D. Initial FMP user survey, &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1nGWIVqBoslziVk2PurzK5a8G3wUKEeuJQFKUpQMps-M/edit?usp=sharing&quot;&gt;https://docs.google.com/spreadsheets/d/1nGWIVqBoslziVk2PurzK5a8G3wUKEeuJQFKUpQMps-M/edit?usp=sharing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Penny, P D et al. Carbon Candy, Retrieved October 29, 2018: &lt;a href=&quot;https://carboncandy.co.uk&quot;&gt;https://carboncandy.co.uk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Bartlett, B., Banner, A. and Penny, P. (2017). Carbon Dating. Drone Magazine, (19).&lt;/li&gt;
+  &lt;li&gt;Based on a bottom-up analysis. Approximately 8 million UK users fit the persona (&lt;a href=&quot;https://en.wikipedia.org/wiki/Demography_of_the_United_Kingdom#Age_structure&quot;&gt;https://en.wikipedia.org/wiki/Demography_of_the_United_Kingdom#Age_structure&lt;/a&gt;), which equates to 4 million couples, placing one unit per family each with a potential unit spend of £200.&lt;/li&gt;
+  &lt;li&gt;Digital Ocean, cloud computing. Retrieved October 29, 2018: &lt;a href=&quot;https://www.digitalocean.com/&quot;&gt;https://www.digitalocean.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Shopify, hosted e-commerce platform. Retrieved October 29, 2018: &lt;a href=&quot;https://www.shopify.co.uk/&quot;&gt;https://www.shopify.co.uk/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hawkins, D et al. Consumer Behavior, 2009.&lt;/li&gt;
+  &lt;li&gt;Action Against Hunger, charity. Retrieved October 29, 2018: &lt;a href=&quot;https://www.actionagainsthunger.org/&quot;&gt;https://www.actionagainsthunger.org/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Chow, D. Plant Friends, Retrieved October 29, 2018: &lt;a href=&quot;http://dicksonchow.com/plant-friends/&quot;&gt;http://dicksonchow.com/plant-friends/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Aerofarms, Retrieved October 29, 2018: &lt;a href=&quot;https://aerofarms.com/&quot;&gt;https://aerofarms.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Sahara Forest Project, Retrieved October 29, 2018: &lt;a href=&quot;https://www.saharaforestproject.com/&quot;&gt;https://www.saharaforestproject.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;IKEA, KRYDDA/VÄXER, Retrieved October 29, 2018: &lt;a href=&quot;https://www.ikea.com/gb/en/products/indoor-gardening/indoor-growing-cultivators/krydda-v%C3%A4xer-grow-kit-w-16-pots-2-tiers-spr-79158686/&quot;&gt;https://www.ikea.com/gb/en/products/indoor-gardening/indoor-growing-cultivators/krydda-v%C3%A4xer-grow-kit-w-16-pots-2-tiers-spr-79158686/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Flower Care Smart Monitor, Retrieved October 29 2018: &lt;a href=&quot;https://www.huahuacaocao.com/product&quot;&gt;https://www.huahuacaocao.com/product&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Garman, E. What is Earned, Owned &amp;amp; Paid Media? The Difference Explained. Retrieved October 29, 2018: &lt;a href=&quot;https://www.titangrowth.com/what-is-earned-owned-paid-media-the-difference-explained/&quot;&gt;https://www.titangrowth.com/what-is-earned-owned-paid-media-the-difference-explained/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pearce, A, Blend Commerce. What the heck is a sales funnel? Retrieved October 29, 2018: &lt;a href=&quot;https://blendcommerce.com/blogs/shopify/what-the-heck-is-a-sales-funnel&quot;&gt;https://blendcommerce.com/blogs/shopify/what-the-heck-is-a-sales-funnel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Hotjar, analytics. Retrieved October 29, 2018: &lt;a href=&quot;https://www.hotjar.com/&quot;&gt;https://www.hotjar.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Lucky Orange, analytics. Retrieved October 29, 2018: &lt;a href=&quot;https://www.luckyorange.com/&quot;&gt;https://www.luckyorange.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Driessen, V. A successful Git branching model. Retrieved October 29, 2018:  &lt;a href=&quot;https://nvie.com/posts/a-successful-git-branching-model&quot;&gt;https://nvie.com/posts/a-successful-git-branching-model&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Penny, P D and Harrison, C. Fudogotchi. Retrieved October 29, 2018: &lt;a href=&quot;http://fudogotchi.naturalmohican.com/&quot;&gt;http://fudogotchi.naturalmohican.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Figure 1: The FarmBot homepage ( https://farm.bot/ )&lt;/p&gt;
+&lt;h3 class=&quot;page-break&quot; id=&quot;farmbot&quot;&gt;FarmBot&lt;/h3&gt;
+&lt;h4 class=&quot;text-center&quot; id=&quot;competitor-case-study&quot;&gt;COMPETITOR CASE STUDY&lt;/h4&gt;
 
-&lt;p&gt;Location
-USA
-Mission Statement
-Grow a community that produces free and open-source hardware plans, software, data, and documentation enabling everyone to build and operate a farming machine.
-Product Offering
-FarmBot Express (Not yet released)
-FarmBot Genesis ($2,595.00 USD)
-FarmBot Genesis XL ($3,795.00 USD)&lt;/p&gt;
+&lt;div class=&quot;flex ai--c&quot;&gt;
+&lt;img src=&quot;/media/farmbot--desktop.png&quot; style=&quot;width: 62.5vw&quot; /&gt;
+&lt;img src=&quot;/media/farmbot--mobile.png&quot; style=&quot;width: 15vw&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;Figure 1: The FarmBot homepage (&lt;a href=&quot;https://farm.bot/&quot;&gt;https://farm.bot/&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;Content
-Blog posts  |  Whitepapers  |  eBooks  |  Videos  |  Webinars  |  Podcasts  |  Slides/Powerpoints  |  Visual content  |  FAQs  |  Feature articles  |  Press releases  |  News  |  Case studies  |  Buyer guides&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; USA&lt;/p&gt;
 
-&lt;p&gt;Strengths &amp;amp; Weaknesses
-Following the open-source route creates a strong community, and a very strong online presence provides documentation, forums, videos and reviews.
-The system requires a big upfront investment, technical skills to build and setup the machine, and a large area of space to run, all the while using traditional inefficient farming methods.
-Category of Competition
-Primary  |   Secondary   |  Tertiary&lt;/p&gt;
+&lt;p class=&quot;tags&quot;&gt;&lt;strong&gt;Category of Competition:&lt;/strong&gt; Primary | &lt;span&gt;Secondary&lt;/span&gt; | Tertiary&lt;/p&gt;
 
-&lt;p&gt;FarmBot offer a high-end version of our product at a much higher price to a slightly different audience, using lower-end hardware.
-Click &amp;amp; Grow
-COMPETITOR CASE STUDY&lt;/p&gt;
-
-&lt;p&gt;Figure 1: The Click &amp;amp; Grow homepage ( https://eu.clickandgrow.com/ )&lt;/p&gt;
-
-&lt;p&gt;Location
-USA &amp;amp; Estonia
-Mission Statement
-We create transformative technologies that allow growing fresh, vitamin-packed food locally and sustainably.
-Product Offering
-Smart Garden 3 / Smart Garden 9 (€99.95 / €199.95)
-Wall Farm Mini / Wall Farm (€899.00 / €1,299.00)
-Plant Pods (€9.95)&lt;/p&gt;
-
-&lt;p&gt;Content
-Blog posts  |  Videos  |  Visual content  |  FAQs  |  Forum&lt;/p&gt;
-
-&lt;p&gt;Strengths &amp;amp; Weaknesses&lt;/p&gt;
-
-&lt;p&gt;Category of Competition
- Primary   |  Secondary  |  Tertiary&lt;/p&gt;
-
-&lt;p&gt;Click &amp;amp; Grow offer a low-end version of our product at a higher price to a very similar audience, using lower-end hardware and software.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mission Statement:&lt;/strong&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Let him who would move the world first move himself. - Socrates&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;“ Grow a community that produces free and open-source hardware plans, software, data, and documentation enabling everyone to build and operate a farming machine. ”&lt;/p&gt;
+  &lt;/blockquote&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Product Offering:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;FarmBot Express (Not yet released)&lt;/li&gt;
+  &lt;li&gt;FarmBot Genesis ($2,595.00 USD)&lt;/li&gt;
+  &lt;li&gt;FarmBot Genesis XL ($3,795.00 USD)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Content:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Blog posts  |  Whitepapers  |  eBooks  |  Videos  |  Webinars  |  Podcasts  |  Slides/Powerpoints  |  Visual content  |  FAQs  |  Feature articles  |  Press releases  |  News  |  Case studies  |  Buyer guides&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Strengths &amp;amp; Weaknesses:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Following the open-source route creates a strong community, and a very strong online presence provides documentation, forums, videos and reviews. The system requires a big upfront investment, technical skills to build and set up the machine, and a large area of space to run, all the while using traditional inefficient farming methods.&lt;/p&gt;
+
+&lt;p&gt;FarmBot offer a high-end version of our product at a much higher price to a slightly different audience, using lower-end hardware.&lt;/p&gt;
+
+&lt;h3 class=&quot;page-break&quot; id=&quot;click--grow&quot;&gt;Click &amp;amp; Grow&lt;/h3&gt;
+&lt;h4 class=&quot;text-center&quot; id=&quot;competitor-case-study-1&quot;&gt;COMPETITOR CASE STUDY&lt;/h4&gt;
+
+&lt;div class=&quot;flex ai--c&quot;&gt;
+&lt;img src=&quot;/media/clickandgrow--desktop.png&quot; style=&quot;width: 62.5vw&quot; /&gt;
+&lt;img src=&quot;/media/clickandgrow--mobile.png&quot; style=&quot;width: 15vw&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;Figure 1: The Click &amp;amp; Grow homepage (&lt;a href=&quot;https://eu.clickandgrow.com/&quot;&gt;https://eu.clickandgrow.com/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; USA &amp;amp; Estonia&lt;/p&gt;
+
+&lt;p class=&quot;tags&quot;&gt;&lt;strong&gt;Category of Competition:&lt;/strong&gt; &lt;span&gt;Primary&lt;/span&gt; | Secondary | Tertiary&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mission Statement:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;“ We create transformative technologies that allow growing fresh, vitamin-packed food locally and sustainably. ”&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Product Offering:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Smart Garden 3 / Smart Garden 9 (€99.95 / €199.95)&lt;/li&gt;
+  &lt;li&gt;Wall Farm Mini / Wall Farm (€899.00 / €1,299.00)&lt;/li&gt;
+  &lt;li&gt;Plant Pods (€9.95)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Content:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Blog posts  |  Videos  |  Visual content  |  FAQs  |  Forum&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Strengths &amp;amp; Weaknesses:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Click &amp;amp; Grow offer a low-end version of our product at a higher price to a very similar audience, using lower-end hardware and software. The presentation is excellent throughout, however, the user is likely to be left feeling somewhat cheated by the limited functionality of the system and the expense of the refill pods. This system prices itself out of most sales and offers no online capabilities.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Oct 2018 13:00:00 +0100</pubDate>
         <link>http://localhost:4000/fmp/2018/10/02/fmp-marketing-and-dissemination-plan.html</link>
@@ -394,52 +705,496 @@ Blog posts  |  Videos  |  Visual content  |  FAQs  |  Forum&lt;/p&gt;
       </item>
     
       <item>
-        <title>Project proposal</title>
-        <description>&lt;h2 id=&quot;securing-the-investment&quot;&gt;Securing the investment&lt;/h2&gt;
+        <title>Project Proposal</title>
+        <description>&lt;section&gt;
+&lt;div class=&quot;content d--f fd--c jc--c ai--c&quot;&gt;
+&lt;h2&gt;Plant&lt;strong&gt;IO&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;A conceptual captology design by Phillip David Penny&lt;/p&gt;
+&lt;img src=&quot;/media/ruuts__tech.svg&quot; style=&quot;height: 50vh;&quot; /&gt;
+&lt;h3&gt;Project Goal&lt;/h3&gt;
+&lt;blockquote&gt;&lt;p&gt;“To design a complete food growing system to encourage public growth”&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3&gt;Time Limit&lt;/h3&gt;
+&lt;p&gt;6 months (1 month invested so far)&lt;/p&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;section&gt;
+&lt;div class=&quot;content d--f fd--c jc--c ai--c&quot;&gt;
+&lt;h2&gt;Plant&lt;strong&gt;IO&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3&gt;Persuasive Purpose&lt;/h3&gt;
+&lt;p&gt;To automate food growth in a global way.&lt;/p&gt;
+&lt;img src=&quot;/media/ruuts__plantio--screen.png&quot; style=&quot;height: 50vh; width: auto;&quot; /&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;section&gt;
+&lt;div class=&quot;content d--f fd--c jc--c ai--c&quot;&gt;
+&lt;h2&gt;User Description&lt;/h2&gt;
+&lt;h3&gt;Millennial Man Mark&lt;/h3&gt;
+&lt;img style=&quot;width: 100%&quot; src=&quot;/media/persona__millennial-man-mark.jpg&quot; /&gt;
 
-&lt;p&gt;For a long time I have waited for the opportunity to begin my food project; I managed to investigate a small part of it during the co-creative module with the production of Fūdogotchi, alongside Carl Harrisson.&lt;/p&gt;
+&lt;img style=&quot;width: 100%&quot; src=&quot;/media/persona__millennial.png&quot; /&gt;
 
-&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
-&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+&lt;section style=&quot;display:none&quot;&gt;
+  &lt;h1&gt;user description: Millenial man Mark.&lt;/h1&gt;
+  &lt;div class=&quot;content d--f fd--c&quot;&gt;
+    &lt;div class=&quot;persona&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+        &lt;div class=&quot;sidebar d--f fd--c jc--fs quarter&quot;&gt;
+          &lt;div class=&quot;profile-pic&quot;&gt;
+            &lt;img style=&quot;width: 100%&quot; src=&quot;/media/persona__millennial.png&quot; /&gt;
+          &lt;/div&gt;
+
+          &lt;div class=&quot;details&quot;&gt;
+            &lt;p&gt;&lt;strong&gt;Age: &lt;/strong&gt;34&lt;br /&gt;
+              &lt;strong&gt;Work: &lt;/strong&gt;Project Manager&lt;br /&gt;
+              &lt;strong&gt;Family: &lt;/strong&gt;Married, 2 young children.&lt;br /&gt;
+              &lt;strong&gt;Location: &lt;/strong&gt;Redditch, Worcestershire&lt;br /&gt;
+              &lt;strong&gt;Character: &lt;/strong&gt;Strong, caring&lt;/p&gt;
+          &lt;/div&gt;
+
+          &lt;div class=&quot;personality&quot;&gt;
+            &lt;h2&gt;Personality&lt;/h2&gt;
+            &lt;label&gt;Introvert&lt;/label&gt;&lt;label&gt;Extrovert&lt;/label&gt;
+            &lt;div class=&quot;bar&quot;&gt;
+              &lt;div class=&quot;bar-fill fifty&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;label&gt;Thinking&lt;/label&gt;&lt;label&gt;Feeling&lt;/label&gt;
+            &lt;div class=&quot;bar&quot;&gt;
+              &lt;div class=&quot;bar-fill seventy-five&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;label&gt;Sensing&lt;/label&gt;&lt;label&gt;Intuition&lt;/label&gt;
+            &lt;div class=&quot;bar&quot;&gt;
+              &lt;div class=&quot;bar-fill forty-five&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;label&gt;Perceiving&lt;/label&gt;&lt;label&gt;Judging&lt;/label&gt;
+            &lt;div class=&quot;bar&quot;&gt;
+              &lt;div class=&quot;bar-fill twenty&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+        &lt;/div&gt;
+        &lt;div class=&quot;main d--f fd--c jc--fs&quot;&gt;
+          &lt;blockquote&gt;There's no excuse for dropping litter.&lt;/blockquote&gt;
+          &lt;div class=&quot;traits&quot;&gt;
+            &lt;span class=&quot;trait&quot;&gt;
+              &lt;p&gt;clean&lt;/p&gt;
+            &lt;/span&gt;
+            &lt;span class=&quot;trait&quot;&gt;
+              &lt;p&gt;loyal&lt;/p&gt;
+            &lt;/span&gt;
+            &lt;span class=&quot;trait&quot;&gt;
+              &lt;p&gt;helpful&lt;/p&gt;
+            &lt;/span&gt;
+            &lt;span class=&quot;trait&quot;&gt;
+              &lt;p&gt;energetic&lt;/p&gt;
+            &lt;/span&gt;
+            &lt;span class=&quot;trait&quot;&gt;
+              &lt;p&gt;playful&lt;/p&gt;
+            &lt;/span&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;goals&quot;&gt;
+            &lt;h2&gt;Goals&lt;/h2&gt;
+            &lt;ul&gt;
+              &lt;li&gt;To eat as healthily as possible&lt;/li&gt;
+              &lt;li&gt;Climb a mountain&lt;/li&gt;
+              &lt;li&gt;To surf a barrel in Hawaii&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;frustrations&quot;&gt;
+            &lt;h2&gt;Frustrations&lt;/h2&gt;
+            &lt;ul&gt;
+              &lt;li&gt;Rush hour traffic&lt;/li&gt;
+              &lt;li&gt;The dominant role of motor vehicles in society&lt;/li&gt;
+              &lt;li&gt;The amount of plastic packaging on food&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;bio&quot;&gt;
+            &lt;h2&gt;Bio&lt;/h2&gt;
+            &lt;p&gt;Mark is a professional with a young family and takes a keen interest in food, but does not have the time to grow his own. He has tried in the past but often forgets to water them and cannot grow during the winter months. It
+              infuriates him to have to buy overpriced fruit and vegetables from the supermarket with wsteful packaging. He is keen to become more self-sufficient and educate his duaghter in the same way.&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;end d--f fd--c jc--fs quarter&quot;&gt;
+          &lt;div class=&quot;motivation&quot;&gt;
+            &lt;h2&gt;Motivation&lt;/h2&gt;
+            &lt;label&gt;Incentive&lt;/label&gt;
+            &lt;div class=&quot;bar&quot;&gt;
+              &lt;div class=&quot;bar-fill sixty-five&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;label&gt;Fear&lt;/label&gt;
+            &lt;div class=&quot;bar&quot;&gt;
+              &lt;div class=&quot;bar-fill forty&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;label&gt;Growth&lt;/label&gt;
+            &lt;div class=&quot;bar&quot;&gt;
+              &lt;div class=&quot;bar-fill fifty-five&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;label&gt;Power&lt;/label&gt;
+            &lt;div class=&quot;bar&quot;&gt;
+              &lt;div class=&quot;bar-fill fifteen&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;label&gt;Social&lt;/label&gt;
+            &lt;div class=&quot;bar&quot;&gt;
+              &lt;div class=&quot;bar-fill fifty&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;influencers&quot;&gt;
+            &lt;h2&gt;Brands &amp;amp; Influencers&lt;/h2&gt;
+            &lt;div class=&quot;logo-list&quot;&gt;
+              &lt;img src=&quot;lib/img/influence__millenial--vans.png&quot; /&gt;
+              &lt;img src=&quot;lib/img/influence__millenial--vw.png&quot; /&gt;
+              &lt;img src=&quot;lib/img/influence__millenial--kelly-slater.jpg&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;channels&quot;&gt;
+            &lt;h2&gt;Preferred Channels&lt;/h2&gt;
+            &lt;label&gt;Traditional Ads&lt;/label&gt;
+            &lt;div class=&quot;bar&quot;&gt;
+              &lt;div class=&quot;bar-fill eighty&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;label&gt;Online &amp;amp; Social Media&lt;/label&gt;
+            &lt;div class=&quot;bar&quot;&gt;
+              &lt;div class=&quot;bar-fill seventy&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;label&gt;Referral&lt;/label&gt;
+            &lt;div class=&quot;bar&quot;&gt;
+              &lt;div class=&quot;bar-fill seventy-five&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+            &lt;label&gt;Guerilla Efforts &amp;amp; PR&lt;/label&gt;
+            &lt;div class=&quot;bar&quot;&gt;
+              &lt;div class=&quot;bar-fill thirty-five&quot;&gt;&lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;div id=&quot;storyboard&quot; class=&quot;content d--f fd--c ai--c&quot;&gt;
+  &lt;h2&gt;Storyboard: Winter with The Joneses&lt;/h2&gt;
+  &lt;div class=&quot;content d--f fd--r fw--w jc--sb m--1&quot;&gt;
+
+    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+      &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
+        &lt;!-- Exposition | EMPATHY --&gt;
+        &lt;p&gt;The Jones’ family have a two year old daughter called Grace. Charlotte and Kevin, Grace’s parents, both work full-time and are conscientious people, with a keen interest in environmental issues as well as human health.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+      &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
+        &lt;!-- Rising action | FRUSTRATION | Time--&gt;
+        &lt;p&gt;Charlotte tried to grow some strawberries during the summer to teach Grace and provide her favourite fruit, however she didn’t have time to maintain them and they eventually succumbed to pests in the garden,&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+      &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
+        &lt;!-- Rising action | SADNESS / Seasonal --&gt;
+        &lt;p&gt;Grace wants some strawberries. After eating them all summer, it is now October. Strawberries are not in season in the UK.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+      &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
+        &lt;!-- Rising action | DISAPPOINTMENT / Quality &amp; locality --&gt;
+        &lt;p&gt;Kevin picks some Spanish strawberries from the supermarket on his way home from work. After checking the packs, he finds the best of the bunch which are smaller and blander than those they enjoyed in the summer. Kevin takes a keen
+          interest in the environment and shudders at the thought of a truck driving food halfway across Europe.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+      &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
+        &lt;!-- Climax | HOPE --&gt;
+        &lt;p&gt;Kev invests in the Ruuts Plantio single plant growing system and sets up his free online account.&lt;/p&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+      &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
+        &lt;!-- Falling Action | EXCITED --&gt;
+        &lt;p&gt;After germinating a batch of strawberry seeds in their home, Kevin, Charlotte and Grace transfer them to the Plantio system once they begin to sprout.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+      &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
+        &lt;!-- Falling Action | RELAXED --&gt;
+        &lt;p&gt;The Jones family then go on with their everyday lives, checking in on the plant daily via the app to show Grace how it is doing.&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+      &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
+        &lt;!-- Denouement (Conclusion) | EMPATHY --&gt;
+        &lt;p&gt;The Plantio system tells the family when the fruit is ready to harvest and suggests they begin to germinate a new batch of seeds ready to go straight into the system.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;content d--f fd--c ai--c&quot;&gt;
+&lt;h2&gt;Prototype of PlantIO&lt;/h2&gt;
+&lt;div class=&quot;content d--f fd--r jc--sb m--1&quot;&gt;
+
+    &lt;iframe class=&quot;m---1&quot; title=&quot;Prototype of PlantIO&quot; src=&quot;https://marvelapp.com/18487756/screen/45728857&quot;&gt;
+    &lt;/iframe&gt;
+    &lt;div class=&quot;m---1&quot; style=&quot;max-width: calc(100% - 2em); margin-left: 2em;&quot;&gt;
+      &lt;img src=&quot;/media/prototype__cardboard.jpg&quot; /&gt;
+      &lt;p&gt;&lt;em&gt;&lt;strong&gt;Above:&lt;/strong&gt;&lt;/em&gt; cardboard prototype to enable the user to visualise the process.&lt;br /&gt;
+        &lt;em&gt;&lt;strong&gt;Left:&lt;/strong&gt;&lt;/em&gt; interactive paper prototype &lt;a href=&quot;https://marvelapp.com/18487756/screen/45728857&quot;&gt;(original)&lt;/a&gt;.&lt;/p&gt;
+        &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;content d--f fd--c ai--c&quot;&gt;
+  &lt;h2&gt;Features &amp;amp; Functionality&lt;/h2&gt;
+  &lt;div class=&quot;content d--f fd--c jc--sb&quot;&gt;
+    &lt;img src=&quot;/media/ruuts__plantio--systemsDiagram.svg&quot; /&gt;
+    &lt;h3&gt;Full, automatic control of growing conditions&lt;/h3&gt;
+    &lt;h3&gt;Realtime status page with reporting&lt;/h3&gt;
+    &lt;h3&gt;Automatic error notifications&lt;/h3&gt;
+    &lt;h3&gt;PWA allows access from any device anywhere&lt;/h3&gt;
+    &lt;img src=&quot;/media/ruuts__plantio--behaviourPatterns.svg&quot; /&gt;
+  &lt;/div&gt;
+  &lt;p&gt;
+    After germination, user plants into system &amp;amp; connects to their account.
+
+    From here, the system has full control of all growing conditions, regulating lighting, temperature, and nutrient feed according to the selected recipe.
+
+    The user can access a status page 24 hours a day from any browser enabled device, providing reporting of water consumption, lighting, feeding and temperature patterns, and error notifications.
+  &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;content d--f fd--c ai--c&quot;&gt;
+  &lt;h2&gt;Theoretical Justifications&lt;/h2&gt;
+  &lt;div class=&quot;content d--f fd--c jc--c list&quot;&gt;
+    &lt;h3&gt;Grow perfect food, automatically.&lt;/h3&gt;
+    &lt;h3&gt;£800 Million UK Market Size&lt;span class=&quot;reference&quot;&gt; [ 1 ]&lt;/span&gt;&lt;/h3&gt;
+    &lt;h3&gt;Autumn 2020 launch&lt;span class=&quot;reference&quot;&gt; [ 2 ]&lt;/span&gt;&lt;/h3&gt;
+    &lt;h3&gt;Most advanced, automated consumer system available.&lt;span class=&quot;reference&quot;&gt; [ 3 ]&lt;/span&gt;&lt;/h3&gt;
+    &lt;h3&gt;Ruuts have expertise in horticulture, electronics engineering and product design.&lt;/h3&gt;
+    &lt;h3&gt;Progressive Web Application is platform independent with instant updates from a single codebase.&lt;/h3&gt;
+    &lt;h3&gt;Affordable, bleeding edge modular technology&lt;span class=&quot;reference&quot;&gt; [ 4 ]&lt;/span&gt;&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;p&gt;
+    &lt;!-- value proposition --&gt;
+    PlantIO is the smartest way to grow. One tap and your plant is automatically grown. Our recipes know exactly how to optimise the conditions for perfect growth. All you have to do is wait.
+    &lt;!-- market size --&gt;
+    Based on both top-down and bottom up calculations; briefly a £200 individual spend level in a demongraphic 4 million users strong.
+    &lt;!-- market timing  --&gt;
+    27 month product development plan with launch during the traditionally weak growing season of Autumn. A staggered launch plan will be implemented allowing for the penetration of additional markets as the product gains traction.
+    &lt;!-- market positioning --&gt;
+    No other company provides a practical home solution that manages all aspects of growing.
+    ENVIRONMENNT / LIFESTYLE
+    &lt;!-- company goals --&gt;
+    &lt;!-- risk profile --&gt;
+    &lt;!-- competencies  --&gt;
+    &lt;!-- software technology --&gt;
+    PWA technology opens up the market to anybody with an internet connection. Javascript application communicating with arduino ran components using Johnny-Five, and Sockets.io real-time communication libraries.
+    &lt;!-- hardware technology --&gt;
+    Aeroponics provides incredibly efficiency with optimal control, reducing land usage by 99% and water usage by 98% when compared to traditional farming methods.
+  &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section id=&quot;results&quot;&gt;
+
+  &lt;div class=&quot;content d--f fd--c ai--c&quot;&gt;
+&lt;h2&gt;Results of User Testing&lt;/h2&gt;
+&lt;/div&gt;
+      &lt;div class=&quot;d--f jc--sb&quot;&gt;
+        &lt;div&gt;
+          &lt;h3&gt;lack of time&lt;/h3&gt;
+          &lt;h3&gt;59%&lt;span class=&quot;reference&quot;&gt; [ 5 ]&lt;/span&gt;&lt;/h3&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+          &lt;h3&gt;lack of room&lt;/h3&gt;
+          &lt;h4&gt;61%&lt;span class=&quot;reference&quot;&gt; [ 5 ]&lt;/span&gt;&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div&gt;
+          &lt;h3&gt;quality is vitally important&lt;/h3&gt;
+          &lt;h4&gt;68%&lt;span class=&quot;reference&quot;&gt; [ 5 ]&lt;/span&gt;&lt;/h4&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+
+
+    &lt;div class=&quot;d--f fd--r jc--c&quot; style=&quot;background: rgba(91,80,149,1); margin-bottom: 1rem;&quot;&gt;
+        &lt;img class=&quot;as--c&quot; src=&quot;/media/userResearch__Jones-peppers--2018-09-24.jpeg&quot; style=&quot;max-width: 50%; margin-bottom: 0;&quot; /&gt;
+      &lt;div class=&quot;d--f fd--c jc--c ta--c ai--fe p--2&quot;&gt;
+        &lt;blockquote style=&quot;color: white;&quot;&gt;
+          &quot;...we will persist but perhaps a simpler solution to assist growing our own food would help make it easier for a family.&quot;&lt;/blockquote&gt;
+        &lt;cite style=&quot;color: white;&quot;&gt; - Kevin Jones, 34 &lt;a href=&quot;#ref&quot;&gt;[ 6 ]&lt;/a&gt;&lt;/cite&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;d--f fd--c jc--sb&quot;&gt;
+      &lt;h3&gt;User research plan&lt;/h3&gt;
+      &lt;div class=&quot;d--f jc--sb&quot;&gt;
+        &lt;h4 class=&quot;quarter&quot;&gt;Interview home gardeners&lt;/h4&gt;
+        &lt;h4 class=&quot;quarter&quot;&gt;Interview allotment owners&lt;/h4&gt;
+        &lt;h4 class=&quot;quarter&quot;&gt;Analyse personal home growing tests&lt;/h4&gt;
+        &lt;h4 class=&quot;quarter&quot;&gt;Film users with paper prototype&lt;/h4&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &amp;lt;/div&amp;gt;
+  &lt;p&gt;
+    We took the opportunity to experience growing our own food as a family. It's been fun introducing the process to our 2 year old daughter who really enjoyed helping us start to grow our own food and has learnt about how food can be produced
+    and what part nature plays in the process.
+
+    The instructions with the kit we used were a bit vague and missed a few vital elements (such as water occasionally) but with a little bit of improvisation and nature finally taking its course, we managed to start to grow some aubergines,
+    peppers and green beans.
+
+    &quot;It has also encouraged us to grow our own tomatoes which took about 4-5 weeks before we could use them in a home made lasagne and vegetarian pizza (the Tomatoes tasted noticeably stronger and fresher). It is taking a fair bit of time for
+    the aubergines, peppers and greenbeans to grow and we will persist but perhaps a simpler solution to assist growing our own food would help make it easier for a family.&quot;
+
+    We will certainly try some new methods in the future and are now all excited at the prospects of growing our own food, we are also happy it has caught the interest of our daughter and let us understand more about food as a family as we
+    interact together.
+  &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;div class=&quot;content d--f fd--c ai--c list&quot;&gt;
+  &lt;h2&gt;Shortcomings of Design&lt;/h2&gt;
+  &lt;ul class=&quot;h3&quot;&gt;
+    &lt;li&gt;Nozzle expensive for single use&lt;/li&gt;
+    &lt;li&gt;High initial setup costs&lt;/li&gt;
+    &lt;li&gt;Difficult to engage users early on&lt;/li&gt;
+    &lt;li&gt;Initial germination stage needs consideration&lt;/li&gt;
+    &lt;li&gt;Difficult to balance engagement with automation&lt;/li&gt;
+    &lt;li&gt;Large knowledge base required for recipes&lt;/li&gt;
+    &lt;li&gt;Difficult to encourage data logging for recipe development&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+
+  &lt;div class=&quot;content d--f fd--r fw--w ai--c&quot;&gt;
+  &lt;h2&gt;Expansion &amp;mdash; what else is possible?&lt;/h2&gt;
+    &lt;div class=&quot;quarter box&quot;&gt;
+      &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-sun&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+      &lt;p&gt;Exclusively solar powered&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;quarter box&quot;&gt;
+      &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-puzzle-piece&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+      &lt;p&gt;Modular expansion&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;quarter box&quot;&gt;
+      &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-paw&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+      &lt;p&gt;Augmented reality&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;quarter box&quot;&gt;
+      &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-clipboard-list&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+      &lt;p&gt;Custom recipes&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;quarter box&quot;&gt;
+      &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-brain&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+      &lt;p&gt;Artificial Intellgience&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;quarter box&quot;&gt;
+      &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-balance-scale&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+      &lt;p&gt;Scale to business and industry&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;quarter box&quot;&gt;
+      &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-globe&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+      &lt;p&gt;Global reach&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;quarter box&quot;&gt;
+      &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-hands-helping&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+      &lt;p&gt;Charity creation&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;p&gt;
+    Rail setup currently under development for larger installation - can work with a modular design.
+
+    Tamagotchi style live display augmented reality side of unit for children.
+
+    Self-improving recipes through AI
+
+  &lt;/p&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+&lt;div class=&quot;content d--f fd--c ai--c&quot;&gt;
+  &lt;h2&gt;Next Steps in Design Process&lt;/h2&gt;
+  &lt;ul class=&quot;h3&quot;&gt;
+    &lt;li&gt;MVP system to monitor a single plant&lt;/li&gt;
+    &lt;li&gt;Implement top level aeroponics for a single plant&lt;/li&gt;
+    &lt;li&gt;Gradually increase variables &amp;amp; automation with testing&lt;/li&gt;
+    &lt;li&gt;Research germination phase improvements&lt;/li&gt;
+    &lt;li&gt;Investigate partnership with seed supplier&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section&gt;
+  &lt;h2&gt;Summary&lt;/h2&gt;
+  &lt;div class=&quot;content d--f fd--c&quot;&gt;
+    &lt;div class=&quot;content d--f fd--c jc--sa&quot;&gt;
+      &lt;h3&gt;Fully automated home growing with PlantIO from Ruuts&lt;/h3&gt;
+      &lt;hr /&gt;
+      &lt;div class=&quot;d--f fd--r&quot;&gt;
+        &lt;div class=&quot;third&quot;&gt;
+          &lt;h3&gt;Big unsaturated market&lt;/h3&gt;
+          &lt;h4&gt;£800 Million in the UK alone, truly a global product.&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;third&quot;&gt;
+          &lt;h3&gt;Competititve advantage&lt;/h3&gt;
+          &lt;h4&gt;Multiple USP's places our product firmly ahead of the competition.&lt;/h4&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;third&quot;&gt;
+          &lt;h3&gt;Raising £250,000 funding&lt;/h3&gt;
+          &lt;h4&gt;for full product development and testing, 3 full-time staff and 1000 launch units.&lt;/h4&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;hr /&gt;
+      &lt;div&gt;
+        &lt;h3&gt;Multi skilled team&lt;/h3&gt;
+        &lt;div class=&quot;d--f fd--r&quot;&gt;
+          &lt;div class=&quot;third&quot;&gt;
+            &lt;h4&gt;Phillip Penny&lt;/h4&gt;
+            &lt;p&gt;Product Design&amp;lt;/strong&amp;gt;
+              &lt;br /&gt;&lt;a href=&quot;mailto:phil@ruuts.co.uk&quot;&gt;phil@ruuts.co.uk&lt;/a&gt;&lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;third&quot;&gt;
+            &lt;h4&gt;Brett Bartlett&lt;/h4&gt;
+            &lt;p&gt;Horticulture Consultant&amp;lt;/strong&amp;gt;
+              &lt;br /&gt;&lt;a href=&quot;mailto:brett@ruuts.co.uk&quot;&gt;brett@ruuts.co.uk&lt;/a&gt;&lt;/p&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;third&quot;&gt;
+            &lt;h4&gt;Ashley Banner&lt;/h4&gt;
+            &lt;p&gt;Electronics Engineer&amp;lt;/strong&amp;gt;
+              &lt;br /&gt;&lt;a href=&quot;mailto:ash@ruuts.co.uk&quot;&gt;ash@ruuts.co.uk&lt;/a&gt;&lt;/p&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;h2 id=&quot;ref&quot; class=&quot;page-break&quot;&gt;Appendix&lt;/h2&gt;
+
 &lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;McCormack, N, &amp;amp; Cotter, Managing” Burnout in the Workplace : A Guide for Information Professionals”, Elsevier Science &amp;amp; Technology, Witney, pp. 154-174, 2013.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Duckworth, E, “Piaget rediscovered by Eleanor Duckworth”, The Arithmetic Teacher, National Council of Teachers of Mathematics, vol. 11, no. 7, pp. 499, 1964.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;V. V. Edwards, “How to Resist Shiny-Object Syndrome,” Entrepreneur, pp. 16, 2017.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;S. Bradt, “Wandering mind not a happy mind”, Harvard Gazette, 2010. [Online]. Available: https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/. [Accessed: 10- May- 2018]&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;J. Dixit, “The Art of Now: Six Steps to Living in the Moment”, Psychology Today, 2008. [Online]. Available: https://www.psychologytoday.com/us/articles/200811/the-art-now-six-steps-living-in-the-moment. [Accessed: 10- May- 2018].&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mesly, O, “Project Feasibility: Tools for Uncovering Points of Vulnerability”, CRC Press, 2017.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Arrington, M, ‘Odeo Releases Twttr’, Tech Crunch, 2006. [Online]. Available: https://techcrunch.com/2006/07/15/is-twttr-interesting, [Accessed: 06-May-2018]&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;G. Chapman and J. Green, The 5 love languages. Chicago: Northfield Publishing, pp. 91-108, 1992.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, YouTube, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, GitHub, Retrieved March 08, 2018: https://github.com/curran/screencasts/tree/gh-pages/navigation&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Based on a bottom up analysis. Approximately 8 million uk users fit the &lt;a href=&quot;https://en.wikipedia.org/wiki/Demography_of_the_United_Kingdom#Age_structure&quot;&gt;persona&lt;a&gt;&lt;/a&gt;, which equates to 4 million couples, placing one unit per
+ family each with a potential unit spend of £200.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Approximate timeline of 6 months to MVP in December 2018, a 3 month alpha test, 6 months product development, another 3 month alpha test, 3 months product development, 3 months public beta test, and launch in Autumn 2020.&lt;/li&gt;
+  &lt;li&gt;An initial competitor analysis reveals &lt;a href=&quot;https://aerofarms.com/frequently-asked-questions/&quot;&gt;high end systems&lt;/a&gt; aimed squarely at the business and industrial markets; or &lt;a href=&quot;https://eu.clickandgrow.com/products/the-smart-garden-9&quot;&gt;low
+ end&lt;/a&gt;, hobbyist systems utilising low-technology, poorly thought out solutions for the affluent middle class. There is a distinct gap for a highly developed, affordable consumer system.&lt;/li&gt;
+  &lt;li&gt;No consumer system excists that utilises aeroponic nozzles, the most advanced system for controlling molecular diameters of liquids. Coupled with the latest wif-fi arduino uno board and low energy LEDs shows the concept pushing
+  technology in all boundaries.&lt;/li&gt;
+  &lt;li&gt;Results obtained from my &lt;a href=&quot;https://docs.google.com/forms/d/110GA-5qPCFBt9as8R2DtQPgxbPZQbwrPA91Jolwq-7g/edit#responses&quot;&gt; user study&lt;/a&gt; of 54 participants.&lt;/li&gt;
+  &lt;li&gt;Mr. Kevin Jones underwent a full growing experiment with his family, and quoted:&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;blockquote&gt;&lt;p&gt;We took the opportunity to experience growing our own food as a family. It's been fun introducing the process to our 2 year old daughter who really enjoyed helping us start to grow our own food and has learnt about how food can be produced and what part nature plays in the process.
+&lt;br /&gt;&lt;br /&gt;
+The instructions with the kit we used were abit vague and missed a few vital elements (such as water occasionally) but with a little bit of improvisation and nature finally taking its course, we managed to start to grow some aubergines,
+peppers and green beans.
+&lt;br /&gt;&lt;br /&gt;
+It has also encouraged us to grow our own tomatoes which took about 4-5 weeks before we could use them in a home made lasagne and vegetarian pizza (the Tomatoes tasted noticeably stronger and fresher). It is taking a fair bit of time for the aubergines, peppers and greenbeans to grow and we will persist but perhaps a simpler solution to assist growing our own food would help make it easier for a family.
+&lt;br /&gt;&lt;br /&gt;
+We will certainly try some new methods in the future and are now all excited at the prospects of growing our own food, we are also happy it has caught the interest of our daughter and let us understand more about food as a family as we interact together.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
-        <pubDate>Wed, 18 Jul 2018 12:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fmp/2018/07/18/fmp-proposal.html</link>
-        <guid isPermaLink="true">http://localhost:4000/fmp/2018/07/18/fmp-proposal.html</guid>
+        <pubDate>Tue, 17 Jul 2018 13:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fmp/2018/07/17/fmp-proposal.html</link>
+        <guid isPermaLink="true">http://localhost:4000/fmp/2018/07/17/fmp-proposal.html</guid>
         
         
         <category>FMP</category>
