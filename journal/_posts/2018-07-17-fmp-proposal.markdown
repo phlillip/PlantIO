@@ -266,16 +266,16 @@ categories: FMP
 
 <section>
 <div class="content d--f fd--c ai--c">
-  <h2>Theoretical Justifications</h2>
-  <div class="content d--f fd--c jc--c list">
-    <h3>Grow perfect food, automatically.</h3>
-    <h3>£800 Million UK Market Size<span class="reference"> [ 1 ]</span></h3>
-    <h3>Autumn 2020 launch<span class="reference"> [ 2 ]</span></h3>
-    <h3>Most advanced, automated consumer system available.<span class="reference"> [ 3 ]</span></h3>
-    <h3>Ruuts have expertise in horticulture, electronics engineering and product design.</h3>
-    <h3>Progressive Web Application is platform independent with instant updates from a single codebase.</h3>
-    <h3>Affordable, bleeding edge modular technology<span class="reference"> [ 4 ]</span></h3>
-  </div>
+<h2>Theoretical Justifications</h2>
+<ul class="h3">
+<li>Grow perfect food, automatically.</li>
+<li>£800 Million UK Market Size<span class="reference"> [ 1 ]</span></li>
+<li>Autumn 2020 launch<span class="reference"> [ 2 ]</span></li>
+<li>Most advanced, automated consumer system available.<span class="reference"> [ 3 ]</span></li>
+<li>Ruuts have expertise in horticulture, electronics engineering and product design.</li>
+<li>Progressive Web Application is platform independent with instant updates from a single codebase.</li>
+<li>Affordable, bleeding edge modular technology<span class="reference"> [ 4 ]</span>></li>
+</ul>
   <p>
     <!-- value proposition -->
     PlantIO is the smartest way to grow. One tap and your plant is automatically grown. Our recipes know exactly how to optimise the conditions for perfect growth. All you have to do is wait.
