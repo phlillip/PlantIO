@@ -249,11 +249,13 @@ a {
         margin: 0 0 $spacing-unit 0;
         transition: background .2s ease-in-out;
         box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+        min-width: 15em;
+        text-align: center;
 
         &.disabled,
         &:disabled,
         &[disabled]{
-          opacity: 0.5;
+          opacity: 0.25;
           cursor: not-allowed;
 
           &:hover { background: $brand-color; }
