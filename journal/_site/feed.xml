@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Journal</title>
+    <title>Development Journal</title>
     <description>As part of my MA in Creative App Development, I will be keeping this weekly blog to increase self-awareness and understanding as I develop my skills.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Nov 2018 21:55:25 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Nov 2018 21:55:25 +0000</lastBuildDate>
-    <generator>Jekyll v3.7.3</generator>
+    <link>https://plantio.ruuts.co.uk/journal/</link>
+    <atom:link href="https://plantio.ruuts.co.uk/journal/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 10 Nov 2018 21:05:45 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Nov 2018 21:05:45 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
     
       <item>
         <title>Marketing &amp; Dissemination Plan</title>
@@ -604,8 +604,8 @@ The competitor analysis has shown that the PlantIO system provides multiple USP‚
 &lt;p&gt;Click &amp;amp; Grow offer a low-end version of our product at a higher price to a very similar audience, using lower-end hardware and software. The presentation is excellent throughout, however, the user is likely to be left feeling somewhat cheated by the limited functionality of the system and the expense of the refill pods. This system prices itself out of most sales and offers no online capabilities.&lt;/p&gt;
 </description>
         <pubDate>Tue, 02 Oct 2018 13:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fmp/2018/10/02/fmp-marketing-and-dissemination-plan.html</link>
-        <guid isPermaLink="true">http://localhost:4000/fmp/2018/10/02/fmp-marketing-and-dissemination-plan.html</guid>
+        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/10/02/fmp-marketing-and-dissemination-plan.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/10/02/fmp-marketing-and-dissemination-plan.html</guid>
         
         
         <category>FMP</category>
@@ -650,8 +650,8 @@ The competitor analysis has shown that the PlantIO system provides multiple USP‚
 &lt;/ol&gt;
 </description>
         <pubDate>Wed, 25 Jul 2018 12:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fmp/2018/07/25/fmp-the-design-of-hey-duggee.html</link>
-        <guid isPermaLink="true">http://localhost:4000/fmp/2018/07/25/fmp-the-design-of-hey-duggee.html</guid>
+        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/07/25/fmp-the-design-of-hey-duggee.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/07/25/fmp-the-design-of-hey-duggee.html</guid>
         
         
         <category>FMP</category>
@@ -696,8 +696,8 @@ The competitor analysis has shown that the PlantIO system provides multiple USP‚
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 24 Jul 2018 12:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fmp/2018/07/24/fmp-modular-design-for-scale.html</link>
-        <guid isPermaLink="true">http://localhost:4000/fmp/2018/07/24/fmp-modular-design-for-scale.html</guid>
+        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/07/24/fmp-modular-design-for-scale.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/07/24/fmp-modular-design-for-scale.html</guid>
         
         
         <category>FMP</category>
@@ -706,33 +706,49 @@ The competitor analysis has shown that the PlantIO system provides multiple USP‚
     
       <item>
         <title>Project Proposal</title>
-        <description>&lt;section&gt;
+        <description>&lt;section id=&quot;title&quot;&gt;
 &lt;div class=&quot;content d--f fd--c jc--c ai--c&quot;&gt;
 &lt;h2&gt;Plant&lt;strong&gt;IO&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;A conceptual captology design by Phillip David Penny&lt;/p&gt;
-&lt;img src=&quot;/media/ruuts__tech.svg&quot; style=&quot;height: 50vh;&quot; /&gt;
+&lt;img src=&quot;https://plantio.ruuts.co.uk/journal/media/ruuts__tech.svg&quot; /&gt;
 &lt;h3&gt;Project Goal&lt;/h3&gt;
-&lt;blockquote&gt;&lt;p&gt;‚ÄúTo design a complete food growing system to encourage public growth‚Äù&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p class=&quot;big&quot;&gt;To design a complete food growing system to encourage public growth.&lt;/p&gt;
 &lt;h3&gt;Time Limit&lt;/h3&gt;
 &lt;p&gt;6 months (1 month invested so far)&lt;/p&gt;
 &lt;/div&gt;
 &lt;/section&gt;
-&lt;section&gt;
-&lt;div class=&quot;content d--f fd--c jc--c ai--c&quot;&gt;
+
+&lt;section id=&quot;overview&quot;&gt;
+&lt;div class=&quot;content d--f fd--c jc--sb ai--c&quot;&gt;
 &lt;h2&gt;Plant&lt;strong&gt;IO&lt;/strong&gt;&lt;/h2&gt;
+&lt;div class=&quot;content d--f fd--r&quot;&gt;
+&lt;div class=&quot;content d--f fd--c&quot;&gt;
 &lt;h3&gt;Persuasive Purpose&lt;/h3&gt;
-&lt;p&gt;To automate food growth in a global way.&lt;/p&gt;
-&lt;img src=&quot;/media/ruuts__plantio--screen.png&quot; style=&quot;height: 50vh; width: auto;&quot; /&gt;
+&lt;ul class=&quot;big&quot;&gt;
+&lt;li&gt;To automate food growth to such an extent that it allows public growing to become a habit of people's lives with minimal effort.&lt;/li&gt;
+&lt;li&gt;To enable global growing to move from the hands of the few to the hands of the many through open source technology.&lt;/li&gt;
+&lt;li&gt;To raise awareness about the environmental impact of industrial farming methods.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;img src=&quot;https://plantio.ruuts.co.uk/journal/media/ruuts__plantio--screen.png&quot; /&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;/section&gt;
-&lt;section&gt;
+
+&lt;section id=&quot;user&quot;&gt;
 &lt;div class=&quot;content d--f fd--c jc--c ai--c&quot;&gt;
 &lt;h2&gt;User Description&lt;/h2&gt;
 &lt;h3&gt;Millennial Man Mark&lt;/h3&gt;
-&lt;img style=&quot;width: 100%&quot; src=&quot;/media/persona__millennial-man-mark.jpg&quot; /&gt;
+&lt;img src=&quot;https://plantio.ruuts.co.uk/journal/media/persona__millennial-man-mark.jpg&quot; /&gt;
+&lt;p class=&quot;big&quot;&gt;Millennial parents who take a keen interest in their environment and the quality of life for their young family. They are acutely aware of their presence on social media and create classy, inspirational posts that highlight their achievements.&lt;/p&gt;
 
-&lt;img style=&quot;width: 100%&quot; src=&quot;/media/persona__millennial.png&quot; /&gt;
-
+&lt;div class=&quot;d--f jc--c ai--c&quot; style=&quot;position:relative;&quot;&gt;
+&lt;img class=&quot;half&quot; src=&quot;https://plantio.ruuts.co.uk/journal/media/persona__millennial.png&quot; /&gt;
+&lt;div class=&quot;d--f jc--c ai--c&quot; style=&quot;position: absolute; top: 0; left: 0; right: 0; bottom: 0;&quot;&gt;&lt;a class=&quot;button&quot; href=&quot;https://plantio.ruuts.co.uk/journal/media/persona__millennial.png&quot; download=&quot;&quot;&gt;Download user persona&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;!--
 &lt;section style=&quot;display:none&quot;&gt;
   &lt;h1&gt;user description: Millenial man Mark.&lt;/h1&gt;
   &lt;div class=&quot;content d--f fd--c&quot;&gt;
@@ -810,7 +826,7 @@ The competitor analysis has shown that the PlantIO system provides multiple USP‚
           &lt;div class=&quot;bio&quot;&gt;
             &lt;h2&gt;Bio&lt;/h2&gt;
             &lt;p&gt;Mark is a professional with a young family and takes a keen interest in food, but does not have the time to grow his own. He has tried in the past but often forgets to water them and cannot grow during the winter months. It
-              infuriates him to have to buy overpriced fruit and vegetables from the supermarket with wsteful packaging. He is keen to become more self-sufficient and educate his duaghter in the same way.&lt;/p&gt;
+              infuriates him to have to buy overpriced fruit and vegetables from the supermarket with wasteful packaging. He is keen to become more self-sufficient and educate his daughter in the same way.&lt;/p&gt;
           &lt;/div&gt;
         &lt;/div&gt;
         &lt;div class=&quot;end d--f fd--c jc--fs quarter&quot;&gt;
@@ -851,7 +867,7 @@ The competitor analysis has shown that the PlantIO system provides multiple USP‚
             &lt;div class=&quot;bar&quot;&gt;
               &lt;div class=&quot;bar-fill eighty&quot;&gt;&lt;/div&gt;
             &lt;/div&gt;
-            &lt;label&gt;Online &amp;amp; Social Media&lt;/label&gt;
+            &lt;label&gt;Online &amp; Social Media&lt;/label&gt;
             &lt;div class=&quot;bar&quot;&gt;
               &lt;div class=&quot;bar-fill seventy&quot;&gt;&lt;/div&gt;
             &lt;/div&gt;
@@ -859,7 +875,7 @@ The competitor analysis has shown that the PlantIO system provides multiple USP‚
             &lt;div class=&quot;bar&quot;&gt;
               &lt;div class=&quot;bar-fill seventy-five&quot;&gt;&lt;/div&gt;
             &lt;/div&gt;
-            &lt;label&gt;Guerilla Efforts &amp;amp; PR&lt;/label&gt;
+            &lt;label&gt;Guerilla Efforts &amp; PR&lt;/label&gt;
             &lt;div class=&quot;bar&quot;&gt;
               &lt;div class=&quot;bar-fill thirty-five&quot;&gt;&lt;/div&gt;
             &lt;/div&gt;
@@ -869,53 +885,52 @@ The competitor analysis has shown that the PlantIO system provides multiple USP‚
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/section&gt;
-&lt;/div&gt;
-&lt;/section&gt;
+--&gt;
 
-&lt;section&gt;
-&lt;div id=&quot;storyboard&quot; class=&quot;content d--f fd--c ai--c&quot;&gt;
+&lt;section id=&quot;storyboard&quot;&gt;
+&lt;div class=&quot;content d--f fd--c ai--c&quot;&gt;
   &lt;h2&gt;Storyboard: Winter with The Joneses&lt;/h2&gt;
-  &lt;div class=&quot;content d--f fd--r fw--w jc--sb m--1&quot;&gt;
+  &lt;div class=&quot;content d--f fd--r fw--w jc--sb&quot;&gt;
 
-    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+    &lt;div class=&quot;d--f fd--c half&quot;&gt;
       &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
         &lt;!-- Exposition | EMPATHY --&gt;
-        &lt;p&gt;The Jones‚Äô family have a two year old daughter called Grace. Charlotte and Kevin, Grace‚Äôs parents, both work full-time and are conscientious people, with a keen interest in environmental issues as well as human health.&lt;/p&gt;
+        &lt;p&gt;The Jones family have a two year old daughter called Grace. Charlotte and Kevin, Grace‚Äôs parents, both work full-time and are conscientious people, with a keen interest in environmental issues as well as human health.&lt;/p&gt;
     &lt;/div&gt;
 
-    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+    &lt;div class=&quot;d--f fd--c half&quot;&gt;
       &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
         &lt;!-- Rising action | FRUSTRATION | Time--&gt;
-        &lt;p&gt;Charlotte tried to grow some strawberries during the summer to teach Grace and provide her favourite fruit, however she didn‚Äôt have time to maintain them and they eventually succumbed to pests in the garden,&lt;/p&gt;
+        &lt;p&gt;Charlotte tried to grow some strawberries during the summer to teach Grace and provide her favourite fruit, however, she did not have time to maintain them and they eventually succumbed to pests in the garden.&lt;/p&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+    &lt;div class=&quot;d--f fd--c half&quot;&gt;
       &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
         &lt;!-- Rising action | SADNESS / Seasonal --&gt;
         &lt;p&gt;Grace wants some strawberries. After eating them all summer, it is now October. Strawberries are not in season in the UK.&lt;/p&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+    &lt;div class=&quot;d--f fd--c half&quot;&gt;
       &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
         &lt;!-- Rising action | DISAPPOINTMENT / Quality &amp; locality --&gt;
         &lt;p&gt;Kevin picks some Spanish strawberries from the supermarket on his way home from work. After checking the packs, he finds the best of the bunch which are smaller and blander than those they enjoyed in the summer. Kevin takes a keen
           interest in the environment and shudders at the thought of a truck driving food halfway across Europe.&lt;/p&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+    &lt;div class=&quot;d--f fd--c half&quot;&gt;
       &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
         &lt;!-- Climax | HOPE --&gt;
-        &lt;p&gt;Kev invests in the Ruuts Plantio single plant growing system and sets up his free online account.&lt;/p&gt;
+        &lt;p&gt;Kevin invests in the Ruuts Plantio single plant growing system and sets up his free online account.&lt;/p&gt;
     &lt;/div&gt;
 
-    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+    &lt;div class=&quot;d--f fd--c half&quot;&gt;
       &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
         &lt;!-- Falling Action | EXCITED --&gt;
         &lt;p&gt;After germinating a batch of strawberry seeds in their home, Kevin, Charlotte and Grace transfer them to the Plantio system once they begin to sprout.&lt;/p&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+    &lt;div class=&quot;d--f fd--c half&quot;&gt;
       &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
         &lt;!-- Falling Action | RELAXED --&gt;
         &lt;p&gt;The Jones family then go on with their everyday lives, checking in on the plant daily via the app to show Grace how it is doing.&lt;/p&gt;
     &lt;/div&gt;
-    &lt;div class=&quot;d--f fd--c m---1&quot;&gt;
+    &lt;div class=&quot;d--f fd--c half&quot;&gt;
       &lt;img src=&quot;https://via.placeholder.com/300x200&quot; /&gt;
         &lt;!-- Denouement (Conclusion) | EMPATHY --&gt;
         &lt;p&gt;The Plantio system tells the family when the fruit is ready to harvest and suggests they begin to germinate a new batch of seeds ready to go straight into the system.&lt;/p&gt;
@@ -924,73 +939,77 @@ The competitor analysis has shown that the PlantIO system provides multiple USP‚
 &lt;/div&gt;
 &lt;/section&gt;
 
-&lt;section&gt;
+&lt;section id=&quot;prototype&quot;&gt;
 &lt;div class=&quot;content d--f fd--c ai--c&quot;&gt;
 &lt;h2&gt;Prototype of PlantIO&lt;/h2&gt;
-&lt;div class=&quot;content d--f fd--r jc--sb m--1&quot;&gt;
-
-    &lt;iframe class=&quot;m---1&quot; title=&quot;Prototype of PlantIO&quot; src=&quot;https://marvelapp.com/18487756/screen/45728857&quot;&gt;
-    &lt;/iframe&gt;
-    &lt;div class=&quot;m---1&quot; style=&quot;max-width: calc(100% - 2em); margin-left: 2em;&quot;&gt;
-      &lt;img src=&quot;/media/prototype__cardboard.jpg&quot; /&gt;
+&lt;p class=&quot;big&quot;&gt;The user can access the status of their plant at any point using the Plant&lt;strong&gt;IO&lt;/strong&gt; app. A simple push button pairing process connects their system to their account.&lt;/p&gt;
+&lt;div class=&quot;content d--f fd--r jc--sb&quot;&gt;
+    &lt;div class=&quot;prototype-img&quot;&gt;
+      &lt;img src=&quot;https://plantio.ruuts.co.uk/journal/media/prototype__cardboard.jpg&quot; /&gt;
       &lt;p&gt;&lt;em&gt;&lt;strong&gt;Above:&lt;/strong&gt;&lt;/em&gt; cardboard prototype to enable the user to visualise the process.&lt;br /&gt;
-        &lt;em&gt;&lt;strong&gt;Left:&lt;/strong&gt;&lt;/em&gt; interactive paper prototype &lt;a href=&quot;https://marvelapp.com/18487756/screen/45728857&quot;&gt;(original)&lt;/a&gt;.&lt;/p&gt;
+        &lt;em&gt;&lt;strong&gt;&lt;span class=&quot;desktop-only&quot;&gt;Right:&lt;/span&gt;&lt;span class=&quot;mobile-only&quot;&gt;Below:&lt;/span&gt;&lt;/strong&gt;&lt;/em&gt; interactive paper prototype &lt;a href=&quot;https://marvelapp.com/18487756/screen/45728857&quot;&gt;(link to original)&lt;/a&gt;.&lt;/p&gt;
         &lt;/div&gt;
+        &lt;iframe class=&quot;&quot; title=&quot;Prototype of PlantIO&quot; src=&quot;https://marvelapp.com/18487756/screen/45728857&quot;&gt;
+        &lt;/iframe&gt;
   &lt;/div&gt;
+  &lt;p class=&quot;big&quot;&gt;The user then adds a seed to the system, waits for it to germinate, thins out unwanted seeds, then simply waits for their harvest.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/section&gt;
 
-&lt;section&gt;
+&lt;section id=&quot;features&quot;&gt;
 &lt;div class=&quot;content d--f fd--c ai--c&quot;&gt;
   &lt;h2&gt;Features &amp;amp; Functionality&lt;/h2&gt;
-  &lt;img src=&quot;/media/ruuts__plantio--systemsDiagram.svg&quot; /&gt;
-  &lt;ul class=&quot;h3&quot;&gt;
-  &lt;li&gt;User links PlantIO machine with their free online account&lt;/li&gt;
-  &lt;li&gt;User can select varying levels of automation on their recipe&lt;/li&gt;
-  &lt;li&gt;User can check the realtime status of their plant via the status page&lt;/li&gt;
-  &lt;li&gt;User can access the PWA through any browser&lt;/li&gt;
+  &lt;img src=&quot;https://plantio.ruuts.co.uk/journal/media/ruuts__plantio--systemsDiagram.svg&quot; /&gt;
+  &lt;p class=&quot;as--fs&quot;&gt;&lt;em&gt;&lt;strong&gt;Above:&lt;/strong&gt; systems diagram showing the interactions between the PWA, the cloud-based recipe database, the Arduino controlled Plant&lt;strong&gt;IO&lt;/strong&gt; system and the plant.&lt;/em&gt;&lt;/p&gt;
+  &lt;ul class=&quot;big&quot;&gt;
+  &lt;li&gt;User links PlantIO machine with their free online account.&lt;/li&gt;
+  &lt;li&gt;User can select varying levels of automation on their recipe.&lt;/li&gt;
+  &lt;li&gt;User adds a seed to the system and waits for it to germinat.e&lt;/li&gt;
+  &lt;li&gt;Plant&lt;strong&gt;IO&lt;/strong&gt; tells the user when it's time to thin out the seeds.&lt;/li&gt;
+  &lt;li&gt;From here, the system has full control of all growing conditions, regulating lighting, temperature, and nutrient feed according to the selected recipe.&lt;/li&gt;
+  &lt;li&gt;User can check the realtime status of their plant via the status page.&lt;/li&gt;
+  &lt;li&gt;The user can access a status page 24 hours a day from any browser enabled device, providing reporting of water consumption, lighting, feeding and temperature patterns, and error notifications.&lt;/li&gt;
+  &lt;li&gt;Plant&lt;strong&gt;IO&lt;/strong&gt; tells the user when it's time harvest their plant.&lt;/li&gt;
   &lt;/ul&gt;
-    &lt;img src=&quot;/media/ruuts__plantio--behaviourPatterns.svg&quot; /&gt;
-  &lt;p&gt;
-    After germination, user plants into system &amp;amp; connects to their account.
-
-    From here, the system has full control of all growing conditions, regulating lighting, temperature, and nutrient feed according to the selected recipe.
-
-    The user can access a status page 24 hours a day from any browser enabled device, providing reporting of water consumption, lighting, feeding and temperature patterns, and error notifications.
-  &lt;/p&gt;
+    &lt;img src=&quot;https://plantio.ruuts.co.uk/journal/media/ruuts__plantio--behaviourPatterns.svg&quot; /&gt;
+    &lt;p class=&quot;as--fs&quot;&gt;&lt;em&gt;&lt;strong&gt;Above:&lt;/strong&gt; A typical behaviour pattern diagram showing actions over time. The atomiser nozzle feeds the plant in regulated short bursts. The LED lighting system is on/off according to the plants optimal day/night cycle. The heater maintains the ideal temperature with little variation.&lt;/em&gt;&lt;/p&gt;
   &lt;/div&gt;
 &lt;/section&gt;
 
-&lt;section&gt;
-&lt;div class=&quot;content d--f fd--c ai--c&quot;&gt;
+&lt;section id=&quot;justifications&quot;&gt;
+&lt;div class=&quot;content d--f fd--c ai--fs&quot;&gt;
 &lt;h2&gt;Theoretical Justifications&lt;/h2&gt;
-&lt;ul class=&quot;h3&quot;&gt;
-&lt;li&gt;Grow perfect food, automatically.&lt;/li&gt;
-&lt;li&gt;¬£800 Million UK Market Size&lt;span class=&quot;reference&quot;&gt; [ 1 ]&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Autumn 2020 launch&lt;span class=&quot;reference&quot;&gt; [ 2 ]&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Most advanced, automated consumer system available.&lt;span class=&quot;reference&quot;&gt; [ 3 ]&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Ruuts have expertise in horticulture, electronics engineering and product design.&lt;/li&gt;
-&lt;li&gt;Progressive Web Application is platform independent with instant updates from a single codebase.&lt;/li&gt;
-&lt;li&gt;Affordable, bleeding edge modular technology&lt;span class=&quot;reference&quot;&gt; [ 4 ]&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-  &lt;p&gt;
-    &lt;!-- value proposition --&gt;
-    PlantIO is the smartest way to grow. One tap and your plant is automatically grown. Our recipes know exactly how to optimise the conditions for perfect growth. All you have to do is wait.
-    &lt;!-- market size --&gt;
-    Based on both top-down and bottom up calculations; briefly a ¬£200 individual spend level in a demongraphic 4 million users strong.
-    &lt;!-- market timing  --&gt;
-    27 month product development plan with launch during the traditionally weak growing season of Autumn. A staggered launch plan will be implemented allowing for the penetration of additional markets as the product gains traction.
-    &lt;!-- market positioning --&gt;
-    No other company provides a practical home solution that manages all aspects of growing.
-    ENVIRONMENNT / LIFESTYLE
-    &lt;!-- company goals --&gt;
-    &lt;!-- risk profile --&gt;
-    &lt;!-- competencies  --&gt;
-    &lt;!-- software technology --&gt;
-    PWA technology opens up the market to anybody with an internet connection. Javascript application communicating with arduino ran components using Johnny-Five, and Sockets.io real-time communication libraries.
-    &lt;!-- hardware technology --&gt;
-    Aeroponics provides incredibly efficiency with optimal control, reducing land usage by 99% and water usage by 98% when compared to traditional farming methods.
-  &lt;/p&gt;
+&lt;h3&gt;Value Proposition&lt;/h3&gt;
+&lt;p class=&quot;big&quot;&gt;Grow food, automatically.&lt;/p&gt;
+&lt;p&gt;Plant&lt;strong&gt;IO&lt;/strong&gt; is the smartest way to grow. One tap and your plant is automatically grown. Our recipes know exactly how to optimise the conditions for perfect growth. All you have to do is wait.&lt;/p&gt;
+
+&lt;h3&gt;market size&lt;/h3&gt;
+&lt;p class=&quot;big&quot;&gt;¬£800 Million UK Market Size.&lt;/p&gt;
+&lt;p&gt;Based on both top-down and bottom-up calculations; briefly a ¬£200 individual spend level in a demographic 4 million users strong. &lt;a href=&quot;#ref&quot; class=&quot;reference&quot;&gt; [ 1 ]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;market timing&lt;/h3&gt;
+&lt;p class=&quot;big&quot;&gt;Autumn 2020 launch into most affected growing season.&lt;/p&gt;
+&lt;p&gt;27 month product development plan with launch during the traditionally weak growing season of Autumn. A staggered launch plan will be implemented allowing for the penetration of additional markets as the product gains traction.&lt;a href=&quot;#ref&quot; class=&quot;reference&quot;&gt; [ 2 ]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;market positioning&lt;/h3&gt;
+&lt;p class=&quot;big&quot;&gt;Most advanced, automated consumer system available.&lt;/p&gt;
+&lt;p&gt;No other company provides a practical home solution that manages all aspects of growing.&lt;a href=&quot;#ref&quot; class=&quot;reference&quot;&gt; [ 3 ]&lt;/a&gt; Aeroponics provides incredible efficiency with optimal control, reducing land usage by 99% and water usage by 98% when compared to traditional farming methods.&lt;a href=&quot;#ref&quot; class=&quot;reference&quot;&gt; [ 4 ]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;company goals&lt;/h3&gt;
+&lt;p class=&quot;big&quot;&gt;To improve the availability of quality, organic food worldwide and reduce the environmental impact of growing.&lt;/p&gt;
+&lt;p&gt;The overarching aim for Ruuts is to make a meaningful contribution to the human race in terms of our environment, sustainability, and the eradication of poverty. Our goal is to have global access to our systems, providing free food in the poorest of neighbourhoods through community growing programs.&lt;/p&gt;
+
+&lt;h3&gt;risk profile&lt;/h3&gt;
+&lt;p class=&quot;big&quot;&gt;Changing consumer habits is the biggest barrier.&lt;/p&gt;
+&lt;p&gt;Once users begin to routinely use the Plant&lt;strong&gt;IO&lt;/strong&gt; system, the benefits will escalate and adoption of the system will accelerate, enabling us to push into the second stage of our business plan&amp;mdash;the SMB market.&lt;/p&gt;
+
+&lt;h3&gt;competencies&lt;/h3&gt;
+&lt;p class=&quot;big&quot;&gt;Ruuts have expertise in horticulture, electronics engineering and product design.&lt;/p&gt;
+&lt;p&gt;We combine the perfect mix of an experienced product designer in myself, with over 15 years of professional design experience, a horticultural expert in Brett Bartlett with a vast knowledge of plant growth characteristics and an aeroponic research program behind him, and electronics engineer Ashley Banner who specializes in designing electronic systems with off-the-shelf components to create bespoke products.&lt;/p&gt;
+
+&lt;h3&gt;software technology&lt;/h3&gt;
+&lt;p class=&quot;big&quot;&gt;A Progressive Web Application (PWA) is platform independent with instant updates from a single code base.&lt;/p&gt;
+&lt;p&gt;PWA technology opens up the market to anybody with an Internet connection. JavaScript application communicating with Arduino ran components using Johnny-Five, and Sockets.io real-time communication libraries.&lt;/p&gt;
   &lt;/div&gt;
 &lt;/section&gt;
 
@@ -999,122 +1018,118 @@ The competitor analysis has shown that the PlantIO system provides multiple USP‚
   &lt;div class=&quot;content d--f fd--c ai--c&quot;&gt;
 &lt;h2&gt;Results of User Testing&lt;/h2&gt;
 &lt;/div&gt;
-      &lt;div class=&quot;d--f jc--sb&quot;&gt;
-        &lt;div&gt;
+      &lt;div class=&quot;d--f jc--sb fd--r&quot;&gt;
+        &lt;div class=&quot;d--f fd--c jc--c ai--c&quot;&gt;
           &lt;h3&gt;lack of time&lt;/h3&gt;
-          &lt;h3&gt;59%&lt;span class=&quot;reference&quot;&gt; [ 5 ]&lt;/span&gt;&lt;/h3&gt;
+          &lt;p class=&quot;big&quot;&gt;59% &lt;a href=&quot;#ref&quot;&gt;[ 5 ]&lt;/a&gt;&lt;/p&gt;
         &lt;/div&gt;
-        &lt;div&gt;
+        &lt;div class=&quot;d--f fd--c jc--c ai--c&quot;&gt;
           &lt;h3&gt;lack of room&lt;/h3&gt;
-          &lt;h4&gt;61%&lt;span class=&quot;reference&quot;&gt; [ 5 ]&lt;/span&gt;&lt;/h4&gt;
+          &lt;p class=&quot;big&quot;&gt;61% &lt;a href=&quot;#ref&quot;&gt;[ 5 ]&lt;/a&gt;&lt;/p&gt;
         &lt;/div&gt;
-        &lt;div&gt;
+        &lt;div class=&quot;d--f fd--c jc--c ai--c&quot;&gt;
           &lt;h3&gt;quality is vitally important&lt;/h3&gt;
-          &lt;h4&gt;68%&lt;span class=&quot;reference&quot;&gt; [ 5 ]&lt;/span&gt;&lt;/h4&gt;
+          &lt;p class=&quot;big&quot;&gt;68% &lt;a href=&quot;#ref&quot;&gt;[ 5 ]&lt;/a&gt;&lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
 
 
     &lt;div class=&quot;d--f fd--r jc--c&quot; style=&quot;background: rgba(91,80,149,1); margin-bottom: 1rem;&quot;&gt;
-        &lt;img class=&quot;as--c&quot; src=&quot;/media/userResearch__Jones-peppers--2018-09-24.jpeg&quot; style=&quot;max-width: 50%; margin-bottom: 0;&quot; /&gt;
+        &lt;img class=&quot;half as--c&quot; style=&quot;margin-bottom: 0&quot; src=&quot;https://plantio.ruuts.co.uk/journal/media/userResearch__Jones-peppers--2018-09-24.jpeg&quot; /&gt;
       &lt;div class=&quot;d--f fd--c jc--c ta--c ai--fe p--2&quot;&gt;
         &lt;blockquote style=&quot;color: white;&quot;&gt;
           &quot;...we will persist but perhaps a simpler solution to assist growing our own food would help make it easier for a family.&quot;&lt;/blockquote&gt;
-        &lt;cite style=&quot;color: white;&quot;&gt; - Kevin Jones, 34 &lt;a href=&quot;#ref&quot;&gt;[ 6 ]&lt;/a&gt;&lt;/cite&gt;
+        &lt;cite style=&quot;color: white;&quot;&gt; - Kevin Jones, 34 &lt;a style=&quot;color: white; opacity: 0.75&quot; href=&quot;#ref&quot;&gt;[ 6 ]&lt;/a&gt;&lt;/cite&gt;
       &lt;/div&gt;
     &lt;/div&gt;
 
     &lt;div class=&quot;d--f fd--c jc--sb&quot;&gt;
       &lt;h3&gt;User research plan&lt;/h3&gt;
-      &lt;div class=&quot;d--f jc--sb&quot;&gt;
-        &lt;h4 class=&quot;quarter&quot;&gt;Interview home gardeners&lt;/h4&gt;
-        &lt;h4 class=&quot;quarter&quot;&gt;Interview allotment owners&lt;/h4&gt;
-        &lt;h4 class=&quot;quarter&quot;&gt;Analyse personal home growing tests&lt;/h4&gt;
-        &lt;h4 class=&quot;quarter&quot;&gt;Film users with paper prototype&lt;/h4&gt;
+      &lt;div class=&quot;d--f jc--sb fw--w&quot;&gt;
+        &lt;p class=&quot;big half&quot;&gt;Interview home gardeners&lt;/p&gt;
+        &lt;p class=&quot;big half&quot;&gt;Interview allotment owners&lt;/p&gt;
+        &lt;p class=&quot;big half&quot;&gt;Analyse personal home growing tests&lt;/p&gt;
+        &lt;p class=&quot;big half&quot;&gt;Film users with paper prototype&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
-  &amp;lt;/div&amp;gt;
-  &lt;p&gt;
-    We took the opportunity to experience growing our own food as a family. It's been fun introducing the process to our 2 year old daughter who really enjoyed helping us start to grow our own food and has learnt about how food can be produced
-    and what part nature plays in the process.
-
-    The instructions with the kit we used were a bit vague and missed a few vital elements (such as water occasionally) but with a little bit of improvisation and nature finally taking its course, we managed to start to grow some aubergines,
-    peppers and green beans.
-
-    &quot;It has also encouraged us to grow our own tomatoes which took about 4-5 weeks before we could use them in a home made lasagne and vegetarian pizza (the Tomatoes tasted noticeably stronger and fresher). It is taking a fair bit of time for
-    the aubergines, peppers and greenbeans to grow and we will persist but perhaps a simpler solution to assist growing our own food would help make it easier for a family.&quot;
-
-    We will certainly try some new methods in the future and are now all excited at the prospects of growing our own food, we are also happy it has caught the interest of our daughter and let us understand more about food as a family as we
-    interact together.
-  &lt;/p&gt;
 &lt;/section&gt;
 
-&lt;section&gt;
+&lt;section id=&quot;shortcomings&quot;&gt;
   &lt;div class=&quot;content d--f fd--c ai--c list&quot;&gt;
   &lt;h2&gt;Shortcomings of Design&lt;/h2&gt;
-  &lt;ul class=&quot;h3&quot;&gt;
-    &lt;li&gt;Nozzle expensive for single use&lt;/li&gt;
-    &lt;li&gt;High initial setup costs&lt;/li&gt;
-    &lt;li&gt;Difficult to engage users early on&lt;/li&gt;
-    &lt;li&gt;Initial germination stage needs consideration&lt;/li&gt;
-    &lt;li&gt;Difficult to balance engagement with automation&lt;/li&gt;
-    &lt;li&gt;Large knowledge base required for recipes&lt;/li&gt;
-    &lt;li&gt;Difficult to encourage data logging for recipe development&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;/div&gt;
+
+    &lt;h3&gt;Nozzle expensive for single use&lt;/h3&gt;
+    &lt;p class=&quot;big&quot;&gt;The design will have to be modular to enable to use of less expensive alternatives such a low-pressure nozzles, bubbling atomizers or even basic D.I.Y. irrigation hoses.&lt;/p&gt;
+
+    &lt;h3&gt;Difficult to engage users early on&lt;/h3&gt;
+    &lt;p class=&quot;big&quot;&gt;The first harvest requires patience&amp;mdash;some form of distraction may be required to keep the user engaged until they reap the benefits of their first harvest.&lt;/p&gt;
+
+    &lt;h3&gt;Initial germination stage needs consideration&lt;/h3&gt;
+    &lt;p class=&quot;big&quot;&gt;User interaction is required at this point to ensure a successful harvest&amp;mdash;how can we minimise risk here?&lt;/p&gt;
+
+    &lt;h3&gt;Difficult to balance engagement with automation&lt;/h3&gt;
+    &lt;p class=&quot;big&quot;&gt;Fully automatic recipes by their very nature have a huge disconnect&amp;mdash;how can we maintain interaction and ownership without creating burden or distraction?&lt;/p&gt;
+
+    &lt;h3&gt;Large knowledge base required for recipes&lt;/h3&gt;
+    &lt;p class=&quot;big&quot;&gt;Initial recipes can be created from our resident expert Brett, however development trials will be required to create efficient recipes for all kinds of plants.&lt;/p&gt;
+
+    &lt;h3&gt;Difficult to encourage data logging for recipe development&lt;/h3&gt;
+    &lt;p class=&quot;big&quot;&gt;In a world of GDPR&amp;mdash;how do we convince the user to provide reporting after a harvest period, including some manual reporting? How can we ensure quality data?&lt;/p&gt;
+
+&lt;/div&gt;
 &lt;/section&gt;
 
-&lt;section&gt;
+&lt;section id=&quot;expansion&quot;&gt;
 
-  &lt;div class=&quot;content d--f fd--r fw--w ai--c&quot;&gt;
+  &lt;div class=&quot;content d--f fd--r fw--w jc--sb ai--sb ta--c&quot;&gt;
   &lt;h2&gt;Expansion &amp;mdash; what else is possible?&lt;/h2&gt;
     &lt;div class=&quot;quarter box&quot;&gt;
       &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-sun&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-      &lt;p&gt;Exclusively solar powered&lt;/p&gt;
+      &lt;p class=&quot;big&quot;&gt;Exclusively solar powered&lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;quarter box&quot;&gt;
       &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-puzzle-piece&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-      &lt;p&gt;Modular expansion&lt;/p&gt;
+      &lt;p class=&quot;big&quot;&gt;Modular expansion&lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;quarter box&quot;&gt;
       &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-paw&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-      &lt;p&gt;Augmented reality&lt;/p&gt;
+      &lt;p class=&quot;big&quot;&gt;Augmented reality&lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;quarter box&quot;&gt;
       &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-clipboard-list&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-      &lt;p&gt;Custom recipes&lt;/p&gt;
+      &lt;p class=&quot;big&quot;&gt;Custom recipes&lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;quarter box&quot;&gt;
       &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-brain&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-      &lt;p&gt;Artificial Intellgience&lt;/p&gt;
+      &lt;p class=&quot;big&quot;&gt;Artificial Intelligence&lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;quarter box&quot;&gt;
       &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-balance-scale&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-      &lt;p&gt;Scale to business and industry&lt;/p&gt;
+      &lt;p class=&quot;big&quot;&gt;Scale to business and industry&lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;quarter box&quot;&gt;
       &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-globe&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-      &lt;p&gt;Global reach&lt;/p&gt;
+      &lt;p class=&quot;big&quot;&gt;Global reach&lt;/p&gt;
     &lt;/div&gt;
     &lt;div class=&quot;quarter box&quot;&gt;
       &lt;span class=&quot;icon&quot;&gt;&lt;i class=&quot;fas fa-hands-helping&quot;&gt;&lt;/i&gt;&lt;/span&gt;
-      &lt;p&gt;Charity creation&lt;/p&gt;
+      &lt;p class=&quot;big&quot;&gt;Charity creation&lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;p&gt;
-    Rail setup currently under development for larger installation - can work with a modular design.
-
-    Tamagotchi style live display augmented reality side of unit for children.
-
-    Self-improving recipes through AI
+    &lt;ul class=&quot;big&quot;&gt;
+    &lt;li&gt;Rail setup currently under development for larger installation - can work with a modular design.&lt;/li&gt;
+    &lt;li&gt;Tamagotchi style live display augmented reality side of unit for children.&lt;/li&gt;
+    &lt;li&gt;Self-improving recipes through AI&lt;/li&gt;
+    &lt;/ul&gt;
 
   &lt;/p&gt;
 &lt;/section&gt;
 
-&lt;section&gt;
+&lt;section id=&quot;next-steps&quot;&gt;
 &lt;div class=&quot;content d--f fd--c ai--c&quot;&gt;
   &lt;h2&gt;Next Steps in Design Process&lt;/h2&gt;
-  &lt;ul class=&quot;h3&quot;&gt;
+  &lt;ul class=&quot;big&quot;&gt;
     &lt;li&gt;MVP system to monitor a single plant&lt;/li&gt;
     &lt;li&gt;Implement top level aeroponics for a single plant&lt;/li&gt;
     &lt;li&gt;Gradually increase variables &amp;amp; automation with testing&lt;/li&gt;
@@ -1124,43 +1139,43 @@ The competitor analysis has shown that the PlantIO system provides multiple USP‚
   &lt;/div&gt;
 &lt;/section&gt;
 
-&lt;section&gt;
+&lt;section id=&quot;summary&quot;&gt;
   &lt;h2&gt;Summary&lt;/h2&gt;
   &lt;div class=&quot;content d--f fd--c&quot;&gt;
     &lt;div class=&quot;content d--f fd--c jc--sa&quot;&gt;
       &lt;h3&gt;Fully automated home growing with PlantIO from Ruuts&lt;/h3&gt;
       &lt;hr /&gt;
       &lt;div class=&quot;d--f fd--r&quot;&gt;
-        &lt;div class=&quot;third&quot;&gt;
+        &lt;div class=&quot;fb--0 fg--1 p--1&quot;&gt;
           &lt;h3&gt;Big unsaturated market&lt;/h3&gt;
-          &lt;h4&gt;¬£800 Million in the UK alone, truly a global product.&lt;/h4&gt;
+          &lt;p class=&quot;big&quot;&gt;¬£800 Million in the UK alone, truly a global product.&lt;/p&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;third&quot;&gt;
-          &lt;h3&gt;Competititve advantage&lt;/h3&gt;
-          &lt;h4&gt;Multiple USP's places our product firmly ahead of the competition.&lt;/h4&gt;
+        &lt;div class=&quot;fb--0 fg--1 p--1&quot;&gt;
+          &lt;h3&gt;Competitive advantage&lt;/h3&gt;
+          &lt;p class=&quot;big&quot;&gt;Multiple USP's places our product firmly ahead of the competition.&lt;/p&gt;
         &lt;/div&gt;
-        &lt;div class=&quot;third&quot;&gt;
+        &lt;div class=&quot;fb--0 fg--1 p--1&quot;&gt;
           &lt;h3&gt;Raising ¬£250,000 funding&lt;/h3&gt;
-          &lt;h4&gt;for full product development and testing, 3 full-time staff and 1000 launch units.&lt;/h4&gt;
+          &lt;p class=&quot;big&quot;&gt;for full product development and testing, 3 full-time staff and 1000 launch units.&lt;/p&gt;
         &lt;/div&gt;
       &lt;/div&gt;
       &lt;hr /&gt;
       &lt;div&gt;
         &lt;h3&gt;Multi skilled team&lt;/h3&gt;
         &lt;div class=&quot;d--f fd--r&quot;&gt;
-          &lt;div class=&quot;third&quot;&gt;
-            &lt;h4&gt;Phillip Penny&lt;/h4&gt;
-            &lt;p&gt;Product Design&amp;lt;/strong&amp;gt;
+          &lt;div class=&quot;fb--0 fg--1 p--1&quot;&gt;
+            &lt;p class=&quot;big&quot;&gt;Phillip Penny&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Product Design&lt;/strong&gt;
               &lt;br /&gt;&lt;a href=&quot;mailto:phil@ruuts.co.uk&quot;&gt;phil@ruuts.co.uk&lt;/a&gt;&lt;/p&gt;
           &lt;/div&gt;
-          &lt;div class=&quot;third&quot;&gt;
-            &lt;h4&gt;Brett Bartlett&lt;/h4&gt;
-            &lt;p&gt;Horticulture Consultant&amp;lt;/strong&amp;gt;
+          &lt;div class=&quot;fb--0 fg--1 p--1&quot;&gt;
+            &lt;p class=&quot;big&quot;&gt;Brett Bartlett&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Horticulture Consultant&lt;/strong&gt;
               &lt;br /&gt;&lt;a href=&quot;mailto:brett@ruuts.co.uk&quot;&gt;brett@ruuts.co.uk&lt;/a&gt;&lt;/p&gt;
           &lt;/div&gt;
-          &lt;div class=&quot;third&quot;&gt;
-            &lt;h4&gt;Ashley Banner&lt;/h4&gt;
-            &lt;p&gt;Electronics Engineer&amp;lt;/strong&amp;gt;
+          &lt;div class=&quot;fb--0 fg--1 p--1&quot;&gt;
+            &lt;p class=&quot;big&quot;&gt;Ashley Banner&lt;/p&gt;
+            &lt;p&gt;&lt;strong&gt;Electronics Engineer&lt;/strong&gt;
               &lt;br /&gt;&lt;a href=&quot;mailto:ash@ruuts.co.uk&quot;&gt;ash@ruuts.co.uk&lt;/a&gt;&lt;/p&gt;
           &lt;/div&gt;
         &lt;/div&gt;
@@ -1172,7 +1187,7 @@ The competitor analysis has shown that the PlantIO system provides multiple USP‚
 &lt;h2 id=&quot;ref&quot; class=&quot;page-break&quot;&gt;Appendix&lt;/h2&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Based on a bottom up analysis. Approximately 8 million uk users fit the &lt;a href=&quot;https://en.wikipedia.org/wiki/Demography_of_the_United_Kingdom#Age_structure&quot;&gt;persona&lt;a&gt;&lt;/a&gt;, which equates to 4 million couples, placing one unit per
+  &lt;li&gt;Based on a bottom-up analysis. Approximately 8 million uk users fit the &lt;a href=&quot;https://en.wikipedia.org/wiki/Demography_of_the_United_Kingdom#Age_structure&quot;&gt;persona&lt;a&gt;&lt;/a&gt;, which equates to 4 million couples, placing one unit per
  family each with a potential unit spend of ¬£200.&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Approximate timeline of 6 months to MVP in December 2018, a 3 month alpha test, 6 months product development, another 3 month alpha test, 3 months product development, 3 months public beta test, and launch in Autumn 2020.&lt;/li&gt;
   &lt;li&gt;An initial competitor analysis reveals &lt;a href=&quot;https://aerofarms.com/frequently-asked-questions/&quot;&gt;high end systems&lt;/a&gt; aimed squarely at the business and industrial markets; or &lt;a href=&quot;https://eu.clickandgrow.com/products/the-smart-garden-9&quot;&gt;low
@@ -1193,8 +1208,8 @@ It has also encouraged us to grow our own tomatoes which took about 4-5 weeks be
 We will certainly try some new methods in the future and are now all excited at the prospects of growing our own food, we are also happy it has caught the interest of our daughter and let us understand more about food as a family as we interact together.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
         <pubDate>Tue, 17 Jul 2018 13:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fmp/2018/07/17/fmp-proposal.html</link>
-        <guid isPermaLink="true">http://localhost:4000/fmp/2018/07/17/fmp-proposal.html</guid>
+        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/07/17/fmp-proposal.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/07/17/fmp-proposal.html</guid>
         
         
         <category>FMP</category>
@@ -1249,8 +1264,8 @@ We will certainly try some new methods in the future and are now all excited at 
 &lt;/ol&gt;
 </description>
         <pubDate>Mon, 18 Jun 2018 12:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fmp/2018/06/18/fmp-peer-reviewed-papers.html</link>
-        <guid isPermaLink="true">http://localhost:4000/fmp/2018/06/18/fmp-peer-reviewed-papers.html</guid>
+        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/06/18/fmp-peer-reviewed-papers.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/06/18/fmp-peer-reviewed-papers.html</guid>
         
         
         <category>FMP</category>
@@ -1326,8 +1341,8 @@ We will certainly try some new methods in the future and are now all excited at 
 &lt;/ol&gt;
 </description>
         <pubDate>Thu, 14 Jun 2018 12:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fmp/2018/06/14/fmp-competitor-analysis.html</link>
-        <guid isPermaLink="true">http://localhost:4000/fmp/2018/06/14/fmp-competitor-analysis.html</guid>
+        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/06/14/fmp-competitor-analysis.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/06/14/fmp-competitor-analysis.html</guid>
         
         
         <category>FMP</category>
@@ -1379,8 +1394,8 @@ We will certainly try some new methods in the future and are now all excited at 
 &lt;/ol&gt;
 </description>
         <pubDate>Wed, 13 Jun 2018 12:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fmp/2018/06/13/fmp-survey-creation.html</link>
-        <guid isPermaLink="true">http://localhost:4000/fmp/2018/06/13/fmp-survey-creation.html</guid>
+        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/06/13/fmp-survey-creation.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/06/13/fmp-survey-creation.html</guid>
         
         
         <category>FMP</category>
@@ -1432,8 +1447,8 @@ We will certainly try some new methods in the future and are now all excited at 
 &lt;/ol&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 12:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fmp/2018/06/12/fmp-user-focused-research.html</link>
-        <guid isPermaLink="true">http://localhost:4000/fmp/2018/06/12/fmp-user-focused-research.html</guid>
+        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/06/12/fmp-user-focused-research.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/06/12/fmp-user-focused-research.html</guid>
         
         
         <category>FMP</category>
@@ -1485,8 +1500,8 @@ We will certainly try some new methods in the future and are now all excited at 
 &lt;/ol&gt;
 </description>
         <pubDate>Sun, 10 Jun 2018 12:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fmp/2018/06/10/fmp-gui-thoughts.html</link>
-        <guid isPermaLink="true">http://localhost:4000/fmp/2018/06/10/fmp-gui-thoughts.html</guid>
+        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/06/10/fmp-gui-thoughts.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/06/10/fmp-gui-thoughts.html</guid>
         
         
         <category>FMP</category>
@@ -1538,8 +1553,8 @@ We will certainly try some new methods in the future and are now all excited at 
 &lt;/ol&gt;
 </description>
         <pubDate>Sat, 09 Jun 2018 12:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fmp/2018/06/09/fmp-user-engagement.html</link>
-        <guid isPermaLink="true">http://localhost:4000/fmp/2018/06/09/fmp-user-engagement.html</guid>
+        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/06/09/fmp-user-engagement.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/06/09/fmp-user-engagement.html</guid>
         
         
         <category>FMP</category>

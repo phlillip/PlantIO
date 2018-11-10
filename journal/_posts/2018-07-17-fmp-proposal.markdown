@@ -8,33 +8,49 @@ categories: FMP
 ---
 
 
-<section>
+<section id="title">
 <div class="content d--f fd--c jc--c ai--c">
 <h2>Plant<strong>IO</strong></h2>
 <p>A conceptual captology design by Phillip David Penny</p>
-<img src="/media/ruuts__tech.svg" style="height: 50vh;" />
+<img src="{{ "/media/ruuts__tech.svg" | prepend: site.baseurl | prepend: site.url }}" />
 <h3>Project Goal</h3>
-<blockquote><p>“To design a complete food growing system to encourage public growth”</p></blockquote>
+<p class="big">To design a complete food growing system to encourage public growth.</p>
 <h3>Time Limit</h3>
 <p>6 months (1 month invested so far)</p>
 </div>
 </section>
-<section>
-<div class="content d--f fd--c jc--c ai--c">
+
+<section id="overview">
+<div class="content d--f fd--c jc--sb ai--c">
 <h2>Plant<strong>IO</strong></h2>
+<div class="content d--f fd--r">
+<div class="content d--f fd--c">
 <h3>Persuasive Purpose</h3>
-<p>To automate food growth in a global way.</p>
-<img src="/media/ruuts__plantio--screen.png" style="height: 50vh; width: auto;" />
+<ul class="big">
+<li>To automate food growth to such an extent that it allows public growing to become a habit of people's lives with minimal effort.</li>
+<li>To enable global growing to move from the hands of the few to the hands of the many through open source technology.</li>
+<li>To raise awareness about the environmental impact of industrial farming methods.</li>
+</ul>
+</div>
+<img src="{{ "/media/ruuts__plantio--screen.png" | prepend: site.baseurl | prepend: site.url }}" />
+</div>
 </div>
 </section>
-<section>
+
+<section id="user">
 <div class="content d--f fd--c jc--c ai--c">
 <h2>User Description</h2>
 <h3>Millennial Man Mark</h3>
-<img style="width: 100%" src="/media/persona__millennial-man-mark.jpg" />
+<img src="{{ "/media/persona__millennial-man-mark.jpg" | prepend: site.baseurl | prepend: site.url }}" />
+<p class="big">Millennial parents who take a keen interest in their environment and the quality of life for their young family. They are acutely aware of their presence on social media and create classy, inspirational posts that highlight their achievements.</p>
 
-<img style="width: 100%" src="/media/persona__millennial.png" />
-
+<div class="d--f jc--c ai--c" style="position:relative;">
+<img class="half" src="{{ "/media/persona__millennial.png" | prepend: site.baseurl | prepend: site.url }}" />
+<div class="d--f jc--c ai--c" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0;"><a class="button" href="{{ "/media/persona__millennial.png" | prepend: site.baseurl | prepend: site.url }}" download="">Download user persona</a></div>
+</div>
+</div>
+</section>
+<!--
 <section style="display:none">
   <h1>user description: Millenial man Mark.</h1>
   <div class="content d--f fd--c">
@@ -112,7 +128,7 @@ categories: FMP
           <div class="bio">
             <h2>Bio</h2>
             <p>Mark is a professional with a young family and takes a keen interest in food, but does not have the time to grow his own. He has tried in the past but often forgets to water them and cannot grow during the winter months. It
-              infuriates him to have to buy overpriced fruit and vegetables from the supermarket with wsteful packaging. He is keen to become more self-sufficient and educate his duaghter in the same way.</p>
+              infuriates him to have to buy overpriced fruit and vegetables from the supermarket with wasteful packaging. He is keen to become more self-sufficient and educate his daughter in the same way.</p>
           </div>
         </div>
         <div class="end d--f fd--c jc--fs quarter">
@@ -171,54 +187,53 @@ categories: FMP
     </div>
   </div>
 </section>
-</div>
-</section>
+-->
 
 
-<section>
-<div id="storyboard" class="content d--f fd--c ai--c">
+<section id="storyboard">
+<div class="content d--f fd--c ai--c">
   <h2>Storyboard: Winter with The Joneses</h2>
-  <div class="content d--f fd--r fw--w jc--sb m--1">
+  <div class="content d--f fd--r fw--w jc--sb">
 
-    <div class="d--f fd--c m---1">
+    <div class="d--f fd--c half">
       <img src="https://via.placeholder.com/300x200" />
         <!-- Exposition | EMPATHY -->
-        <p>The Jones’ family have a two year old daughter called Grace. Charlotte and Kevin, Grace’s parents, both work full-time and are conscientious people, with a keen interest in environmental issues as well as human health.</p>
+        <p>The Jones family have a two year old daughter called Grace. Charlotte and Kevin, Grace’s parents, both work full-time and are conscientious people, with a keen interest in environmental issues as well as human health.</p>
     </div>
 
-    <div class="d--f fd--c m---1">
+    <div class="d--f fd--c half">
       <img src="https://via.placeholder.com/300x200" />
         <!-- Rising action | FRUSTRATION | Time-->
-        <p>Charlotte tried to grow some strawberries during the summer to teach Grace and provide her favourite fruit, however she didn’t have time to maintain them and they eventually succumbed to pests in the garden,</p>
+        <p>Charlotte tried to grow some strawberries during the summer to teach Grace and provide her favourite fruit, however, she did not have time to maintain them and they eventually succumbed to pests in the garden.</p>
     </div>
-    <div class="d--f fd--c m---1">
+    <div class="d--f fd--c half">
       <img src="https://via.placeholder.com/300x200" />
         <!-- Rising action | SADNESS / Seasonal -->
         <p>Grace wants some strawberries. After eating them all summer, it is now October. Strawberries are not in season in the UK.</p>
     </div>
-    <div class="d--f fd--c m---1">
+    <div class="d--f fd--c half">
       <img src="https://via.placeholder.com/300x200" />
         <!-- Rising action | DISAPPOINTMENT / Quality & locality -->
         <p>Kevin picks some Spanish strawberries from the supermarket on his way home from work. After checking the packs, he finds the best of the bunch which are smaller and blander than those they enjoyed in the summer. Kevin takes a keen
           interest in the environment and shudders at the thought of a truck driving food halfway across Europe.</p>
     </div>
-    <div class="d--f fd--c m---1">
+    <div class="d--f fd--c half">
       <img src="https://via.placeholder.com/300x200" />
         <!-- Climax | HOPE -->
-        <p>Kev invests in the Ruuts Plantio single plant growing system and sets up his free online account.</p>
+        <p>Kevin invests in the Ruuts Plantio single plant growing system and sets up his free online account.</p>
     </div>
 
-    <div class="d--f fd--c m---1">
+    <div class="d--f fd--c half">
       <img src="https://via.placeholder.com/300x200" />
         <!-- Falling Action | EXCITED -->
         <p>After germinating a batch of strawberry seeds in their home, Kevin, Charlotte and Grace transfer them to the Plantio system once they begin to sprout.</p>
     </div>
-    <div class="d--f fd--c m---1">
+    <div class="d--f fd--c half">
       <img src="https://via.placeholder.com/300x200" />
         <!-- Falling Action | RELAXED -->
         <p>The Jones family then go on with their everyday lives, checking in on the plant daily via the app to show Grace how it is doing.</p>
     </div>
-    <div class="d--f fd--c m---1">
+    <div class="d--f fd--c half">
       <img src="https://via.placeholder.com/300x200" />
         <!-- Denouement (Conclusion) | EMPATHY -->
         <p>The Plantio system tells the family when the fruit is ready to harvest and suggests they begin to germinate a new batch of seeds ready to go straight into the system.</p>
@@ -227,73 +242,77 @@ categories: FMP
 </div>
 </section>
 
-<section>
+<section id="prototype">
 <div class="content d--f fd--c ai--c">
 <h2>Prototype of PlantIO</h2>
-<div class="content d--f fd--r jc--sb m--1">
-
-    <iframe class="m---1" title="Prototype of PlantIO" src="https://marvelapp.com/18487756/screen/45728857">
-    </iframe>
-    <div class="m---1" style="max-width: calc(100% - 2em); margin-left: 2em;">
-      <img src="/media/prototype__cardboard.jpg" />
+<p class="big">The user can access the status of their plant at any point using the Plant<strong>IO</strong> app. A simple push button pairing process connects their system to their account.</p>
+<div class="content d--f fd--r jc--sb">
+    <div class="prototype-img" >
+      <img src="{{ "/media/prototype__cardboard.jpg" | prepend: site.baseurl | prepend: site.url }}" />
       <p><em><strong>Above:</strong></em> cardboard prototype to enable the user to visualise the process.<br />
-        <em><strong>Left:</strong></em> interactive paper prototype <a href="https://marvelapp.com/18487756/screen/45728857">(original)</a>.</p>
+        <em><strong><span class="desktop-only">Right:</span><span class="mobile-only">Below:</span></strong></em> interactive paper prototype <a href="https://marvelapp.com/18487756/screen/45728857">(link to original)</a>.</p>
         </div>
+        <iframe class="" title="Prototype of PlantIO" src="https://marvelapp.com/18487756/screen/45728857">
+        </iframe>
   </div>
+  <p class="big">The user then adds a seed to the system, waits for it to germinate, thins out unwanted seeds, then simply waits for their harvest.</p>
   </div>
 </section>
 
-<section>
+<section id="features">
 <div class="content d--f fd--c ai--c">
   <h2>Features & Functionality</h2>
-  <img src="/media/ruuts__plantio--systemsDiagram.svg" />
-  <ul class="h3">
-  <li>User links PlantIO machine with their free online account</li>
-  <li>User can select varying levels of automation on their recipe</li>
-  <li>User can check the realtime status of their plant via the status page</li>
-  <li>User can access the PWA through any browser</li>
+  <img src="{{ "/media/ruuts__plantio--systemsDiagram.svg" | prepend: site.baseurl | prepend: site.url }}" />
+  <p class="as--fs"><em><strong>Above:</strong> systems diagram showing the interactions between the PWA, the cloud-based recipe database, the Arduino controlled Plant<strong>IO</strong> system and the plant.</em></p>
+  <ul class="big">
+  <li>User links PlantIO machine with their free online account.</li>
+  <li>User can select varying levels of automation on their recipe.</li>
+  <li>User adds a seed to the system and waits for it to germinat.e</li>
+  <li>Plant<strong>IO</strong> tells the user when it's time to thin out the seeds.</li>
+  <li>From here, the system has full control of all growing conditions, regulating lighting, temperature, and nutrient feed according to the selected recipe.</li>
+  <li>User can check the realtime status of their plant via the status page.</li>
+  <li>The user can access a status page 24 hours a day from any browser enabled device, providing reporting of water consumption, lighting, feeding and temperature patterns, and error notifications.</li>
+  <li>Plant<strong>IO</strong> tells the user when it's time harvest their plant.</li>
   </ul>
-    <img src="/media/ruuts__plantio--behaviourPatterns.svg" />
-  <p>
-    After germination, user plants into system & connects to their account.
-
-    From here, the system has full control of all growing conditions, regulating lighting, temperature, and nutrient feed according to the selected recipe.
-
-    The user can access a status page 24 hours a day from any browser enabled device, providing reporting of water consumption, lighting, feeding and temperature patterns, and error notifications.
-  </p>
+    <img src="{{ "/media/ruuts__plantio--behaviourPatterns.svg" | prepend: site.baseurl | prepend: site.url }}" />
+    <p class="as--fs"><em><strong>Above:</strong> A typical behaviour pattern diagram showing actions over time. The atomiser nozzle feeds the plant in regulated short bursts. The LED lighting system is on/off according to the plants optimal day/night cycle. The heater maintains the ideal temperature with little variation.</em></p>
   </div>
 </section>
 
-<section>
-<div class="content d--f fd--c ai--c">
+<section id="justifications">
+<div class="content d--f fd--c ai--fs">
 <h2>Theoretical Justifications</h2>
-<ul class="h3">
-<li>Grow perfect food, automatically.</li>
-<li>£800 Million UK Market Size<span class="reference"> [ 1 ]</span></li>
-<li>Autumn 2020 launch<span class="reference"> [ 2 ]</span></li>
-<li>Most advanced, automated consumer system available.<span class="reference"> [ 3 ]</span></li>
-<li>Ruuts have expertise in horticulture, electronics engineering and product design.</li>
-<li>Progressive Web Application is platform independent with instant updates from a single codebase.</li>
-<li>Affordable, bleeding edge modular technology<span class="reference"> [ 4 ]</span></li>
-</ul>
-  <p>
-    <!-- value proposition -->
-    PlantIO is the smartest way to grow. One tap and your plant is automatically grown. Our recipes know exactly how to optimise the conditions for perfect growth. All you have to do is wait.
-    <!-- market size -->
-    Based on both top-down and bottom up calculations; briefly a £200 individual spend level in a demongraphic 4 million users strong.
-    <!-- market timing  -->
-    27 month product development plan with launch during the traditionally weak growing season of Autumn. A staggered launch plan will be implemented allowing for the penetration of additional markets as the product gains traction.
-    <!-- market positioning -->
-    No other company provides a practical home solution that manages all aspects of growing.
-    ENVIRONMENNT / LIFESTYLE
-    <!-- company goals -->
-    <!-- risk profile -->
-    <!-- competencies  -->
-    <!-- software technology -->
-    PWA technology opens up the market to anybody with an internet connection. Javascript application communicating with arduino ran components using Johnny-Five, and Sockets.io real-time communication libraries.
-    <!-- hardware technology -->
-    Aeroponics provides incredibly efficiency with optimal control, reducing land usage by 99% and water usage by 98% when compared to traditional farming methods.
-  </p>
+<h3>Value Proposition</h3>
+<p class="big">Grow food, automatically.</p>
+<p>Plant<strong>IO</strong> is the smartest way to grow. One tap and your plant is automatically grown. Our recipes know exactly how to optimise the conditions for perfect growth. All you have to do is wait.</p>
+
+<h3>market size</h3>
+<p class="big">£800 Million UK Market Size.</p>
+<p>Based on both top-down and bottom-up calculations; briefly a £200 individual spend level in a demographic 4 million users strong. <a href="#ref" class="reference"> [ 1 ]</a></p>
+
+<h3>market timing</h3>
+<p class="big">Autumn 2020 launch into most affected growing season.</p>
+<p>27 month product development plan with launch during the traditionally weak growing season of Autumn. A staggered launch plan will be implemented allowing for the penetration of additional markets as the product gains traction.<a href="#ref" class="reference"> [ 2 ]</a></p>
+
+<h3>market positioning</h3>
+<p class="big">Most advanced, automated consumer system available.</p>
+<p>No other company provides a practical home solution that manages all aspects of growing.<a href="#ref" class="reference"> [ 3 ]</a> Aeroponics provides incredible efficiency with optimal control, reducing land usage by 99% and water usage by 98% when compared to traditional farming methods.<a href="#ref" class="reference"> [ 4 ]</a></p>
+
+<h3>company goals</h3>
+<p class="big">To improve the availability of quality, organic food worldwide and reduce the environmental impact of growing.</p>
+<p>The overarching aim for Ruuts is to make a meaningful contribution to the human race in terms of our environment, sustainability, and the eradication of poverty. Our goal is to have global access to our systems, providing free food in the poorest of neighbourhoods through community growing programs.</p>
+
+<h3>risk profile</h3>
+<p class="big">Changing consumer habits is the biggest barrier.</p>
+<p>Once users begin to routinely use the Plant<strong>IO</strong> system, the benefits will escalate and adoption of the system will accelerate, enabling us to push into the second stage of our business plan&mdash;the SMB market.</p>
+
+<h3>competencies</h3>
+<p class="big">Ruuts have expertise in horticulture, electronics engineering and product design.</p>
+<p>We combine the perfect mix of an experienced product designer in myself, with over 15 years of professional design experience, a horticultural expert in Brett Bartlett with a vast knowledge of plant growth characteristics and an aeroponic research program behind him, and electronics engineer Ashley Banner who specializes in designing electronic systems with off-the-shelf components to create bespoke products.</p>
+
+<h3>software technology</h3>
+<p class="big">A Progressive Web Application (PWA) is platform independent with instant updates from a single code base.</p>
+<p>PWA technology opens up the market to anybody with an Internet connection. JavaScript application communicating with Arduino ran components using Johnny-Five, and Sockets.io real-time communication libraries.</p>
   </div>
 </section>
 
@@ -302,122 +321,118 @@ categories: FMP
   <div class="content d--f fd--c ai--c">
 <h2>Results of User Testing</h2>
 </div>
-      <div class="d--f jc--sb">
-        <div>
+      <div class="d--f jc--sb fd--r">
+        <div class="d--f fd--c jc--c ai--c">
           <h3>lack of time</h3>
-          <h3>59%<span class="reference"> [ 5 ]</span></h3>
+          <p class="big">59% <a href="#ref">[ 5 ]</a></p>
         </div>
-        <div>
+        <div class="d--f fd--c jc--c ai--c">
           <h3>lack of room</h3>
-          <h4>61%<span class="reference"> [ 5 ]</span></h4>
+          <p class="big">61% <a href="#ref">[ 5 ]</a></p>
         </div>
-        <div>
+        <div class="d--f fd--c jc--c ai--c">
           <h3>quality is vitally important</h3>
-          <h4>68%<span class="reference"> [ 5 ]</span></h4>
+          <p class="big">68% <a href="#ref">[ 5 ]</a></p>
         </div>
       </div>
 
 
     <div class="d--f fd--r jc--c" style="background: rgba(91,80,149,1); margin-bottom: 1rem;">
-        <img class="as--c" src="/media/userResearch__Jones-peppers--2018-09-24.jpeg" style="max-width: 50%; margin-bottom: 0;" />
+        <img class="half as--c" style="margin-bottom: 0" src="{{ "/media/userResearch__Jones-peppers--2018-09-24.jpeg" | prepend: site.baseurl | prepend: site.url }}" />
       <div class="d--f fd--c jc--c ta--c ai--fe p--2">
         <blockquote style="color: white;">
           "...we will persist but perhaps a simpler solution to assist growing our own food would help make it easier for a family."</blockquote>
-        <cite style="color: white;"> - Kevin Jones, 34 <a href="#ref">[ 6 ]</a></cite>
+        <cite style="color: white;"> - Kevin Jones, 34 <a style="color: white; opacity: 0.75" href="#ref">[ 6 ]</a></cite>
       </div>
     </div>
 
     <div class="d--f fd--c jc--sb">
       <h3>User research plan</h3>
-      <div class="d--f jc--sb">
-        <h4 class="quarter">Interview home gardeners</h4>
-        <h4 class="quarter">Interview allotment owners</h4>
-        <h4 class="quarter">Analyse personal home growing tests</h4>
-        <h4 class="quarter">Film users with paper prototype</h4>
+      <div class="d--f jc--sb fw--w">
+        <p class="big half">Interview home gardeners</p>
+        <p class="big half">Interview allotment owners</p>
+        <p class="big half">Analyse personal home growing tests</p>
+        <p class="big half">Film users with paper prototype</p>
       </div>
     </div>
-  </div>
-  <p>
-    We took the opportunity to experience growing our own food as a family. It's been fun introducing the process to our 2 year old daughter who really enjoyed helping us start to grow our own food and has learnt about how food can be produced
-    and what part nature plays in the process.
-
-    The instructions with the kit we used were a bit vague and missed a few vital elements (such as water occasionally) but with a little bit of improvisation and nature finally taking its course, we managed to start to grow some aubergines,
-    peppers and green beans.
-
-    "It has also encouraged us to grow our own tomatoes which took about 4-5 weeks before we could use them in a home made lasagne and vegetarian pizza (the Tomatoes tasted noticeably stronger and fresher). It is taking a fair bit of time for
-    the aubergines, peppers and greenbeans to grow and we will persist but perhaps a simpler solution to assist growing our own food would help make it easier for a family."
-
-    We will certainly try some new methods in the future and are now all excited at the prospects of growing our own food, we are also happy it has caught the interest of our daughter and let us understand more about food as a family as we
-    interact together.
-  </p>
 </section>
 
-<section>
+<section id="shortcomings">
   <div class="content d--f fd--c ai--c list">
   <h2>Shortcomings of Design</h2>
-  <ul class="h3">
-    <li>Nozzle expensive for single use</li>
-    <li>High initial setup costs</li>
-    <li>Difficult to engage users early on</li>
-    <li>Initial germination stage needs consideration</li>
-    <li>Difficult to balance engagement with automation</li>
-    <li>Large knowledge base required for recipes</li>
-    <li>Difficult to encourage data logging for recipe development</li>
-    </ul>
-    </div>
+
+    <h3>Nozzle expensive for single use</h3>
+    <p class="big">The design will have to be modular to enable to use of less expensive alternatives such a low-pressure nozzles, bubbling atomizers or even basic D.I.Y. irrigation hoses.</p>
+
+    <h3>Difficult to engage users early on</h3>
+    <p class="big">The first harvest requires patience&mdash;some form of distraction may be required to keep the user engaged until they reap the benefits of their first harvest.</p>
+
+    <h3>Initial germination stage needs consideration</h3>
+    <p class="big">User interaction is required at this point to ensure a successful harvest&mdash;how can we minimise risk here?</p>
+
+    <h3>Difficult to balance engagement with automation</h3>
+    <p class="big">Fully automatic recipes by their very nature have a huge disconnect&mdash;how can we maintain interaction and ownership without creating burden or distraction?</p>
+
+    <h3>Large knowledge base required for recipes</h3>
+    <p class="big">Initial recipes can be created from our resident expert Brett, however development trials will be required to create efficient recipes for all kinds of plants.</p>
+
+    <h3>Difficult to encourage data logging for recipe development</h3>
+    <p class="big">In a world of GDPR&mdash;how do we convince the user to provide reporting after a harvest period, including some manual reporting? How can we ensure quality data?</p>
+
+</div>
 </section>
 
-<section>
+<section id="expansion">
 
-  <div class="content d--f fd--r fw--w ai--c">
+  <div class="content d--f fd--r fw--w jc--sb ai--sb ta--c">
   <h2>Expansion &mdash; what else is possible?</h2>
     <div class="quarter box">
       <span class="icon"><i class="fas fa-sun"></i></span>
-      <p>Exclusively solar powered</p>
+      <p class="big">Exclusively solar powered</p>
     </div>
     <div class="quarter box">
       <span class="icon"><i class="fas fa-puzzle-piece"></i></span>
-      <p>Modular expansion</p>
+      <p class="big">Modular expansion</p>
     </div>
     <div class="quarter box">
       <span class="icon"><i class="fas fa-paw"></i></span>
-      <p>Augmented reality</p>
+      <p class="big">Augmented reality</p>
     </div>
     <div class="quarter box">
       <span class="icon"><i class="fas fa-clipboard-list"></i></span>
-      <p>Custom recipes</p>
+      <p class="big">Custom recipes</p>
     </div>
     <div class="quarter box">
       <span class="icon"><i class="fas fa-brain"></i></span>
-      <p>Artificial Intellgience</p>
+      <p class="big">Artificial Intelligence</p>
     </div>
     <div class="quarter box">
       <span class="icon"><i class="fas fa-balance-scale"></i></span>
-      <p>Scale to business and industry</p>
+      <p class="big">Scale to business and industry</p>
     </div>
     <div class="quarter box">
       <span class="icon"><i class="fas fa-globe"></i></span>
-      <p>Global reach</p>
+      <p class="big">Global reach</p>
     </div>
     <div class="quarter box">
       <span class="icon"><i class="fas fa-hands-helping"></i></span>
-      <p>Charity creation</p>
+      <p class="big">Charity creation</p>
     </div>
   </div>
   <p>
-    Rail setup currently under development for larger installation - can work with a modular design.
-
-    Tamagotchi style live display augmented reality side of unit for children.
-
-    Self-improving recipes through AI
+    <ul class="big">
+    <li>Rail setup currently under development for larger installation - can work with a modular design.</li>
+    <li>Tamagotchi style live display augmented reality side of unit for children.</li>
+    <li>Self-improving recipes through AI</li>
+    </ul>
 
   </p>
 </section>
 
-<section>
+<section id="next-steps">
 <div class="content d--f fd--c ai--c">
   <h2>Next Steps in Design Process</h2>
-  <ul class="h3">
+  <ul class="big">
     <li>MVP system to monitor a single plant</li>
     <li>Implement top level aeroponics for a single plant</li>
     <li>Gradually increase variables & automation with testing</li>
@@ -427,43 +442,43 @@ categories: FMP
   </div>
 </section>
 
-<section>
+<section id="summary">
   <h2>Summary</h2>
   <div class="content d--f fd--c">
     <div class="content d--f fd--c jc--sa">
       <h3>Fully automated home growing with PlantIO from Ruuts</h3>
       <hr>
       <div class="d--f fd--r">
-        <div class="third">
+        <div class="fb--0 fg--1 p--1">
           <h3>Big unsaturated market</h3>
-          <h4>£800 Million in the UK alone, truly a global product.</h4>
+          <p class="big">£800 Million in the UK alone, truly a global product.</p>
         </div>
-        <div class="third">
-          <h3>Competititve advantage</h3>
-          <h4>Multiple USP's places our product firmly ahead of the competition.</h4>
+        <div class="fb--0 fg--1 p--1">
+          <h3>Competitive advantage</h3>
+          <p class="big">Multiple USP's places our product firmly ahead of the competition.</p>
         </div>
-        <div class="third">
+        <div class="fb--0 fg--1 p--1">
           <h3>Raising £250,000 funding</h3>
-          <h4>for full product development and testing, 3 full-time staff and 1000 launch units.</h4>
+          <p class="big">for full product development and testing, 3 full-time staff and 1000 launch units.</p>
         </div>
       </div>
       <hr>
       <div>
         <h3>Multi skilled team</h3>
         <div class="d--f fd--r">
-          <div class="third">
-            <h4>Phillip Penny</h4>
-            <p>Product Design</strong>
+          <div class="fb--0 fg--1 p--1">
+            <p class="big">Phillip Penny</p>
+            <p><strong>Product Design</strong>
               <br /><a href="mailto:phil@ruuts.co.uk">phil@ruuts.co.uk</a></p>
           </div>
-          <div class="third">
-            <h4>Brett Bartlett</h4>
-            <p>Horticulture Consultant</strong>
+          <div class="fb--0 fg--1 p--1">
+            <p class="big">Brett Bartlett</p>
+            <p><strong>Horticulture Consultant</strong>
               <br /><a href="mailto:brett@ruuts.co.uk">brett@ruuts.co.uk</a></p>
           </div>
-          <div class="third">
-            <h4>Ashley Banner</h4>
-            <p>Electronics Engineer</strong>
+          <div class="fb--0 fg--1 p--1">
+            <p class="big">Ashley Banner</p>
+            <p><strong>Electronics Engineer</strong>
               <br /><a href="mailto:ash@ruuts.co.uk">ash@ruuts.co.uk</a></p>
           </div>
         </div>
@@ -475,7 +490,7 @@ categories: FMP
 ## Appendix
 {: #ref .page-break}
 
-1. Based on a bottom up analysis. Approximately 8 million uk users fit the <a href="https://en.wikipedia.org/wiki/Demography_of_the_United_Kingdom#Age_structure">persona<a />, which equates to 4 million couples, placing one unit per
+1. Based on a bottom-up analysis. Approximately 8 million uk users fit the <a href="https://en.wikipedia.org/wiki/Demography_of_the_United_Kingdom#Age_structure">persona<a />, which equates to 4 million couples, placing one unit per
     family each with a potential unit spend of £200.
 2. Approximate timeline of 6 months to MVP in December 2018, a 3 month alpha test, 6 months product development, another 3 month alpha test, 3 months product development, 3 months public beta test, and launch in Autumn 2020.
 3. An initial competitor analysis reveals <a href="https://aerofarms.com/frequently-asked-questions/">high end systems</a> aimed squarely at the business and industrial markets; or <a href="https://eu.clickandgrow.com/products/the-smart-garden-9">low

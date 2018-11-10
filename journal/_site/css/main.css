@@ -68,8 +68,14 @@ h1, h2, h3, h4, h5, .site-title, .contents-title {
   text-transform: uppercase;
   text-align: left; }
 
-p, li {
+p, ul {
   font-size: 16px; }
+  p li, ul li {
+    margin-bottom: .5em; }
+  p.big, ul.big {
+    font-size: calc(16px * 1.5);
+    margin-bottom: .5em;
+    line-height: 1.25; }
 
 h5 {
   font-family: "Fanwood Text", serif;
@@ -202,27 +208,41 @@ a {
   text-decoration: none;
   font-weight: 400;
   cursor: pointer; }
-  a:visited {
-    color: #113f7c; }
   a:hover {
     text-decoration: underline; }
 
 .button {
   display: inline-block;
-  border: 1px solid #2a7ae2;
-  border-radius: 4px;
-  padding: 0.25em 0.5em;
-  margin: 0 0.25em 0.25em 0; }
+  border: 0;
+  background: #2a7ae2;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: "Rubik", sans-serif;
+  line-height: 0.9;
+  text-transform: uppercase;
+  padding: 1em;
+  margin: 0 0 1em 0;
+  transition: background .2s ease-in-out;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23); }
+  .button.disabled, .button:disabled, .button[disabled] {
+    opacity: 0.5;
+    cursor: not-allowed; }
+    .button.disabled:hover, .button:disabled:hover, .button[disabled]:hover {
+      background: #2a7ae2; }
   .button:hover {
-    background: #2a7ae2;
-    color: #ffffff;
-    text-decoration: underline; }
+    border: 0;
+    background: #144b92;
+    text-decoration: none; }
 
 .active {
   background: #2a7ae2;
   border: 1px solid #2a7ae2; }
   .active a {
     color: #ffffff; }
+
+.box {
+  padding: 1rem;
+  box-sizing: border-box; }
 
 #categories {
   margin-bottom: 1em;
@@ -288,11 +308,15 @@ pre {
  */
 .icon > svg {
   display: inline-block;
-  width: 16px;
-  height: 16px;
+  width: 32px;
+  height: 32px;
   vertical-align: middle; }
   .icon > svg path {
     fill: #828282; }
+
+.fas {
+  font-size: 4em;
+  margin: 1rem 0; }
 
 /**
  * Flexbox utility classes
@@ -384,7 +408,7 @@ pre {
 
 /* Default */
 .fb--0 {
-  flex-basis: 1; }
+  flex-basis: 0; }
 
 /* Align self */
 .as--a {
@@ -435,8 +459,9 @@ pre {
 /**
  * Storyboard layout
  */
-#storyboard div div {
-  width: 50%; }
+#storyboard img,
+#storyboard p {
+  padding: 1em; }
 
 .quarter {
   width: 25%; }
@@ -612,6 +637,102 @@ pre {
 .persona .content label + label {
   float: right; }
 
+img {
+  align-self: center !important; }
+
+#overview img {
+  width: calc(50% - 6em);
+  margin-left: 2em;
+  height: auto; }
+
+.half {
+  width: 50%; }
+
+.prototype-img {
+  width: calc(100% - 2em);
+  margin: 0 2em 0 1em; }
+
+span.mobile-only {
+  display: none; }
+
+span.desktop-only {
+  display: inline; }
+
+/* --- MOBILE --- */
+@media screen and (max-width: 798px) {
+  span.mobile-only {
+    display: inline; }
+
+  span.desktop-only {
+    display: none; }
+
+  .fd--r {
+    flex-direction: column; }
+
+  .half {
+    width: 100%; }
+
+  section {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding: 0 0 2em 0;
+    margin: 0 0 2em 0; }
+
+  img {
+    width: 100%;
+    height: auto; }
+
+  #overview img {
+    width: 100%;
+    margin-left: auto; }
+
+  #storyboard img,
+  #storyboard p {
+    padding: 0; }
+
+  .prototype-img {
+    width: 100%;
+    margin: auto; }
+
+  .quarter {
+    width: auto; }
+
+  #prototype iframe {
+    height: 90vh;
+    margin-bottom: 1em; } }
+/* --- Site Header --- */
+.site-header {
+  display: flex;
+  justify-content: flex-start;
+  background: rgba(0, 0, 0, 0.95);
+  padding: 0.5em; }
+  .site-header a {
+    margin-right: 1em;
+    line-height: 1;
+    height: 1em; }
+    .site-header a img {
+      height: 1em;
+      width: auto;
+      line-height: 1;
+      margin: 0; }
+  .site-header .site-title {
+    line-height: 1em;
+    height: 1em;
+    font-size: 1em;
+    color: rgba(255, 255, 255, 0.75);
+    padding-top: 2px; }
+
+/* --- Blog page --- */
+#post-list {
+  max-width: 40em;
+  margin: 0 auto; }
+  #post-list h2 {
+    border-bottom: none; }
+  #post-list li {
+    margin-bottom: 2em;
+    padding-bottom: 2em; }
+
 /**
  * Site header
  */
@@ -754,11 +875,6 @@ pre {
 .post-link {
   display: block;
   margin-bottom: -1em; }
-
-.button {
-  padding: 0.125em 0.25em;
-  margin: 0 0.125em 0.125em 0;
-  font-size: 12px; }
 
 /**
  * Syntax highlighting styles

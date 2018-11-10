@@ -72,8 +72,16 @@ h1, h2, h3, h4, h5, .site-title, .contents-title{
     text-align: left;
 }
 
-p, li{
+p, ul{
   font-size: $base-font-size;
+
+  li { margin-bottom: .5em; }
+
+  &.big {
+    font-size: calc(#{$base-font-size} * 1.5);
+    margin-bottom: .5em;
+    line-height: 1.25;
+  }
 }
 h5{
   font-family: $base-font-family;
@@ -223,10 +231,6 @@ a {
 	font-weight: 400;
     cursor: pointer;
 
-    &:visited {
-        color: darken($brand-color, 25%);
-    }
-
     &:hover {
         text-decoration: underline;
     }
@@ -234,15 +238,31 @@ a {
 
 .button{
         display: inline-block;
-        border: 1px solid $brand-color;
-        border-radius: 4px;
-        padding: $spacing-unit / 4 $spacing-unit / 2;
-        margin: 0 $spacing-unit / 4 $spacing-unit / 4  0;
-
-        &:hover {
+        border: 0;
         background: $brand-color;
         color: $background-color;
-        text-decoration: underline;
+        text-decoration: none;
+        font-family: $heading-font-family;
+        line-height: $heading-line-height;
+        text-transform: uppercase;
+        padding: $spacing-unit;
+        margin: 0 0 $spacing-unit 0;
+        transition: background .2s ease-in-out;
+        box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+
+        &.disabled,
+        &:disabled,
+        &[disabled]{
+          opacity: 0.5;
+          cursor: not-allowed;
+
+          &:hover { background: $brand-color; }
+        }
+
+        &:hover {
+          border: 0;
+        background: darken($brand-color, 20%);
+        text-decoration: none;
     }
 }
 .active{
@@ -253,6 +273,11 @@ a {
         color: $background-color;
     }
 }
+.box {
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
 #categories{
     margin-bottom: $spacing-unit;
     text-align: center;
@@ -350,14 +375,19 @@ pre {
 
     > svg {
         display: inline-block;
-        width: $base-font-size;
-        height: $base-font-size;
+        width: $base-font-size * 2;
+        height: $base-font-size * 2;
         vertical-align: middle;
 
         path {
             fill: $grey-color;
         }
     }
+}
+
+.fas {
+  font-size: 4em;
+  margin: 1rem 0;
 }
 
 /**
@@ -408,7 +438,7 @@ pre {
 
 /* Flex basis */
 .fb--a { flex-basis: auto; } /* Default */
-.fb--0 { flex-basis: 1; }
+.fb--0 { flex-basis: 0; }
 
 
 /* Align self */
@@ -436,7 +466,8 @@ pre {
  * Storyboard layout
  */
 
- #storyboard div div{ width: 50%; }
+#storyboard img,
+#storyboard p { padding: 1em; }
  .quarter { width: 25%; }
 
 /**
@@ -662,4 +693,103 @@ img, table{
 
 .persona .content label+label {
   float: right;
+}
+
+img { align-self: center !important; }
+
+#overview img {
+  width: calc(50% - 6em);
+  margin-left: 2em;
+  height: auto;
+}
+
+.half { width: 50% }
+
+.prototype-img {
+  width: calc(100% - 2em);
+  margin: 0 2em 0 1em;
+}
+
+span.mobile-only { display: none; }
+span.desktop-only { display: inline; }
+
+/* --- MOBILE --- */
+
+@media screen and (max-width: 798px ) {
+
+  span.mobile-only { display: inline; }
+  span.desktop-only { display: none; }
+
+  .fd--r { flex-direction: column; }
+
+  .half { width: 100% }
+
+  section {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding: 0 0 2em 0;
+    margin: 0 0 2em 0;
+  }
+
+  img { width: 100%; height: auto; }
+
+  #overview img { width: 100%; margin-left: auto; }
+
+  #storyboard img,
+  #storyboard p { padding: 0; }
+
+  .prototype-img {
+    width: 100%;
+    margin: auto;
+  }
+
+  .quarter { width: auto; }
+
+  #prototype iframe {
+    height: 90vh;
+    margin-bottom: 1em;
+  }
+
+}
+
+/* --- Site Header --- */
+.site-header {
+  display: flex;
+  justify-content: flex-start;
+  background: rgba(0,0,0,0.95);
+  padding: 0.5em;
+
+  a {
+    margin-right: 1em;
+    line-height: 1;
+    height: 1em;
+    img {
+    height: 1em;
+    width: auto;
+    line-height: 1;
+    margin: 0;
+  }
+}
+
+  .site-title {
+    line-height: 1em;
+    height: 1em;
+    font-size: 1em;
+    color: rgba(255,255,255,0.75);
+    padding-top: 2px;
+  }
+}
+/* --- Blog page --- */
+
+#post-list {
+  max-width: 40em;
+  margin: 0 auto;
+
+  h2 { border-bottom: none;}
+
+  li {
+    margin-bottom: 2em;
+    padding-bottom: 2em;
+  }
 }
