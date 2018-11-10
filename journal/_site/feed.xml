@@ -6,15 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-<<<<<<< HEAD
-    <pubDate>Sun, 04 Nov 2018 20:26:06 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Nov 2018 20:26:06 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Nov 2018 21:55:25 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Nov 2018 21:55:25 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
-=======
-    <pubDate>Wed, 07 Nov 2018 17:15:03 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Nov 2018 17:15:03 +0000</lastBuildDate>
-    <generator>Jekyll v3.8.4</generator>
->>>>>>> 8dd27d1d8debce6076dd2fdf94eb6c9e3704748a
     
       <item>
         <title>Marketing &amp; Dissemination Plan</title>
@@ -949,14 +943,14 @@ The competitor analysis has shown that the PlantIO system provides multiple USPâ
 &lt;section&gt;
 &lt;div class=&quot;content d--f fd--c ai--c&quot;&gt;
   &lt;h2&gt;Features &amp;amp; Functionality&lt;/h2&gt;
-  &lt;div class=&quot;content d--f fd--c jc--sb&quot;&gt;
-    &lt;img src=&quot;/media/ruuts__plantio--systemsDiagram.svg&quot; /&gt;
-    &lt;h3&gt;Full, automatic control of growing conditions&lt;/h3&gt;
-    &lt;h3&gt;Realtime status page with reporting&lt;/h3&gt;
-    &lt;h3&gt;Automatic error notifications&lt;/h3&gt;
-    &lt;h3&gt;PWA allows access from any device anywhere&lt;/h3&gt;
+  &lt;img src=&quot;/media/ruuts__plantio--systemsDiagram.svg&quot; /&gt;
+  &lt;ul class=&quot;h3&quot;&gt;
+  &lt;li&gt;User links PlantIO machine with their free online account&lt;/li&gt;
+  &lt;li&gt;User can select varying levels of automation on their recipe&lt;/li&gt;
+  &lt;li&gt;User can check the realtime status of their plant via the status page&lt;/li&gt;
+  &lt;li&gt;User can access the PWA through any browser&lt;/li&gt;
+  &lt;/ul&gt;
     &lt;img src=&quot;/media/ruuts__plantio--behaviourPatterns.svg&quot; /&gt;
-  &lt;/div&gt;
   &lt;p&gt;
     After germination, user plants into system &amp;amp; connects to their account.
 
@@ -977,7 +971,7 @@ The competitor analysis has shown that the PlantIO system provides multiple USPâ
 &lt;li&gt;Most advanced, automated consumer system available.&lt;span class=&quot;reference&quot;&gt; [ 3 ]&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;Ruuts have expertise in horticulture, electronics engineering and product design.&lt;/li&gt;
 &lt;li&gt;Progressive Web Application is platform independent with instant updates from a single codebase.&lt;/li&gt;
-&lt;li&gt;Affordable, bleeding edge modular technology&lt;span class=&quot;reference&quot;&gt; [ 4 ]&lt;/span&gt;&amp;gt;&lt;/li&gt;
+&lt;li&gt;Affordable, bleeding edge modular technology&lt;span class=&quot;reference&quot;&gt; [ 4 ]&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
   &lt;p&gt;
     &lt;!-- value proposition --&gt;
