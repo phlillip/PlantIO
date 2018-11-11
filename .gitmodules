@@ -1,0 +1,3 @@
+[submodule "plantio-pwa"]
+	path = plantio-pwa
+	url = https://github.com/phlillip/plantio-pwa.git
