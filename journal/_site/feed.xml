@@ -6,9 +6,32 @@
 </description>
     <link>https://plantio.ruuts.co.uk/journal/</link>
     <atom:link href="https://plantio.ruuts.co.uk/journal/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Nov 2018 22:52:40 +0000</pubDate>
-    <lastBuildDate>Sat, 10 Nov 2018 22:52:40 +0000</lastBuildDate>
-    <generator>Jekyll v3.7.3</generator>
+    <pubDate>Sun, 11 Nov 2018 20:03:24 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Nov 2018 20:03:24 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Google App Engine</title>
+        <description>&lt;p&gt;&lt;strong&gt;Having tried a number of cloud application platforms such as Heroku, OpenShift and DigitalOcean, Google App Engine was surprisingly the most user friendly.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;quick-setup-instructions&quot;&gt;Quick setup instructions&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;git clone [remote_repository_url]&lt;/li&gt;
+  &lt;li&gt;cd into repository&lt;/li&gt;
+  &lt;li&gt;npm install&lt;/li&gt;
+  &lt;li&gt;npm start (to test click web preview button)&lt;/li&gt;
+  &lt;li&gt;gcloud app deploy&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Sun, 11 Nov 2018 12:00:00 +0000</pubDate>
+        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/11/11/fmp-google-app-engine.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/11/11/fmp-google-app-engine.html</guid>
+        
+        
+        <category>FMP</category>
+        
+      </item>
     
       <item>
         <title>Marketing &amp; Dissemination Plan</title>
@@ -1502,59 +1525,6 @@ We will certainly try some new methods in the future and are now all excited at 
         <pubDate>Sun, 10 Jun 2018 12:00:00 +0100</pubDate>
         <link>https://plantio.ruuts.co.uk/journal/fmp/2018/06/10/fmp-gui-thoughts.html</link>
         <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/06/10/fmp-gui-thoughts.html</guid>
-        
-        
-        <category>FMP</category>
-        
-      </item>
-    
-      <item>
-        <title>User engagement</title>
-        <description>&lt;h2 id=&quot;how-to-get-people-hooked&quot;&gt;How to get people hooked&lt;/h2&gt;
-
-&lt;p&gt;For a long time I have waited for the opportunity to begin my food project; I managed to investigate a small part of it during the co-creative module with the production of Fūdogotchi, alongside Carl Harrisson.&lt;/p&gt;
-
-&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
-&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;McCormack, N, &amp;amp; Cotter, Managing” Burnout in the Workplace : A Guide for Information Professionals”, Elsevier Science &amp;amp; Technology, Witney, pp. 154-174, 2013.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Duckworth, E, “Piaget rediscovered by Eleanor Duckworth”, The Arithmetic Teacher, National Council of Teachers of Mathematics, vol. 11, no. 7, pp. 499, 1964.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;V. V. Edwards, “How to Resist Shiny-Object Syndrome,” Entrepreneur, pp. 16, 2017.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;S. Bradt, “Wandering mind not a happy mind”, Harvard Gazette, 2010. [Online]. Available: https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/. [Accessed: 10- May- 2018]&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;J. Dixit, “The Art of Now: Six Steps to Living in the Moment”, Psychology Today, 2008. [Online]. Available: https://www.psychologytoday.com/us/articles/200811/the-art-now-six-steps-living-in-the-moment. [Accessed: 10- May- 2018].&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mesly, O, “Project Feasibility: Tools for Uncovering Points of Vulnerability”, CRC Press, 2017.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Arrington, M, ‘Odeo Releases Twttr’, Tech Crunch, 2006. [Online]. Available: https://techcrunch.com/2006/07/15/is-twttr-interesting, [Accessed: 06-May-2018]&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;G. Chapman and J. Green, The 5 love languages. Chicago: Northfield Publishing, pp. 91-108, 1992.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, YouTube, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, GitHub, Retrieved March 08, 2018: https://github.com/curran/screencasts/tree/gh-pages/navigation&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sat, 09 Jun 2018 12:00:00 +0100</pubDate>
-        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/06/09/fmp-user-engagement.html</link>
-        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/06/09/fmp-user-engagement.html</guid>
         
         
         <category>FMP</category>
