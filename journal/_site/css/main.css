@@ -650,6 +650,9 @@ img {
 .half {
   width: 50%; }
 
+#prototype iframe {
+  margin-bottom: 1em; }
+
 .prototype-img {
   width: calc(100% - 2em);
   margin: 0 2em 0 1em; }
