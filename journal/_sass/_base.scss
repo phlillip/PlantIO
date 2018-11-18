@@ -352,7 +352,7 @@ pre {
 }
 
 @media screen{
-  .wrapper { max-width: 60em;}
+  //.wrapper { max-width: 60em;}
 }
 
 
@@ -801,13 +801,24 @@ span.desktop-only { display: inline; }
 
 /* --- Thoughts list --- */
 #thought-list {
-  max-width: 30em;
-  margin: 0 auto;
+  display: flex;
+  overflow-x: scroll;
+@media only screen and (max-width: 798px) {
+overflow-x: unset;
+flex-wrap: wrap;
+}
 
   article {
-    padding-bottom: 0;
-    margin-bottom: 2em;
+    padding: 1em 2em 1em 1em;
+    border-right: 1px solid $black;
+    min-width: 30em;
+    margin: 1em;
+    @media only screen and (max-width: 798px) {
+    width: calc(100% - 2em);
+    min-width: calc(100% - 2em);
+    border-right: none;
     border-bottom: 1px solid $black;
+    }
   }
 
   header {
@@ -830,8 +841,9 @@ span.desktop-only { display: inline; }
     align-items: center;
     justify-content: center;
     height: 3rem;
-    width: 5rem;
-    margin-right: 1em;
+    width: 6rem;
+    margin-right: 1rem;
+    @media only screen and (max-width: 798px) { min-width: 8rem; }
 
     .time { font-size: 1.5em; }
   }

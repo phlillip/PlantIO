@@ -31,8 +31,71 @@
       <div class="wrapper">
         <div class="home">
 
+<h2>Process</h2>
   <div id="thought-list" class="thoughts">
 
+    
+      
+      <article class="thought" itemscope itemtype="http://schema.org/BlogPosting">
+        <header>
+          <time datetime="" itemprop="datePublished"><span class="time">16:18</span>11-18-2018</time>
+          <h3 itemprop="name headline">Deployment without enjoyment</h3>
+        </header>
+        <div class="content" itemprop="articleBody">
+          <p>After my early confusing tests with <a href="https://firebase.google.com/">Firebase</a>, I was reluctant to
+try <a href="https://cloud.google.com/appengine/">Google App Engine</a> however I had early success, managing to sucessfully
+deploy that which failed on <a href="https://heroku.com">Heroku</a>. Alas, it was not to be. After discussion
+with Al it seems that some of these cloud platforms do not play nicely with socket.io or using
+various ports.</p>
+
+<p>Rather than remove socket.io I am going to explore the use of <a href="https://www.digitalocean.com/">Digital
+Ocean</a> and their droplets—scalable virtual machines run on 
+linux with a lot of freedom.</p>
+
+        </div>
+      </article>
+      
+    
+      
+      <article class="thought" itemscope itemtype="http://schema.org/BlogPosting">
+        <header>
+          <time datetime="" itemprop="datePublished"><span class="time">16:11</span>11-18-2018</time>
+          <h3 itemprop="name headline">Creating automatic mode</h3>
+        </header>
+        <div class="content" itemprop="articleBody">
+          <p>Having initially created the prototype with manual mode implemented, it is now important to 
+investigate automatic mode and how the user will interact. I have substituted the manual controls 
+for a slide up status panel which will provide animated, up to date detailed information about the 
+plant. The thermostat is now also in place (albeit styled roughly) and it successfully reads from 
+the chosen recipe to reach a target temperature and maintain it.</p>
+
+        </div>
+      </article>
+      
+    
+      
+      <article class="thought" itemscope itemtype="http://schema.org/BlogPosting">
+        <header>
+          <time datetime="" itemprop="datePublished"><span class="time">16:09</span>11-18-2018</time>
+          <h3 itemprop="name headline">Constructing the recipes</h3>
+        </header>
+        <div class="content" itemprop="articleBody">
+          <p>I have now rewritten the recipe function using an object constructor, with one eye on moving
+towards json files for user created recipes:</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>//Recipe constructor
+function Recipe(name, duration, light, feed, temperature)
+{   
+  this.name = name;   
+  this.duration = duration;
+  this.light = light;
+  this.feed = feed;
+  this.temperature = temperature;
+}
+</code></pre></div></div>
+
+        </div>
+      </article>
+      
     
       
       <article class="thought" itemscope itemtype="http://schema.org/BlogPosting">
@@ -306,9 +369,39 @@ set up a production environment which allows the app tyo run as a service in the
   <div class="blog-list-container hidden" id="thoughts-container">
   	
     
-      <p>3 posts containing category <b>thoughts</b></p>
+      <p>6 posts containing category <b>thoughts</b></p>
     
     <ul class="post-list">
+      
+        
+          <li>
+        	<div class="post-meta">Nov 18, 2018</div>
+	        <h2>
+	          <a class="post-link" href="/journal/thoughts/2018/11/18/deployment-without-enjoyment.html">Deployment without enjoyment</a>
+	        </h2>
+	          <p></p>
+        
+
+      
+        
+          <li>
+        	<div class="post-meta">Nov 18, 2018</div>
+	        <h2>
+	          <a class="post-link" href="/journal/thoughts/2018/11/18/creating-automatic-mode.html">Creating automatic mode</a>
+	        </h2>
+	          <p></p>
+        
+
+      
+        
+          <li>
+        	<div class="post-meta">Nov 18, 2018</div>
+	        <h2>
+	          <a class="post-link" href="/journal/thoughts/2018/11/18/constructing-the-recipes.html">Constructing the recipes</a>
+	        </h2>
+	          <p></p>
+        
+
       
         
           <li>
@@ -369,6 +462,33 @@ set up a production environment which allows the app tyo run as a service in the
 
 
   <ul id="post-list" class="post-list">
+    
+      <li>
+        <span class="post-meta">Nov 18, 2018</span>
+
+        <h2>
+          <a class="post-link" href="/journal/thoughts/2018/11/18/deployment-without-enjoyment.html">Deployment without enjoyment</a>
+        </h2>
+          <p></p>
+      </li>
+    
+      <li>
+        <span class="post-meta">Nov 18, 2018</span>
+
+        <h2>
+          <a class="post-link" href="/journal/thoughts/2018/11/18/creating-automatic-mode.html">Creating automatic mode</a>
+        </h2>
+          <p></p>
+      </li>
+    
+      <li>
+        <span class="post-meta">Nov 18, 2018</span>
+
+        <h2>
+          <a class="post-link" href="/journal/thoughts/2018/11/18/constructing-the-recipes.html">Constructing the recipes</a>
+        </h2>
+          <p></p>
+      </li>
     
       <li>
         <span class="post-meta">Nov 18, 2018</span>

@@ -294,9 +294,6 @@ pre {
   margin-left: auto;
   overflow: hidden; }
 
-@media screen {
-  .wrapper {
-    max-width: 60em; } }
 /**
  * Clearfix
  */
@@ -740,12 +737,23 @@ span.desktop-only {
 
 /* --- Thoughts list --- */
 #thought-list {
-  max-width: 30em;
-  margin: 0 auto; }
+  display: flex;
+  overflow-x: scroll; }
+  @media only screen and (max-width: 798px) {
+    #thought-list {
+      overflow-x: unset;
+      flex-wrap: wrap; } }
   #thought-list article {
-    padding-bottom: 0;
-    margin-bottom: 2em;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.95); }
+    padding: 1em 2em 1em 1em;
+    border-right: 1px solid rgba(0, 0, 0, 0.95);
+    min-width: 30em;
+    margin: 1em; }
+    @media only screen and (max-width: 798px) {
+      #thought-list article {
+        width: calc(100% - 2em);
+        min-width: calc(100% - 2em);
+        border-right: none;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.95); } }
   #thought-list header {
     display: flex;
     align-items: center;
@@ -764,8 +772,11 @@ span.desktop-only {
       align-items: center;
       justify-content: center;
       height: 3rem;
-      width: 5rem;
-      margin-right: 1em; }
+      width: 6rem;
+      margin-right: 1rem; }
+      @media only screen and (max-width: 798px) {
+        #thought-list header time {
+          min-width: 8rem; } }
       #thought-list header time .time {
         font-size: 1.5em; }
   #thought-list blockquote p {
