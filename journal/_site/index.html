@@ -31,10 +31,107 @@
       <div class="wrapper">
         <div class="home">
 
+  <div id="thought-list" class="thoughts">
+
+    
+      
+      <article class="thought" itemscope itemtype="http://schema.org/BlogPosting">
+        <header>
+          <time datetime="" itemprop="datePublished"><span class="time">15:45</span>11-18-2018</time>
+          <h3 itemprop="name headline">Promises promises promises</h3>
+        </header>
+        <div class="content" itemprop="articleBody">
+          <p>After struggling to implement callbacks I finally managed to setup a javascript 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise">promise</a> 
+in the pwa to ensure the socket.io connection is made before the recipe function begins. I am still 
+utilising fake (scheduling)[https://javascript.info/settimeout-setinterval] for the onboarding 
+recipe to create a sense of time.</p>
+
+        </div>
+      </article>
+      
+    
+      
+      <article class="thought" itemscope itemtype="http://schema.org/BlogPosting">
+        <header>
+          <time datetime="" itemprop="datePublished"><span class="time">15:28</span>11-18-2018</time>
+          <h3 itemprop="name headline">Structuring my build process</h3>
+        </header>
+        <div class="content" itemprop="articleBody">
+          <p>Writing everything by hand is fine until complexity creeps in, now I need to implement a 
+build system such as  <a href="https://gulpjs.com/">Gulp</a> or <a href="https://webpack.js.org/">Webpack</a> to take 
+some of the repetitive tasks away from me and ensure my app works across browsers and devices.</p>
+
+<p>Having started with Wepback, I came across some build errors at just stage 2 of the official docs - 
+<a href="https://webpack.js.org/guides/asset-management/">Asset Management</a>. I need to decide quickly how 
+long to spend debugging this, or to move onto Gulp.</p>
+
+        </div>
+      </article>
+      
+    
+      
+      <article class="thought" itemscope itemtype="http://schema.org/BlogPosting">
+        <header>
+          <time datetime="" itemprop="datePublished"><span class="time">14:32</span>11-18-2018</time>
+          <h3 itemprop="name headline">Setting up a production environment</h3>
+        </header>
+        <div class="content" itemprop="articleBody">
+          <p>Having successfully deployed a working build of my app to a Digital Ocean droplet, I now need to 
+set up a production environment which allows the app tyo run as a service in the background.</p>
+
+<p>After looking at <a href="https://github.com/foreverjs/forever">Forever</a> and an enticing solution by 
+<a href="https://certsimple.com/blog/deploy-node-on-linux">CertSimple</a> I was pointed to 
+<a href="http://pm2.keymetrics.io/">PM2</a> by Al and managed to instantiate a working instance.</p>
+
+<p>However, this was as root user and without the port redirect, so it needs re-implementing.</p>
+
+<blockquote>
+  <p>TODO: Set up PM2 for non-root user with custom domina and port handling.</p>
+</blockquote>
+
+        </div>
+      </article>
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+
+  </div>
 
 
-  
-  
+
+
   <div class="blog-list-container hidden" id="FMP-container">
   	
     
@@ -49,8 +146,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/11/11/fmp-google-app-engine.html">Google App Engine</a>
 	        </h2>
 	          <p>Deploying to the internet</p>
-	      </li>
         
+
       
         
           <li>
@@ -59,8 +156,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/10/02/fmp-marketing-and-dissemination-plan.html">Marketing & Dissemination Plan</a>
 	        </h2>
 	          <p>Falmouth University | MA Creative App Development | Final Major Project | PlantIO | November 2019 | Phillip David Penny | PP196285</p>
-	      </li>
         
+
       
         
           <li>
@@ -69,8 +166,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/07/25/fmp-the-design-of-hey-duggee.html">The design of Hey Duggee</a>
 	        </h2>
 	          <p>Captivating adults and children alike</p>
-	      </li>
         
+
       
         
           <li>
@@ -79,8 +176,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/07/24/fmp-modular-design-for-scale.html">Modular Design</a>
 	        </h2>
 	          <p>Enabling physical scale through design considerations</p>
-	      </li>
         
+
       
         
           <li>
@@ -89,8 +186,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/07/17/fmp-proposal.html">Project Proposal</a>
 	        </h2>
 	          <p>Falmouth University | MA Creative App Development | Final Major Project | PlantIO | July 2019 | Phillip David Penny | PP196285</p>
-	      </li>
         
+
       
         
           <li>
@@ -99,8 +196,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/06/18/fmp-peer-reviewed-papers.html">Peer Reviewed Papers</a>
 	        </h2>
 	          <p>What do the experts say?</p>
-	      </li>
         
+
       
         
           <li>
@@ -109,8 +206,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/06/14/fmp-competitor-analysis.html">Competitor Analysis</a>
 	        </h2>
 	          <p>Who is doing what in this space?</p>
-	      </li>
         
+
       
         
           <li>
@@ -119,8 +216,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/06/13/fmp-survey-creation.html">Survey creation</a>
 	        </h2>
 	          <p>What are the underlying questions?</p>
-	      </li>
         
+
       
         
           <li>
@@ -129,8 +226,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/06/12/fmp-user-focused-research.html">User focused research</a>
 	        </h2>
 	          <p>Putting the user first</p>
-	      </li>
         
+
       
         
           <li>
@@ -139,8 +236,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/06/10/fmp-gui-thoughts.html">GUI thoughts</a>
 	        </h2>
 	          <p>Picturing the interface</p>
-	      </li>
         
+
       
         
           <li>
@@ -149,8 +246,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/06/09/fmp-user-engagement.html">User engagement</a>
 	        </h2>
 	          <p>How to get people hooked</p>
-	      </li>
         
+
       
         
           <li>
@@ -159,8 +256,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/06/08/fmp-app-requirements.html">App requirements</a>
 	        </h2>
 	          <p>Nailing down the specifics</p>
-	      </li>
         
+
       
         
           <li>
@@ -169,8 +266,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/06/07/fmp-proof-of-concept.html">Proof of concept</a>
 	        </h2>
 	          <p>Visualising the solution</p>
-	      </li>
         
+
       
         
           <li>
@@ -179,8 +276,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/06/06/fmp-goals.html">Project goals</a>
 	        </h2>
 	          <p>What am I trying to achieve?</p>
-	      </li>
         
+
       
         
           <li>
@@ -189,8 +286,8 @@
 	          <a class="post-link" href="/journal/fmp/2018/06/05/fmp-research.html">Research methods</a>
 	        </h2>
 	          <p>Understanding approaches</p>
-	      </li>
         
+
       
         
           <li>
@@ -199,8 +296,49 @@
 	          <a class="post-link" href="/journal/fmp/2018/06/04/fmp-dream.html">Final Major Project</a>
 	        </h2>
 	          <p>The realisation of a dream</p>
-	      </li>
         
+
+      
+    </ul>
+  </div>
+
+
+  <div class="blog-list-container hidden" id="thoughts-container">
+  	
+    
+      <p>3 posts containing category <b>thoughts</b></p>
+    
+    <ul class="post-list">
+      
+        
+          <li>
+        	<div class="post-meta">Nov 18, 2018</div>
+	        <h2>
+	          <a class="post-link" href="/journal/thoughts/2018/11/18/promises-promises-promises.html">Promises promises promises</a>
+	        </h2>
+	          <p></p>
+        
+
+      
+        
+          <li>
+        	<div class="post-meta">Nov 18, 2018</div>
+	        <h2>
+	          <a class="post-link" href="/journal/thoughts/2018/11/18/structuring-my-build-process.html">Structuring my build process</a>
+	        </h2>
+	          <p></p>
+        
+
+      
+        
+          <li>
+        	<div class="post-meta">Nov 18, 2018</div>
+	        <h2>
+	          <a class="post-link" href="/journal/thoughts/2018/11/18/setting-up-a-production-environment.html">Setting up a production environment</a>
+	        </h2>
+	          <p></p>
+        
+
       
     </ul>
   </div>
@@ -219,10 +357,45 @@
 
     <a href onclick="filter(''); return false;" class="button blog-tag-item" id="-item">FMP</a>
 
+    
+
+
+    <!-- id="#thoughts" class="button"
+
+
+    <a href onclick="filter(''); return false;" class="button blog-tag-item" id="-item">thoughts</a>
+
 </div> -->
 
 
   <ul id="post-list" class="post-list">
+    
+      <li>
+        <span class="post-meta">Nov 18, 2018</span>
+
+        <h2>
+          <a class="post-link" href="/journal/thoughts/2018/11/18/promises-promises-promises.html">Promises promises promises</a>
+        </h2>
+          <p></p>
+      </li>
+    
+      <li>
+        <span class="post-meta">Nov 18, 2018</span>
+
+        <h2>
+          <a class="post-link" href="/journal/thoughts/2018/11/18/structuring-my-build-process.html">Structuring my build process</a>
+        </h2>
+          <p></p>
+      </li>
+    
+      <li>
+        <span class="post-meta">Nov 18, 2018</span>
+
+        <h2>
+          <a class="post-link" href="/journal/thoughts/2018/11/18/setting-up-a-production-environment.html">Setting up a production environment</a>
+        </h2>
+          <p></p>
+      </li>
     
       <li>
         <span class="post-meta">Nov 11, 2018</span>

@@ -4,10 +4,30 @@ layout: default
 
 <div class="home">
 
+  <div id="thought-list" class="thoughts">
+
+    {% for post in site.posts %}
+      {% if post.categories contains "thoughts" %}
+      <article class="thought" itemscope itemtype="http://schema.org/BlogPosting">
+        <header>
+          <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: '<span class="time">%H:%M</span>%m-%d-%Y' }}</time>
+          <h3 itemprop="name headline">{{ post.title }}</h3>
+        </header>
+        <div class="content" itemprop="articleBody">
+          {{ post.content }}
+        </div>
+      </article>
+      {% endif %}
+    {% endfor %}
+
+  </div>
+
 
 {% for category in site.categories %}
+{% unless category == "thoughts" %}
   {% assign c = category | first %}
   {% assign posts = category | last %}
+  {% endunless %}
   <div class="blog-list-container hidden" id="{{ c }}-container">
   	{% assign numPosts = posts | size %}
     {% if numPosts == 1 %}
@@ -24,8 +44,8 @@ layout: default
 	          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 	        </h2>
 	          <p>{{ post.tagline }}</p>
-	      </li>
         {% endif %}
+
       {% endfor %}
     </ul>
   </div>

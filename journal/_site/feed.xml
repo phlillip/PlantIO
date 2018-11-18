@@ -6,9 +6,69 @@
 </description>
     <link>https://plantio.ruuts.co.uk/journal/</link>
     <atom:link href="https://plantio.ruuts.co.uk/journal/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Nov 2018 22:48:21 +0000</pubDate>
-    <lastBuildDate>Sun, 11 Nov 2018 22:48:21 +0000</lastBuildDate>
-    <generator>Jekyll v3.8.4</generator>
+    <pubDate>Sun, 18 Nov 2018 15:52:26 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Nov 2018 15:52:26 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Promises promises promises</title>
+        <description>&lt;p&gt;After struggling to implement callbacks I finally managed to setup a javascript 
+&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise&quot;&gt;promise&lt;/a&gt; 
+in the pwa to ensure the socket.io connection is made before the recipe function begins. I am still 
+utilising fake (scheduling)[https://javascript.info/settimeout-setinterval] for the onboarding 
+recipe to create a sense of time.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Nov 2018 15:45:12 +0000</pubDate>
+        <link>https://plantio.ruuts.co.uk/journal/thoughts/2018/11/18/promises-promises-promises.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/thoughts/2018/11/18/promises-promises-promises.html</guid>
+        
+        
+        <category>thoughts</category>
+        
+      </item>
+    
+      <item>
+        <title>Structuring my build process</title>
+        <description>&lt;p&gt;Writing everything by hand is fine until complexity creeps in, now I need to implement a 
+build system such as  &lt;a href=&quot;https://gulpjs.com/&quot;&gt;Gulp&lt;/a&gt; or &lt;a href=&quot;https://webpack.js.org/&quot;&gt;Webpack&lt;/a&gt; to take 
+some of the repetitive tasks away from me and ensure my app works across browsers and devices.&lt;/p&gt;
+
+&lt;p&gt;Having started with Wepback, I came across some build errors at just stage 2 of the official docs - 
+&lt;a href=&quot;https://webpack.js.org/guides/asset-management/&quot;&gt;Asset Management&lt;/a&gt;. I need to decide quickly how 
+long to spend debugging this, or to move onto Gulp.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Nov 2018 15:28:47 +0000</pubDate>
+        <link>https://plantio.ruuts.co.uk/journal/thoughts/2018/11/18/structuring-my-build-process.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/thoughts/2018/11/18/structuring-my-build-process.html</guid>
+        
+        
+        <category>thoughts</category>
+        
+      </item>
+    
+      <item>
+        <title>Setting up a production environment</title>
+        <description>&lt;p&gt;Having successfully deployed a working build of my app to a Digital Ocean droplet, I now need to 
+set up a production environment which allows the app tyo run as a service in the background.&lt;/p&gt;
+
+&lt;p&gt;After looking at &lt;a href=&quot;https://github.com/foreverjs/forever&quot;&gt;Forever&lt;/a&gt; and an enticing solution by 
+&lt;a href=&quot;https://certsimple.com/blog/deploy-node-on-linux&quot;&gt;CertSimple&lt;/a&gt; I was pointed to 
+&lt;a href=&quot;http://pm2.keymetrics.io/&quot;&gt;PM2&lt;/a&gt; by Al and managed to instantiate a working instance.&lt;/p&gt;
+
+&lt;p&gt;However, this was as root user and without the port redirect, so it needs re-implementing.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;TODO: Set up PM2 for non-root user with custom domina and port handling.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 18 Nov 2018 14:32:38 +0000</pubDate>
+        <link>https://plantio.ruuts.co.uk/journal/thoughts/2018/11/18/setting-up-a-production-environment.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/thoughts/2018/11/18/setting-up-a-production-environment.html</guid>
+        
+        
+        <category>thoughts</category>
+        
+      </item>
     
       <item>
         <title>Google App Engine</title>
@@ -1366,165 +1426,6 @@ We will certainly try some new methods in the future and are now all excited at 
         <pubDate>Thu, 14 Jun 2018 12:00:00 +0100</pubDate>
         <link>https://plantio.ruuts.co.uk/journal/fmp/2018/06/14/fmp-competitor-analysis.html</link>
         <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/06/14/fmp-competitor-analysis.html</guid>
-        
-        
-        <category>FMP</category>
-        
-      </item>
-    
-      <item>
-        <title>Survey creation</title>
-        <description>&lt;h2 id=&quot;what-are-the-underlying-questions&quot;&gt;What are the underlying questions?&lt;/h2&gt;
-
-&lt;p&gt;For a long time I have waited for the opportunity to begin my food project; I managed to investigate a small part of it during the co-creative module with the production of Fūdogotchi, alongside Carl Harrisson.&lt;/p&gt;
-
-&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
-&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;McCormack, N, &amp;amp; Cotter, Managing” Burnout in the Workplace : A Guide for Information Professionals”, Elsevier Science &amp;amp; Technology, Witney, pp. 154-174, 2013.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Duckworth, E, “Piaget rediscovered by Eleanor Duckworth”, The Arithmetic Teacher, National Council of Teachers of Mathematics, vol. 11, no. 7, pp. 499, 1964.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;V. V. Edwards, “How to Resist Shiny-Object Syndrome,” Entrepreneur, pp. 16, 2017.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;S. Bradt, “Wandering mind not a happy mind”, Harvard Gazette, 2010. [Online]. Available: https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/. [Accessed: 10- May- 2018]&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;J. Dixit, “The Art of Now: Six Steps to Living in the Moment”, Psychology Today, 2008. [Online]. Available: https://www.psychologytoday.com/us/articles/200811/the-art-now-six-steps-living-in-the-moment. [Accessed: 10- May- 2018].&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mesly, O, “Project Feasibility: Tools for Uncovering Points of Vulnerability”, CRC Press, 2017.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Arrington, M, ‘Odeo Releases Twttr’, Tech Crunch, 2006. [Online]. Available: https://techcrunch.com/2006/07/15/is-twttr-interesting, [Accessed: 06-May-2018]&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;G. Chapman and J. Green, The 5 love languages. Chicago: Northfield Publishing, pp. 91-108, 1992.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, YouTube, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, GitHub, Retrieved March 08, 2018: https://github.com/curran/screencasts/tree/gh-pages/navigation&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Wed, 13 Jun 2018 12:00:00 +0100</pubDate>
-        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/06/13/fmp-survey-creation.html</link>
-        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/06/13/fmp-survey-creation.html</guid>
-        
-        
-        <category>FMP</category>
-        
-      </item>
-    
-      <item>
-        <title>User focused research</title>
-        <description>&lt;h2 id=&quot;putting-the-user-first&quot;&gt;Putting the user first&lt;/h2&gt;
-
-&lt;p&gt;For a long time I have waited for the opportunity to begin my food project; I managed to investigate a small part of it during the co-creative module with the production of Fūdogotchi, alongside Carl Harrisson.&lt;/p&gt;
-
-&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
-&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;McCormack, N, &amp;amp; Cotter, Managing” Burnout in the Workplace : A Guide for Information Professionals”, Elsevier Science &amp;amp; Technology, Witney, pp. 154-174, 2013.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Duckworth, E, “Piaget rediscovered by Eleanor Duckworth”, The Arithmetic Teacher, National Council of Teachers of Mathematics, vol. 11, no. 7, pp. 499, 1964.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;V. V. Edwards, “How to Resist Shiny-Object Syndrome,” Entrepreneur, pp. 16, 2017.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;S. Bradt, “Wandering mind not a happy mind”, Harvard Gazette, 2010. [Online]. Available: https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/. [Accessed: 10- May- 2018]&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;J. Dixit, “The Art of Now: Six Steps to Living in the Moment”, Psychology Today, 2008. [Online]. Available: https://www.psychologytoday.com/us/articles/200811/the-art-now-six-steps-living-in-the-moment. [Accessed: 10- May- 2018].&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mesly, O, “Project Feasibility: Tools for Uncovering Points of Vulnerability”, CRC Press, 2017.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Arrington, M, ‘Odeo Releases Twttr’, Tech Crunch, 2006. [Online]. Available: https://techcrunch.com/2006/07/15/is-twttr-interesting, [Accessed: 06-May-2018]&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;G. Chapman and J. Green, The 5 love languages. Chicago: Northfield Publishing, pp. 91-108, 1992.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, YouTube, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, GitHub, Retrieved March 08, 2018: https://github.com/curran/screencasts/tree/gh-pages/navigation&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 12:00:00 +0100</pubDate>
-        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/06/12/fmp-user-focused-research.html</link>
-        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/06/12/fmp-user-focused-research.html</guid>
-        
-        
-        <category>FMP</category>
-        
-      </item>
-    
-      <item>
-        <title>GUI thoughts</title>
-        <description>&lt;h2 id=&quot;picturing-the-interface&quot;&gt;Picturing the interface&lt;/h2&gt;
-
-&lt;p&gt;For a long time I have waited for the opportunity to begin my food project; I managed to investigate a small part of it during the co-creative module with the production of Fūdogotchi, alongside Carl Harrisson.&lt;/p&gt;
-
-&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
-&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;McCormack, N, &amp;amp; Cotter, Managing” Burnout in the Workplace : A Guide for Information Professionals”, Elsevier Science &amp;amp; Technology, Witney, pp. 154-174, 2013.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Duckworth, E, “Piaget rediscovered by Eleanor Duckworth”, The Arithmetic Teacher, National Council of Teachers of Mathematics, vol. 11, no. 7, pp. 499, 1964.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;V. V. Edwards, “How to Resist Shiny-Object Syndrome,” Entrepreneur, pp. 16, 2017.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;S. Bradt, “Wandering mind not a happy mind”, Harvard Gazette, 2010. [Online]. Available: https://news.harvard.edu/gazette/story/2010/11/wandering-mind-not-a-happy-mind/. [Accessed: 10- May- 2018]&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;J. Dixit, “The Art of Now: Six Steps to Living in the Moment”, Psychology Today, 2008. [Online]. Available: https://www.psychologytoday.com/us/articles/200811/the-art-now-six-steps-living-in-the-moment. [Accessed: 10- May- 2018].&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mesly, O, “Project Feasibility: Tools for Uncovering Points of Vulnerability”, CRC Press, 2017.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Arrington, M, ‘Odeo Releases Twttr’, Tech Crunch, 2006. [Online]. Available: https://techcrunch.com/2006/07/15/is-twttr-interesting, [Accessed: 06-May-2018]&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;G. Chapman and J. Green, The 5 love languages. Chicago: Northfield Publishing, pp. 91-108, 1992.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, YouTube, Retrieved March 08, 2018: https://youtu.be/xN9QxPtK2LM&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Navigation for Single Page Applications, GitHub, Retrieved March 08, 2018: https://github.com/curran/screencasts/tree/gh-pages/navigation&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sun, 10 Jun 2018 12:00:00 +0100</pubDate>
-        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/06/10/fmp-gui-thoughts.html</link>
-        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/06/10/fmp-gui-thoughts.html</guid>
         
         
         <category>FMP</category>

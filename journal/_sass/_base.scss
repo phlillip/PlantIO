@@ -18,6 +18,7 @@ $cyan: #a4cdc6;
 $orange: #efa835;
 $magenta: #cc138a;
 $lighter: 40%;
+$black: rgba(0,0,0,0.95);
 
 /**
  * Basic styling
@@ -796,4 +797,52 @@ span.desktop-only { display: inline; }
     margin-bottom: 2em;
     padding-bottom: 2em;
   }
+}
+
+/* --- Thoughts list --- */
+#thought-list {
+  max-width: 30em;
+  margin: 0 auto;
+
+  article {
+    padding-bottom: 0;
+    margin-bottom: 2em;
+    border-bottom: 1px solid $black;
+  }
+
+  header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1em;
+
+  h3 {
+    line-height: 1;
+    margin-bottom: 0;
+  }
+  time {
+    font-family: monospace;
+    font-size: .75em;
+    margin-bottom: 0;
+    background: $black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    width: 5rem;
+    margin-right: 1em;
+
+    .time { font-size: 1.5em; }
+  }
+    }
+    blockquote p {
+      font-family: monospace;
+      font-size: .75rem;
+      margin: 1rem;
+      padding: .5em;
+      color: $black;
+      border: 1px solid lighten($black, 50%);
+      text-align: left;
+    }
 }

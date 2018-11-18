@@ -738,6 +738,45 @@ span.desktop-only {
     margin-bottom: 2em;
     padding-bottom: 2em; }
 
+/* --- Thoughts list --- */
+#thought-list {
+  max-width: 30em;
+  margin: 0 auto; }
+  #thought-list article {
+    padding-bottom: 0;
+    margin-bottom: 2em;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.95); }
+  #thought-list header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1em; }
+    #thought-list header h3 {
+      line-height: 1;
+      margin-bottom: 0; }
+    #thought-list header time {
+      font-family: monospace;
+      font-size: .75em;
+      margin-bottom: 0;
+      background: rgba(0, 0, 0, 0.95);
+      color: white;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 3rem;
+      width: 5rem;
+      margin-right: 1em; }
+      #thought-list header time .time {
+        font-size: 1.5em; }
+  #thought-list blockquote p {
+    font-family: monospace;
+    font-size: .75rem;
+    margin: 1rem;
+    padding: .5em;
+    color: rgba(0, 0, 0, 0.95);
+    border: 1px solid rgba(128, 128, 128, 0.95);
+    text-align: left; }
+
 /**
  * Site header
  */
