@@ -6,8 +6,8 @@
 </description>
     <link>https://plantio.ruuts.co.uk/journal/</link>
     <atom:link href="https://plantio.ruuts.co.uk/journal/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Nov 2018 16:50:30 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Nov 2018 16:50:30 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Nov 2018 16:53:29 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Nov 2018 16:53:29 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -74,10 +74,10 @@ function Recipe(name, duration, light, feed, temperature)
     
       <item>
         <title>Promises promises promises</title>
-        <description>&lt;p&gt;After struggling to implement callbacks I finally managed to setup a javascript 
-&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise&quot;&gt;promise&lt;/a&gt; 
-in the pwa to ensure the socket.io connection is made before the recipe function begins. I am still 
-utilising fake (scheduling)[https://javascript.info/settimeout-setinterval] for the onboarding 
+        <description>&lt;p&gt;After struggling to implement callbacks I finally managed to setup a javascript
+&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise&quot;&gt;promise&lt;/a&gt;
+in the pwa to ensure the socket.io connection is made before the recipe function begins. I am still
+utilising fake &lt;a href=&quot;https://javascript.info/settimeout-setinterval&quot;&gt;scheduling&lt;/a&gt; for the onboarding 
 recipe to create a sense of time.&lt;/p&gt;
 </description>
         <pubDate>Sun, 18 Nov 2018 15:45:12 +0000</pubDate>
