@@ -6,9 +6,35 @@
 </description>
     <link>https://plantio.ruuts.co.uk/journal/</link>
     <atom:link href="https://plantio.ruuts.co.uk/journal/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Nov 2018 16:53:29 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Nov 2018 16:53:29 +0000</lastBuildDate>
+    <pubDate>Mon, 19 Nov 2018 18:46:22 +0000</pubDate>
+    <lastBuildDate>Mon, 19 Nov 2018 18:46:22 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>(Gulp) Here goes nothing</title>
+        <description>&lt;p&gt;It seems plug ‘n’ play technology only reaches a certain level; installing Gulp and running
+singular tasks worked just fine however running combined tasks (as is the case with the standard
+default task) breaks between Gulps versions 3 and 4.&lt;/p&gt;
+
+&lt;p&gt;For clarification, the old way of writing a default task:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gulp.task('default', ['sass', 'js', 'watch']);
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Must now be written like this:&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gulp.task('default', gulp.series(gulp.parallel('sass', 'js', 'watch')))
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;TODO: Segregate js code and rewrite css as sass.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Sun, 18 Nov 2018 22:00:12 +0000</pubDate>
+        <link>https://plantio.ruuts.co.uk/journal/thoughts/2018/11/18/gulp-here-goes-nothing.html</link>
+        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/thoughts/2018/11/18/gulp-here-goes-nothing.html</guid>
+        
+        
+        <category>thoughts</category>
+        
+      </item>
     
       <item>
         <title>Deployment without enjoyment</title>
@@ -797,52 +823,6 @@ The competitor analysis has shown that the PlantIO system provides multiple USP�
         <pubDate>Wed, 25 Jul 2018 12:00:00 +0100</pubDate>
         <link>https://plantio.ruuts.co.uk/journal/fmp/2018/07/25/fmp-the-design-of-hey-duggee.html</link>
         <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/07/25/fmp-the-design-of-hey-duggee.html</guid>
-        
-        
-        <category>FMP</category>
-        
-      </item>
-    
-      <item>
-        <title>Modular Design</title>
-        <description>&lt;p&gt;&lt;strong&gt;Whilst spending a weekend in an Airbnb with four of my closest friends (two couples - each with a small child) I was searching for joy amongst the sleepless nights on a communal settee. Hey Duggee was that joy.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;figure&gt;
-	&lt;img src=&quot;/media/hey-duggee.jpg&quot; alt=&quot;Hey Duggee&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I found myself captivated by the show—the simplistic style, the bite-sized episodes, &lt;em&gt;that&lt;/em&gt; theme tune and the exquisite animation, the humour of which was only topped by that of the ingenious scripts. Hey Duggee educates children &lt;em&gt;and&lt;/em&gt; entertains adults at the same time, a rarity in children’s TV.&lt;/p&gt;
-
-&lt;p&gt;Upon my return I began researching the show, confident my vector drawing skills could create a similar style to be used in my app. I found the entire show is created in Adobe Flash, and the creators actually used the limits of the program to define the style. &lt;a href=&quot;#ref&quot;&gt;[1]&lt;/a&gt; When asked about some of the things he learned, the creator commented:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;And yeah, just the practical things, really — the pipeline. Accessing files quickly, making sure everyone knows where things are, all of that. Suddenly I appreciate a good pipeline so much. Having a good pipeline is the best thing ever - Grant Orchard&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The show has an episode based around growing food &lt;a href=&quot;#ref&quot;&gt;[2]&lt;/a&gt;, and even has an app focused on the outdoors &lt;a href=&quot;#ref&quot;&gt;[3]&lt;/a&gt; so who knows - with enough success I could even attain a franchise to brand my product farther down the line.&lt;/p&gt;
-
-&lt;p&gt;Looking at my medium and restricting it to the technology available, I intend to examine Snap.svg &lt;a href=&quot;#ref&quot;&gt;[4]&lt;/a&gt; as a viable library for enhancing the UI in this area.&lt;/p&gt;
-
-&lt;p&gt;&lt;span id=&quot;ref&quot;&gt;&lt;/span&gt;
-&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Vollenbroek, T, INTERVIEW: ‘Hey Duggee’ Creator Grant Orchard On Creating An Unconventional Preschool Show, &lt;em&gt;Cartoon Brew&lt;/em&gt;, Retrieved July 25, 2018: https://www.cartoonbrew.com/tv/interview-hey-duggee-creator-grant-orchard-creating-unconventional-preschool-show-149069.html&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Kelleher, C. Hey Duggee - Series 1 - The Food Growing Badge, &lt;em&gt;YouTube&lt;/em&gt;, Retrieved July 25, 2018: https://youtu.be/7N7iIoZEaO8&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;BBC Worldwide, Hey Duggee The Big Outdoor App, Retrieved July 25, 2018: https://play.google.com/store/apps/details?id=com.bbc.heyduggeethebigoutdoorapp&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Baranovskiy, D, The Javascript library for the modern web, &lt;em&gt;Snap.svg&lt;/em&gt;, Retrieved July 25, 2018: http://snapsvg.io/&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Tue, 24 Jul 2018 12:00:00 +0100</pubDate>
-        <link>https://plantio.ruuts.co.uk/journal/fmp/2018/07/24/fmp-modular-design-for-scale.html</link>
-        <guid isPermaLink="true">https://plantio.ruuts.co.uk/journal/fmp/2018/07/24/fmp-modular-design-for-scale.html</guid>
         
         
         <category>FMP</category>
